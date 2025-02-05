@@ -21,7 +21,7 @@ Bryan Cranston,Cold Comes the Night,2013,Firearms
 Bryan Cranston,Godzilla,2014,Other
 Bryan Cranston,Trumbo,2015,Ailment
 Bryan Cranston,All the Way,2016,Ailment
-Bryan Cranston,Power Rangers,2017,Supernatural
+Bryan Cranston,Power Rangers,2017,Explosives
 Bryan Cranston,Argylle,2024,Firearms
 Janet Margolin,Morituri,1965,Firearms
 Janet Margolin,Last Embrace,1979,Impact
@@ -718,7 +718,7 @@ John Cleese,Erik The Viking,1989,Impact
 John Cleese,Mary Shelleys Frankenstein,1994,Cutting Instrument
 John Cleese,Parting Shots,1999,Firearms
 John Cleese,Harry Potter and the Philosophers Stone,2001,Blunt Objects
-John Cleese,Absolutely Anything,2015,Supernatural
+John Cleese,Absolutely Anything,2015,Animals
 John Cleese,The Palace,2023,Ailment
 Aishwarya Rai Bachchan,Iruvar,1997,Vehicular
 Aishwarya Rai Bachchan,Mohabbatein,2000,Impact
@@ -1026,7 +1026,7 @@ Adam Deacon,Comedown,2012,Firearms
 Jaime Winstone,Donkey Punch,2008,Personal Weapons
 Liz May Brice,Resident Evil,2002,Cutting Instrument
 T.K. Carter,Southern Comfort,1981,Cutting Instrument
-T.K. Carter,The Thing,1982,Supernatural
+T.K. Carter,The Thing,1982,Other
 Fred Ward,Escape from Alcatraz,1979,Drowning
 Fred Ward,Southern Comfort,1981,Cutting Instrument
 Fred Ward,The Right Stuff,1983,Explosives
@@ -1045,7 +1045,7 @@ Jon Seda,Bad Boys II,2003,Firearms
 Jon Seda,Bullet to the Head,2013,Firearms
 Holt McCallany,Creepshow 2,1987,Impact
 Holt McCallany,Shakedown,1988,Firearms
-Holt McCallany,Alien 3,1992,Supernatural
+Holt McCallany,Alien 3,1992,Other
 Holt McCallany,Jade,1995,Other
 Holt McCallany,The Peacemaker,1997,Explosives
 Holt McCallany,Below,2002,Cutting Instrument
@@ -1086,7 +1086,7 @@ Adam Baldwin,Sands of Oblivion,2007,Strangulation
 Adam Baldwin,Superman/Doomsday,2007,Narcotics
 Adam Baldwin,InSight,2011,Firearms
 Adam Baldwin,The Kid,2019,Firearms
-Carlos Bernard,Alien Raiders,2008,Supernatural
+Carlos Bernard,Alien Raiders,2008,Firearms
 Karel Roden,Crackerjack 2,1997,Explosives
 Karel Roden,15 Minutes,2001,Firearms
 Karel Roden,Blade II,2002,Cutting Instrument
@@ -1166,7 +1166,7 @@ Ross Noble,Nails,2017,Other
 Hugh Mulhern,Stitches,2012,Cutting Instrument
 Roisin Barron,Stitches,2012,Cutting Instrument
 Timothy Olyphant,Scream 2,1997,Firearms
-Timothy Olyphant,Dreamcatcher,2003,Supernatural
+Timothy Olyphant,Dreamcatcher,2003,Other
 Timothy Olyphant,A Man Apart,2003,Firearms
 Timothy Olyphant,Live Free or Die Hard,2007,Firearms
 Timothy Olyphant,I Am Number Four,2011,Cutting Instrument
@@ -1202,12 +1202,12 @@ Craig Fairbrass,Avengement,2019,Cutting Instrument
 Sílvia Marsó,La Madre Muerta,1993,Cutting Instrument
 Lio,La Madre Muerta,1993,Impact
 Rockmond Dunbar,Kiss Kiss Bang Bang,2005,Firearms
-Rockmond Dunbar,Alien Raiders,2008,Supernatural
+Rockmond Dunbar,Alien Raiders,2008,Firearms
 Rockmond Dunbar,Edge of Fear,2018,Firearms
 Jeffrey Licon,Snoop Doggs Hood of Horror,2006,Supernatural
-Jeffrey Licon,Alien Raiders,2008,Supernatural
-Derek Basco,Alien Raiders,2008,Supernatural
-Keith Hudson,Alien Raiders,2008,Supernatural
+Jeffrey Licon,Alien Raiders,2008,Ailment
+Derek Basco,Alien Raiders,2008,Ailment
+Keith Hudson,Alien Raiders,2008,Firearms
 Keith Hudson,Baby Driver,2017,Firearms
 Dylan McDermott,Hardware,1990,Personal Weapons
 Dylan McDermott,In the Line of Fire,1993,Firearms
@@ -1590,7 +1590,7 @@ Clancy Brown,Past Midnight,1991,Cutting Instrument
 Clancy Brown,Pet Sematary Two,1992,Supernatural
 Clancy Brown,Pathfinder,2007,Impact
 Clancy Brown,The Burrowers,2008,Firearms
-Clancy Brown,Cowboys & Aliens,2011,Supernatural
+Clancy Brown,Cowboys & Aliens,2011,Cutting Instrument
 Clancy Brown,Green Lantern,2011,Supernatural
 Clancy Brown,Hellbenders,2013,Supernatural
 Clancy Brown,Warcraft,2016,Cutting Instrument
@@ -1895,7 +1895,7 @@ Tim Robbins,Mission to Mars,2000,Other
 Tim Robbins,Human Nature,2001,Firearms
 Tim Robbins,The Truth About Charlie,2002,Poison
 Tim Robbins,Mystic River,2003,Drowning
-Tim Robbins,War of the Worlds,2005,Supernatural
+Tim Robbins,War of the Worlds,2005,Other
 Tim Robbins,Green Lantern,2011,Fire
 Peter Jason,Rio Lobo,1970,Blunt Objects
 Peter Jason,The Long Riders,1980,Firearms
@@ -2131,7 +2131,7 @@ Gary Sinise,Albino Alligator,1996,Animals
 Gary Sinise,Ransom,1996,Firearms
 Gary Sinise,Snake Eyes,1998,Animals
 Gary Sinise,Reindeer Games,2000,Firearms
-Gary Sinise,Impostor,2001,Supernatural
+Gary Sinise,Impostor,2001,Cutting Instrument
 Gary Sinise,The Big Bounce,2004,Impact
 Peter Weller,RoboCop,1987,Firearms
 Peter Weller,Screamers,1995,Animals
@@ -2273,7 +2273,7 @@ Stephen Elliott,Three Hours To Kill,1954,Firearms
 Stephen Elliott,Cutters Way,1981,Strangulation
 Kevin McCarthy,Ace High,1968,Other
 Kevin McCarthy,Dead Right,1968,Firearms
-Kevin McCarthy,Dan Candys Law,1974,Supernatural
+Kevin McCarthy,Dan Candys Law,1974,Weather
 Kevin McCarthy,Order to Kill,1975,Firearms
 Kevin McCarthy,Invasion of the Body Snatchers,1978,Supernatural
 Kevin McCarthy,Piranha,1978,Animals
@@ -2300,7 +2300,7 @@ M. Emmet Walsh,Twilight,1998,Firearms
 M. Emmet Walsh,Erasable You,1998,Firearms
 M. Emmet Walsh,The Odd Life of Timothy Green,2012,Ailment
 Ed Nelson,Attack of the Crab Monsters,1957,Supernatural
-Ed Nelson,The Brain Eaters,1958,Supernatural
+Ed Nelson,The Brain Eaters,1958,Firearms
 Ed Nelson,Devils Partner,1961,Supernatural
 Ed Nelson,Airport 1975,1974,Impact
 Corey Johnson,Saving Private Ryan,1998,Firearms
@@ -2356,8 +2356,8 @@ Johnny Harris,Black Death,2010,Cutting Instrument
 Johnny Harris,Welcome to the Punch,2013,Personal Weapons
 Johnny Harris,The Last Days on Mars,2013,Ailment
 Johnny Harris,Monsters: Dark Continent,2014,Supernatural
-Eric Christian Olsen,The Thing,2011,Supernatural
-Charles Hallahan,The Thing,1982,Supernatural
+Eric Christian Olsen,The Thing,2011,Explosives
+Charles Hallahan,The Thing,1982,Ailment
 Charles Hallahan,Pale Rider,1985,Firearms
 Charles Hallahan,True Believer,1989,Ailment
 Charles Hallahan,The Fan,1996,Blunt Objects
@@ -2392,13 +2392,13 @@ Ernest Borgnine,BASEketball,1998,Strangulation
 Ernest Borgnine,Small Soldiers,1998,Vehicular
 Ernest Borgnine,Hoover,2000,Ailment
 Ernest Borgnine,Aces n Eights,2008,Firearms
-David Clennon,The Thing,1982,Supernatural
+David Clennon,The Thing,1982,Fire
 David Clennon,Sweet Dreams,1985,Vehicular
 David Clennon,Betrayed,1988,Firearms
 Peter Maloney,Capone,1975,Ailment
-Peter Maloney,The Thing,1982,Supernatural
+Peter Maloney,The Thing,1982,Fire
 Andrea Riseborough,W.E.,2011,Ailment
-Andrea Riseborough,Oblivion,2013,Supernatural
+Andrea Riseborough,Oblivion,2013,Explosives
 Andrea Riseborough,Welcome to the Punch,2013,Personal Weapons
 Andrea Riseborough,Mandy,2018,Firearms
 Andrea Riseborough,The Grudge,2020,Supernatural
@@ -2416,7 +2416,7 @@ Keith David,The Nice Guys,2016,Firearms
 Keith David,Horizon Line,2020,Vehicular
 Keith David,Black as Night,2021,Supernatural
 Keith David,The Seventh Day,2021,Firearms
-Keith David,Nope,2022,Supernatural
+Keith David,Nope,2022,Impact
 Keith David,American Fiction,2023,Firearms
 Keith David,Mufasa: The Lion King,2024,Animals
 Kurt Russell,The Thing,1982,Weather
@@ -2592,7 +2592,7 @@ Ulrich Thomsen,Hitman,2007,Firearms
 Ulrich Thomsen,Tell Tale,2009,Firearms
 Ulrich Thomsen,The International,2009,Firearms
 Ulrich Thomsen,Season of the Witch,2010,Cutting Instrument
-Ulrich Thomsen,The Thing,2011,Supernatural
+Ulrich Thomsen,The Thing,2011,Explosives
 Jeff Goldblum,Invasion of the Body Snatchers,1978,Supernatural
 Jeff Goldblum,Silverado,1985,Cutting Instrument
 Jeff Goldblum,The Fly,1986,Cutting Instrument
@@ -2674,7 +2674,7 @@ Michael Pate,Tower of London,1962,Cutting Instrument
 Michael Pate,Major Dundee,1965,Firearms
 Warren Stevens,The Man From Bitter Ridge,1955,Firearms
 Warren Stevens,Robbers Roost,1955,Firearms
-Warren Stevens,Forbidden Planet,1956,Supernatural
+Warren Stevens,Forbidden Planet,1956,Other
 Warren Stevens,Gunpoint,1966,Firearms
 Bela Lugosi,The Veiled Woman,1929,Other
 Bela Lugosi,Dracula,1931,Cutting Instrument
@@ -2737,7 +2737,7 @@ Don Gordon,Cry Tough,1959,Cutting Instrument
 Don Gordon,The Mack,1973,Firearms
 Don Gordon,Omen III: The Final Conflict,1981,Other
 Don Gordon,The Beast Within,1982,Supernatural
-Don Gordon,The Borrower,1991,Supernatural
+Don Gordon,The Borrower,1991,Other
 Edward Binns,Vice Squad,1953,Firearms
 Edward Binns,Fail-Safe,1964,Explosives
 Edward Binns,Night Moves,1975,Drowning
@@ -3113,7 +3113,7 @@ Eric Bana,The Forgiven,2017,Personal Weapons
 Chris Mulkey,Runaway,1984,Firearms
 Chris Mulkey,The Living,2014,Firearms
 Chris Mulkey,Quiet Cool,1986,Impact
-Chris Mulkey,The Hidden,1987,Supernatural
+Chris Mulkey,The Hidden,1987,Other
 Chris Mulkey,Decoding Annie Parker,2013,Ailment
 Chris Mulkey,Gotti,2018,Vehicular
 Chris Mulkey,The Standoff at Sparrow Creek,2019,Firearms
@@ -3469,7 +3469,7 @@ Rod Steiger,Incognito,1997,Other
 Rod Steiger,"Truth or Consequences, N.M.",1997,Firearms
 Rod Steiger,Cypress Edge,1999,Explosives
 Pete Postlethwaite,Hamlet,1990,Poison
-Pete Postlethwaite,Alien 3,1992,Supernatural
+Pete Postlethwaite,Alien 3,1992,Blunt Objects
 Pete Postlethwaite,The Last of the Mohicans,1992,Impact
 Pete Postlethwaite,In the Name of the Father,1993,Other
 Pete Postlethwaite,Suite 16,1995,Blunt Objects
@@ -3830,7 +3830,7 @@ Martin Landau,They Call Me MISTER Tibbs!,1970,Vehicular
 Martin Landau,A Town Called Hell,1971,Cutting Instrument
 Martin Landau,Black Gunn,1972,Firearms
 Martin Landau,Meteor,1979,Impact
-Martin Landau,Without Warning,1980,Supernatural
+Martin Landau,Without Warning,1980,Personal Weapons
 Martin Landau,Alone in the Dark,1982,Cutting Instrument
 Martin Landau,The Being,1983,Cutting Instrument
 Martin Landau,Cyclone,1987,Weather
@@ -3959,7 +3959,7 @@ Demián Bichir,Dom Hemingway,2013,Cutting Instrument
 Demián Bichir,Machete Kills,2013,Cutting Instrument
 Demián Bichir,Muerte En Buenos Aires,2014,Firearms
 Demián Bichir,The Hateful Eight,2015,Firearms
-Demián Bichir,Alien: Covenant,2017,Supernatural
+Demián Bichir,Alien: Covenant,2017,Explosives
 Demián Bichir,Chaos Walking,2021,Firearms
 Demián Bichir,Godzilla vs. Kong,2021,Impact
 Demián Bichir,Land,2021,Ailment
@@ -3976,7 +3976,7 @@ Cliff Potts,"Cry for Me, Billy",1972,Firearms
 Cliff Potts,Silent Running,1972,Strangulation
 James Arness,Battleground,1949,Firearms
 James Arness,Wagonmaster,1950,Firearms
-James Arness,The Thing from Another World,1951,Supernatural
+James Arness,The Thing from Another World,1951,Other
 James Arness,Hellgate,1952,Other
 James Arness,Horizons West,1952,Firearms
 James Arness,Big Jim McLain,1952,Narcotics
@@ -4065,7 +4065,7 @@ Tony Todd,Tales From the Hood 3,2020,Cutting Instrument
 Tony Todd,The Lockdown Hauntings,2021,Supernatural
 Teddy Sears,Curve,2015,Animals
 Lara Flynn Boyle,Mobsters,1991,Firearms
-Lara Flynn Boyle,Men in Black II,2002,Supernatural
+Lara Flynn Boyle,Men in Black II,2002,Explosives
 Lara Flynn Boyle,Land of the Blind,2006,Firearms
 Alexander Godunov,Die Hard,1988,Firearms
 Alexander Godunov,Waxwork II: Lost in Time,1992,Supernatural
@@ -4189,7 +4189,7 @@ Christopher Lloyd,Back to the Future Part II,1989,Ailment
 Christopher Lloyd,Back to the Future Part III,1990,Firearms
 Christopher Lloyd,Angels in the Outfield,1994,Supernatural
 Christopher Lloyd,Things to Do in Denver When Youre Dead,1995,Firearms
-Christopher Lloyd,My Favorite Martian,1999,Supernatural
+Christopher Lloyd,My Favorite Martian,1999,Other
 Christopher Lloyd,Dead Before Dawn 3D,2012,Cutting Instrument
 Christopher Lloyd,Blood Lake: Attack of the Killer Lampreys,2014,Drowning
 Christopher Lloyd,88,2015,Firearms
@@ -4257,7 +4257,7 @@ John Travolta,In a Valley of Violence,2016,Firearms
 John Travolta,Life on the Line,2016,Impact
 John Travolta,Gotti,2018,Ailment
 John Travolta,Speed Kills,2018,Narcotics
-Clarence Felder,The Hidden,1987,Supernatural
+Clarence Felder,The Hidden,1987,Other
 Clarence Felder,The Last Boy Scout,1991,Firearms
 Michael Parks,Ffolkes,1980,Drowning
 Michael Parks,Nightmare Beach,1989,Firearms
@@ -4486,7 +4486,7 @@ Ed Lauter,Starship Troopers 2: Hero of the Federation,2004,Ailment
 Ed Lauter,Seraphim Falls,2006,Impact
 David Naughton,An American Werewolf in London,1981,Supernatural
 David Naughton,Ice Cream Man,1995,Cutting Instrument
-Seth Rogen,Paul,2011,Supernatural
+Seth Rogen,Paul,2011,Firearms
 Seth Rogen,This is the End,2013,Other
 Seth Rogen,Arizona,2018,Impact
 Brian Van Holt,Windtalkers,2002,Firearms
@@ -4694,7 +4694,7 @@ William Hurt,Avengers: Infinity War,2018,Weather
 Raymond Cruz,Twice Dead,1988,Supernatural
 Raymond Cruz,Out For Justice,1991,Personal Weapons
 Raymond Cruz,The Rock,1996,Blunt Objects
-Raymond Cruz,Alien: Resurrection,1997,Supernatural
+Raymond Cruz,Alien: Resurrection,1997,Impact
 Raymond Cruz,The Last Marshal,1999,Firearms
 Raymond Cruz,From Dusk Till Dawn 2: Texas Blood Money,1999,Supernatural
 Raymond Cruz,Collateral Damage,2002,Narcotics
@@ -4802,7 +4802,7 @@ Richard Boone (I),The Shootist,1976,Firearms
 Richard Boone (I),The Big Sleep,1978,Firearms
 Richard Boone (I),Winter Kills,1979,Firearms
 Lenny Venito,Gigli,2003,Firearms
-Lenny Venito,War of the Worlds,2005,Supernatural
+Lenny Venito,War of the Worlds,2005,Vehicular
 John Crawford,Zombies of the Stratosphere,1952,Supernatural
 John Crawford,Solomon and Sheba,1959,Cutting Instrument
 John Crawford,Hell is A City,1960,Strangulation
@@ -4851,7 +4851,7 @@ Bill Paxton,Frailty,2001,Cutting Instrument
 Bill Paxton,Broken Lizards Club Dread,2004,Blunt Objects
 Bill Paxton,2 Guns,2013,Firearms
 Bill Paxton,The Colony,2013,Firearms
-Bill Paxton,Edge of Tomorrow,2014,Supernatural
+Bill Paxton,Edge of Tomorrow,2014,Personal Weapons
 Bill Paxton,Term Life,2016,Vehicular
 Bill Paxton,Mean Dreams,2016,Firearms
 Heather Hopper,Elviras Haunted Hills,2001,Impact
@@ -4896,7 +4896,7 @@ Mischa Auer,Mata Hari,1931,Firearms
 Mischa Auer,The Sign of the Cross,1932,Other
 Mischa Auer,And Then There Were None,1945,Strangulation
 Maurice Evans,Rosemarys Baby,1968,Impact
-Maurice Evans,Out of Thin Air,1969,Supernatural
+Maurice Evans,Out of Thin Air,1969,Firearms
 Maurice Evans,Beneath the Planet of the Apes,1970,Explosives
 Maurice Evans,A Caribbean Mystery,1983,Poison
 Danny DeVito,Johnny Dangerously,1984,Animals
@@ -4904,7 +4904,7 @@ Danny DeVito,Head Office,1985,Impact
 Danny DeVito,Batman Returns,1992,Poison
 Danny DeVito,Hoffa,1992,Firearms
 Danny DeVito,Mars Attacks!,1996,Explosives
-Danny DeVito,Space Jam,1996,Supernatural
+Danny DeVito,Space Jam,1996,Explosives
 Danny DeVito,L.A. Confidential,1997,Personal Weapons
 Danny DeVito,Heist,2001,Firearms
 Danny DeVito,Death to Smoochy,2002,Firearms
@@ -4933,7 +4933,7 @@ Michael Fassbender,A Dangerous Method,2011,Ailment
 Michael Fassbender,Haywire,2011,Firearms
 Michael Fassbender,Macbeth,2015,Cutting Instrument
 Michael Fassbender,Steve Jobs,2015,Ailment
-Michael Fassbender,Alien: Covenant,2017,Supernatural
+Michael Fassbender,Alien: Covenant,2017,Cutting Instrument
 Richard Dawson,The Running Man,1987,Explosives
 Erland van Lidth,Alone in the Dark,1982,Cutting Instrument
 Erland van Lidth,The Running Man,1987,Firearms
@@ -4942,7 +4942,7 @@ Gabi Andronache,Elviras Haunted Hills,2001,Impact
 Mary Scheer,Elviras Haunted Hills,2001,Other
 Dick Miller,Apache Woman,1955,Impact
 Dick Miller,Gunslinger,1956,Firearms
-Dick Miller,Not of This Earth,1957,Supernatural
+Dick Miller,Not of This Earth,1957,Other
 Dick Miller,A Bucket of Blood,1959,Strangulation
 Dick Miller,Premature Burial,1962,Cutting Instrument
 Dick Miller,The Terror,1963,Supernatural
@@ -5036,7 +5036,7 @@ James McAvoy,Glass,2019,Firearms
 James McAvoy,Speak No Evil,2024,Blunt Objects
 Roddy Piper,They Live,1988,Firearms
 Roddy Piper,Shepherd,1999,Explosives
-Roddy Piper,Alien Opponent,2010,Supernatural
+Roddy Piper,Alien Opponent,2010,Firearms
 Roddy Piper,Dont Look Back,2014,Cutting Instrument
 Carrie Genzel,Evil Feed,2013,Cutting Instrument
 Tom Cruise,Taps,1981,Firearms
@@ -5048,8 +5048,8 @@ Tom Cruise,Minority Report,2002,Firearms
 Tom Cruise,Collateral,2004,Firearms
 Tom Cruise,Mission: Impossible III,2006,Explosives
 Tom Cruise,Valkyrie,2008,Supernatural
-Tom Cruise,Oblivion,2013,Supernatural
-Tom Cruise,Edge of Tomorrow,2014,Supernatural
+Tom Cruise,Oblivion,2013,Other
+Tom Cruise,Edge of Tomorrow,2014,Explosives
 Tom Cruise,Mission: Impossible – Rogue Nation,2015,Drowning
 Tom Cruise,American Made,2017,Animals
 Tom Cruise,The Mummy,2017,Supernatural
@@ -5561,7 +5561,7 @@ Corbin Bernsen,Tales from the Hood,1995,Supernatural
 Corbin Bernsen,Temptress,1995,Cutting Instrument
 Corbin Bernsen,Raptor,2001,Other
 Corbin Bernsen,Dead Above Ground,2002,Cutting Instrument
-Corbin Bernsen,They Are Among Us,2004,Supernatural
+Corbin Bernsen,They Are Among Us,2004,Poison
 Corbin Bernsen,Raging Sharks,2005,Animals
 Corbin Bernsen,Kiss Kiss Bang Bang,2005,Firearms
 Corbin Bernsen,Larceny,2017,Firearms
@@ -5592,7 +5592,7 @@ Bruce Campbell,Holding It,1978,Firearms
 Bruce Campbell,Attack of the Helping Hand!,1979,Other
 Bruce Campbell,The Evil Dead,1981,Fire
 Bruce Campbell,Crimewave,1985,Firearms
-Bruce Campbell,Moontrap,1988,Supernatural
+Bruce Campbell,Moontrap,1988,Other
 Bruce Campbell,Maniac Cop 2,1990,Cutting Instrument
 Bruce Campbell,Army of Darkness,1992,Fire
 Bruce Campbell,Congo,1995,Animals
@@ -5767,7 +5767,7 @@ John Hurt,A Man for All Seasons,1966,Ailment
 John Hurt,10 Rillington Place,1971,Strangulation
 John Hurt,The Ghoul,1975,Supernatural
 John Hurt,East of Elephant Rock,1977,Animals
-John Hurt,Alien,1979,Supernatural
+John Hurt,Alien,1979,Explosives
 John Hurt,The Elephant Man,1980,Animals
 John Hurt,Heavens Gate,1980,Personal Weapons
 John Hurt,The Osterman Weekend,1983,Firearms
@@ -5775,7 +5775,7 @@ John Hurt,The Hit,1984,Firearms
 John Hurt,Nineteen Eighty-Four,1984,Other
 John Hurt,After Darkness,1985,Cutting Instrument
 John Hurt,Jake Speed,1986,Narcotics
-John Hurt,Spaceballs,1987,Supernatural
+John Hurt,Spaceballs,1987,Explosives
 John Hurt,Aria,1987,Other
 John Hurt,Little Sweetheart,1989,Firearms
 John Hurt,Scandal,1989,Narcotics
@@ -6006,7 +6006,7 @@ Rutger Hauer,The Sisters Brothers,2018,Supernatural
 Rutger Hauer,The Sonata,2020,Fire
 Michael Bailey Smith,Best of the Best 3: No Turning Back,1995,Impact
 Michael Bailey Smith,My Favorite Martian,1999,Supernatural
-Michael Bailey Smith,Men in Black II,2002,Supernatural
+Michael Bailey Smith,Men in Black II,2002,Other
 Michael Bailey Smith,The Hills Have Eyes,2006,Cutting Instrument
 Michael Bailey Smith,The Hills Have Eyes 2,2007,Cutting Instrument
 R. Lee Ermey,Full Metal Jacket,1987,Firearms
@@ -6024,7 +6024,7 @@ R. Lee Ermey,Life,1999,Firearms
 R. Lee Ermey,The Chaos Factor,2000,Vehicular
 R. Lee Ermey,The Texas Chainsaw Massacre,2003,Cutting Instrument
 R. Lee Ermey,Willard,2003,Other
-R. Lee Ermey,The Watch,2012,Supernatural
+R. Lee Ermey,The Watch,2012,Personal Weapons
 Larry Drake,Darkman,1990,Vehicular
 Larry Drake,Dr. Giggles,1992,Cutting Instrument
 Larry Drake,Darkman II: The Return of Durant,1995,Explosives
@@ -6173,7 +6173,7 @@ Dexter Fletcher,Terminal,2018,Ailment
 J.K. Simmons,The Jackal,1997,Firearms
 J.K. Simmons,The Ladykillers,2004,Impact
 J.K. Simmons,Postal,2007,Impact
-J.K. Simmons,Aliens in the Attic,2009,Supernatural
+J.K. Simmons,Aliens in the Attic,2009,Other
 J.K. Simmons,Red Sands,2009,Fire
 J.K. Simmons,21 Bridges,2019,Impact
 J.K. Simmons,Palm Spring,2020,Other
@@ -6229,7 +6229,7 @@ Charles Dance,White Mischief,1987,Firearms
 Charles Dance,Pascalis Island,1988,Firearms
 Charles Dance,The Phantom of the Opera,1990,Supernatural
 Charles Dance,China Moon,1991,Drowning
-Charles Dance,Alien 3,1992,Supernatural
+Charles Dance,Alien 3,1992,Other
 Charles Dance,Last Action Hero,1993,Firearms
 Charles Dance,Exquisite Tenderness,1995,Cutting Instrument
 Charles Dance,Michael Collins,1996,Firearms
@@ -6324,7 +6324,7 @@ Robert Duvall,Wild Horses,2015,Ailment
 Robert Duvall,Widows,2018,Firearms
 Robert Duvall,Hustle,2022,Ailment
 Kevin Peter Hall,Prophecy,1979,Animals
-Kevin Peter Hall,Without Warning,1980,Supernatural
+Kevin Peter Hall,Without Warning,1980,Explosives
 Kevin Peter Hall,Monster in the Closet,1986,Supernatural
 Kevin Peter Hall,Predator,1987,Supernatural
 Kevin Peter Hall,Predator 2,1990,Supernatural
@@ -6617,7 +6617,7 @@ Jeremy Slate,Hells Angels 69,1969,Supernatural
 Jeremy Slate,True Grit,1969,Firearms
 Jeremy Slate,The Lawnmower Man,1992,Fire
 Jo Adrian Haavind,The Thing,2011,Cutting Instrument
-Paul Braunstein,The Thing,2011,Supernatural
+Paul Braunstein,The Thing,2011,Other
 Paul Braunstein,Jigsaw,2017,Strangulation
 Paul Braunstein,American Hangman,2019,Firearms
 Carsten Bjørnlund,The Thing,2011,Cutting Instrument
@@ -6870,7 +6870,7 @@ Claire Bloom,Daylight,1996,Weather
 Claire Bloom,Imogens Face,1998,Ailment
 Claire Bloom,Max Rose,2013,Ailment
 Robert Ginty,The Alchemist,1983,Other
-Lenore Kasdorf,Starship Troopers,1997,Supernatural
+Lenore Kasdorf,Starship Troopers,1997,Vehicular
 Jack Swanson,Lonely Hearts,2006,Firearms
 Don Stallings,Haunted Mansion,2023,Supernatural
 Diane Hetfield,Jaws: The Revenge,1987,Animals
@@ -7112,7 +7112,7 @@ Jake Gyllenhaal,Source Code,2011,Cutting Instrument
 Jake Gyllenhaal,Enemy,2013,Vehicular
 Jake Gyllenhaal,Everest,2015,Ailment
 Jake Gyllenhaal,Nocturnal Animals,2016,Firearms
-Jake Gyllenhaal,Life,2017,Supernatural
+Jake Gyllenhaal,Life,2017,Other
 Jake Gyllenhaal,The Sisters Brothers,2018,Firearms
 Jake Gyllenhaal,Velvet Buzzsaw,2019,Supernatural
 Jake Gyllenhaal,Spider-Man: Far From Home,2019,Animals
@@ -7130,7 +7130,7 @@ Jean Marsh,Dark Places,1974,Strangulation
 Jean Marsh,The Eagle Has Landed,1976,Animals
 Jean Marsh,The Changeling,1980,Supernatural
 Jean Marsh,Willow,1988,Weather
-Andrew Keegan,Independence Day,1996,Supernatural
+Andrew Keegan,Independence Day,1996,Other
 Andrew Keegan,Cruel World,2005,Strangulation
 Bill Hader,Pineapple Express,2008,Firearms
 Bill Hader,Paul,2011,Explosives
@@ -7282,8 +7282,8 @@ Chris Kattan,Monkeybone,2001,Supernatural
 Chris Kattan,Undercover Brother,2002,Animals
 Chris Kattan,Santas Slay,2005,Personal Weapons
 Chris Kattan,Foodfight,2012,Other
-Leland Orser,Independence Day,1996,Supernatural
-Leland Orser,Alien: Resurrection,1997,Supernatural
+Leland Orser,Independence Day,1996,Other
+Leland Orser,Alien: Resurrection,1997,Explosives
 Leland Orser,Invader,1997,Explosives
 Leland Orser,The Bone Collector,1999,Firearms
 Leland Orser,Dead Badge,1999,Other
@@ -7332,7 +7332,7 @@ Michael Rooker,Shadow Builder,1998,Cutting Instrument
 Michael Rooker,The Bone Collector,1999,Cutting Instrument
 Michael Rooker,The 6th Day,2000,Drowning
 Michael Rooker,The Eliminator,2004,Other
-Michael Rooker,Slither,2006,Supernatural
+Michael Rooker,Slither,2006,Explosives
 Michael Rooker,Whisper,2007,Ailment
 Michael Rooker,Hypothermia,2010,Weather
 Michael Rooker,Super,2011,Blunt Objects
@@ -7579,7 +7579,7 @@ April Pearson,Fractured,2016,Cutting Instrument
 Georgia King,Tormented,2009,Drowning
 Georgia King,Kill Your Friends,2015,Cutting Instrument
 Tom Skerritt,Big Bad Mama,1974,Firearms
-Tom Skerritt,Alien,1979,Supernatural
+Tom Skerritt,Alien,1979,Cutting Instrument
 Tom Skerritt,Opposing Force,1986,Firearms
 Tom Skerritt,Wild Orchid II: Two Shades of Blue,1991,Supernatural
 Tom Skerritt,Knight Moves,1992,Cutting Instrument
@@ -7770,7 +7770,7 @@ Halle Berry,X-Men: Days of Future Past,2014,Cutting Instrument
 Halle Berry,Never Let Go,2024,Cutting Instrument
 Dorothy Dandridge,Carmen Jones,1954,Strangulation
 Petula Clark,"Goodbye, Mr. Chips",1969,Impact
-Joanie Laurer,Illegal Aliens,2007,Supernatural
+Joanie Laurer,Illegal Aliens,2007,Explosives
 Sheryl Crow,The Minus Man,1999,Poison
 Diana Ross,Lady Sings the Blues,1972,Narcotics
 Sarah Jessica Parker,Honeymoon in Vegas,1992,Ailment
@@ -8472,13 +8472,13 @@ Michael Wincott,The Three Musketeers,1993,Cutting Instrument
 Michael Wincott,The Crow,1994,Cutting Instrument
 Michael Wincott,Dead Man,1995,Firearms
 Michael Wincott,Strange Days,1995,Firearms
-Michael Wincott,Alien: Resurrection,1997,Supernatural
+Michael Wincott,Alien: Resurrection,1997,Other
 Michael Wincott,Metro,1997,Fire
 Michael Wincott,Along Came a Spider,2001,Animals
 Michael Wincott,The Count of Monte Cristo,2002,Drowning
 Michael Wincott,Seraphim Falls,2006,Impact
 Michael Wincott,Ghost in the Shell,2017,Supernatural
-Michael Wincott,Nope,2022,Supernatural
+Michael Wincott,Nope,2022,Firearms
 Jeff Wincott,Profile for Murder,1996,Impact
 Jeff Wincott,Universal Soldier II: Brothers in Arms,1998,Personal Weapons
 Jeff Wincott,Universal Soldier III: Unfinished Business,1999,Explosives
@@ -8549,7 +8549,7 @@ Richard Moll,Night Train to Terror,1985,Supernatural
 Richard Moll,House,1986,Firearms
 Richard Moll,Terminal Force,1995,Ailment
 Richard Moll,The Secret Agent Club,1996,Blunt Objects
-Richard Moll,The Survivor,1998,Supernatural
+Richard Moll,The Survivor,1998,Other
 Richard Moll,Scary Movie 2,2001,Supernatural
 Richard Moll,Spiders II: Breeding Ground,2001,Animals
 Richard Moll,Angel Blade,2002,Supernatural
@@ -8696,7 +8696,7 @@ Eric Idle,Monty Python and the Holy Grail,1975,Animals
 Eric Idle,Monty Pythons Life of Brian,1979,Animals
 Eric Idle,Monty Pythons The Meaning of Life,1983,Animals
 Eric Idle,Casper,1995,Impact
-Eric Idle,Absolutely Anything,2015,Supernatural
+Eric Idle,Absolutely Anything,2015,Animals
 Milo Ventimiglia,Stay Alive,2006,Strangulation
 Milo Ventimiglia,Gamer,2009,Blunt Objects
 Milo Ventimiglia,The Divide,2011,Firearms
@@ -8854,7 +8854,7 @@ Jeremy Northam,The Net,1995,Impact
 Jeremy Northam,Voices from a Locked Room,1995,Impact
 Jeremy Northam,The Singing Detective,2003,Cutting Instrument
 Jeremy Northam,Guy X,2005,Firearms
-Jeremy Northam,The Invasion,2007,Supernatural
+Jeremy Northam,The Invasion,2007,Ailment
 Saïd Taghmaoui,Spartan,2004,Firearms
 Saïd Taghmaoui,Traitor,2008,Firearms
 Saïd Taghmaoui,Vantage Point,2008,Firearms
@@ -8939,7 +8939,7 @@ Jeffrey DeMunn,Resurrection,1980,Vehicular
 Jeffrey DeMunn,The Blob,1988,Other
 Jeffrey DeMunn,Ebbie,1995,Supernatural
 Jeffrey DeMunn,Killer: A Journal of Murder,1995,Other
-Jeffrey DeMunn,The X-Files,1998,Supernatural
+Jeffrey DeMunn,The X-Files,1998,Animals
 Jeffrey DeMunn,The Green Mile,1999,Ailment
 Jeffrey DeMunn,The Mist,2007,Weather
 Jeffrey DeMunn,6 Souls,2010,Supernatural
@@ -9183,7 +9183,7 @@ Brad Dourif,Murder Blues,1991,Strangulation
 Brad Dourif,Body Parts,1991,Impact
 Brad Dourif,Critters 4,1992,Animals
 Brad Dourif,Trauma,1993,Cutting Instrument
-Brad Dourif,Alien: Resurrection,1997,Supernatural
+Brad Dourif,Alien: Resurrection,1997,Other
 Brad Dourif,Bride of Chucky,1998,Firearms
 Brad Dourif,Cypress Edge,1999,Cutting Instrument
 Brad Dourif,Prophecy 3: The Ascent,2000,Cutting Instrument
@@ -9199,7 +9199,7 @@ Brad Dourif,Blood Shot,2013,Firearms
 Brad Dourif,Cult of Chucky,2017,Supernatural
 Brad Dourif,Wildling,2018,Cutting Instrument
 Ben Kingsley,Gandhi,1982,Firearms
-Ben Kingsley,Species,1995,Supernatural
+Ben Kingsley,Species,1995,Drowning
 Ben Kingsley,The Assignment,1997,Firearms
 Ben Kingsley,Parting Shots,1999,Firearms
 Ben Kingsley,Sexy Beast,2000,Supernatural
@@ -9349,7 +9349,7 @@ Brian Thompson,Star Trek: Deep Space Nine,1996,Other
 Brian Thompson,Buffy the Vampire Slayer,1997,Supernatural
 Brian Thompson,Buffy the Vampire Slayer,1998,Supernatural
 Brian Thompson,Charmed,2000,Other
-Brian Thompson,The X-Files,2000,Supernatural
+Brian Thompson,The X-Files,2000,Firearms
 Brian Thompson,Charmed,2003,Impact
 Brian Thompson,The Orville,2017,Cutting Instrument
 Juan Fernandez,Fear City,1984,Strangulation
@@ -9569,7 +9569,7 @@ Arnold Vosloo,Rough Draft,1998,Cutting Instrument
 Arnold Vosloo,The Mummy,1999,Supernatural
 Arnold Vosloo,The Mummy Returns,2001,Supernatural
 Arnold Vosloo,Con Express,2002,Impact
-Arnold Vosloo,Endangered Species,2003,Supernatural
+Arnold Vosloo,Endangered Species,2003,Firearms
 Arnold Vosloo,Death Train,2006,Firearms
 Arnold Vosloo,Blood Diamond,2006,Firearms
 Arnold Vosloo,Fire & Ice,2008,Firearms
@@ -9757,7 +9757,7 @@ Ned Dennehy,Veronica Guerin,2003,Cutting Instrument
 Ned Dennehy,Dead Meat,2004,Supernatural
 Ned Dennehy,Blitz,2011,Drowning
 Ned Dennehy,Storage 24,2012,Impact
-Ned Dennehy,Grabbers,2012,Supernatural
+Ned Dennehy,Grabbers,2012,Other
 Ned Dennehy,The Keeping Room,2014,Firearms
 Ned Dennehy,Mandy,2018,Cutting Instrument
 Ned Dennehy,Guns Akimbo,2019,Firearms
@@ -9768,13 +9768,13 @@ Geoff Bell,Solomon Kane,2009,Supernatural
 Geoff Bell,Tormented,2009,Supernatural
 Geoff Bell,Wild Target,2010,Firearms
 Geoff Bell,Brighton Rock,2010,Blunt Objects
-Geoff Bell,Storage 24,2012,Supernatural
+Geoff Bell,Storage 24,2012,Other
 Geoff Bell,King Arthur: Legend of the Sword,2017,Cutting Instrument
 Michael Biehn,The Fan,1981,Cutting Instrument
 Michael Biehn,China Rose,1983,Firearms
 Michael Biehn,The Terminator,1984,Explosives
 Michael Biehn,The Abyss,1989,Impact
-Michael Biehn,Alien 3,1992,Supernatural
+Michael Biehn,Alien 3,1992,Other
 Michael Biehn,Tombstone,1993,Firearms
 Michael Biehn,Jade,1995,Firearms
 Michael Biehn,Blood of the Hunter,1995,Firearms
@@ -9828,7 +9828,7 @@ Tony Nappo,Saw II,2005,Firearms
 Tony Nappo,Mothers Day,2010,Firearms
 Jeff Kober,Out of Bounds,1986,Cutting Instrument
 Jeff Kober,Viper,1988,Animals
-Jeff Kober,Alien Nation,1988,Supernatural
+Jeff Kober,Alien Nation,1988,Drowning
 Jeff Kober,The First Power,1990,Supernatural
 Jeff Kober,Demolition High,1996,Explosives
 Jeff Kober,Inferno,1999,Fire
@@ -9914,7 +9914,7 @@ Adam Beach,Joe Dirt,2001,Personal Weapons
 Adam Beach,Cowboys and Indians: The J.J. Harper Story,2003,Firearms
 Adam Beach,Flags of Our Fathers,2006,Poison
 Adam Beach,The Stranger,2010,Impact
-Adam Beach,Cowboys & Aliens,2011,Supernatural
+Adam Beach,Cowboys & Aliens,2011,Other
 Adam Beach,Into the Grizzly Maze,2015,Animals
 Adam Beach,Suicide Squad,2016,Explosives
 Adam Beach,Hostiles,2017,Animals
@@ -10106,11 +10106,11 @@ Doug Jones,Adaptation,2002,Personal Weapons
 Doug Jones,The Time Machine,2002,Explosives
 Doug Jones,The Cabinet of Dr. Caligari,2005,Cutting Instrument
 Doug Jones,Doom,2005,Supernatural
-Doug Jones,Fantastic Four: Rise of the Silver Surfer,2007,Supernatural
+Doug Jones,Fantastic Four: Rise of the Silver Surfer,2007,Other
 Doug Jones,Angel of Death,2009,Supernatural
 Doug Jones,Legion,2010,Firearms
 Doug Jones,Absentia,2011,Supernatural
-Doug Jones,The Watch,2012,Supernatural
+Doug Jones,The Watch,2012,Firearms
 Doug Jones,Raze,2013,Cutting Instrument
 Doug Jones,Crimson Peak,2015,Ailment
 Doug Jones,The Midnight Man,2016,Personal Weapons
@@ -10199,7 +10199,7 @@ Eric Balfour,The Texas Chainsaw Massacre,2003,Cutting Instrument
 Eric Balfour,Face of Terror,2004,Supernatural
 Eric Balfour,Rx,2005,Firearms
 Eric Balfour,The Spirit,2008,Supernatural
-Eric Balfour,Skyline,2010,Supernatural
+Eric Balfour,Skyline,2010,Other
 Eric Balfour,The Legend of Hells Gate: An American Conspiracy,2011,Cutting Instrument
 Eric Balfour,Cell 213,2011,Firearms
 Laurence Fishburne,Apocalypse Now,1979,Firearms
@@ -10212,7 +10212,7 @@ Laurence Fishburne,Othello,1995,Cutting Instrument
 Laurence Fishburne,Event Horizon,1997,Other
 Laurence Fishburne,Osmosis Jones,2001,Ailment
 Laurence Fishburne,The Death and Life of Bobby Z,2007,Firearms
-Laurence Fishburne,Fantastic Four: Rise of the Silver Surfer,2007,Supernatural
+Laurence Fishburne,Fantastic Four: Rise of the Silver Surfer,2007,Other
 Laurence Fishburne,Armored,2009,Explosives
 Laurence Fishburne,Predators,2010,Supernatural
 Laurence Fishburne,The Colony,2013,Explosives
@@ -10750,11 +10750,11 @@ James Franco,Camille,2008,Firearms
 James Franco,Milk,2008,Ailment
 James Franco,The Green Hornet,2011,Animals
 James Franco,The Iceman,2012,Firearms
-James Franco,Spring Breakers,2013,Supernatural
+James Franco,Spring Breakers,2013,Firearms
 James Franco,This is the End,2013,Supernatural
 James Franco,Dawn of the Planet of the Apes,2014,Ailment
 James Franco,Sausage Party,2016,Cutting Instrument
-James Franco,Alien: Covenant,2017,Supernatural
+James Franco,Alien: Covenant,2017,Other
 James Franco,The Disaster Artist,2017,Firearms
 James Franco,The Institute,2017,Cutting Instrument
 James Franco,The Vault,2017,Firearms
@@ -10859,7 +10859,7 @@ James Rolfe,The Angry Video Game Nerd,2009,Animals
 James Rolfe,The Angry Video Game Nerd,2011,Strangulation
 James Rolfe,The Angry Video Game Nerd,2012,Other
 James Rolfe,The Angry Video Game Nerd,2012,Supernatural
-James Rolfe,The Angry Video Game Nerd,2013,Supernatural
+James Rolfe,The Angry Video Game Nerd,2013,Impact
 James Rolfe,The Angry Video Game Nerd,2015,Supernatural
 James Rolfe,Board James: Omega Virus,2015,Ailment
 James Rolfe,Board James: Ouija/Domino Rally,2015,Cutting Instrument
@@ -10943,7 +10943,7 @@ Sean Patrick Flanery,Lasso,2017,Personal Weapons
 Sean Patrick Flanery,Agenda Payback,2018,Firearms
 Sean Patrick Flanery,Hunters Moon,2020,Supernatural
 Sean Patrick Flanery,Get The Girl,2023,Cutting Instrument
-Ralph Brown,Alien 3,1992,Supernatural
+Ralph Brown,Alien 3,1992,Firearms
 Ralph Brown,Undercover Blues,1993,Other
 Ralph Brown,Exorcist: The Beginning,2004,Personal Weapons
 Ralph Brown,Dominion: Prequel to the Exorcist,2004,Other
@@ -11182,7 +11182,7 @@ Dennis Price,She Played with Fire,1957,Firearms
 Dennis Price,Your Past Is Showing,1957,Impact
 Dennis Price,What A Carve Up!,1961,Cutting Instrument
 Dennis Price,Kill or Cure,1962,Other
-Dennis Price,The Earth Dies Screaming,1964,Supernatural
+Dennis Price,The Earth Dies Screaming,1964,Firearms
 Dennis Price,A Jolly Bad Fellow,1964,Poison
 Dennis Price,Ten Little Indians,1965,Strangulation
 Dennis Price,Venus in Furs,1969,Supernatural
@@ -11244,7 +11244,7 @@ Terry O'Quinn,The X-Files: Fight the Future,1998,Personal Weapons
 Terry O'Quinn,American Outlaws,2001,Firearms
 Phil Davis,Underworld,1985,Narcotics
 Phil Davis,Howling V: The Rebirth,1989,Firearms
-Phil Davis,Alien 3,1992,Supernatural
+Phil Davis,Alien 3,1992,Other
 Phil Davis,Blue Ice,1992,Other
 Phil Davis,Crimetime,1996,Other
 Phil Davis,Face,1997,Firearms
@@ -11413,7 +11413,7 @@ Christopher Adamson,The Fifth Element,1997,Explosives
 Christopher Adamson,Razor Blade Smile,1998,Cutting Instrument
 Christopher Adamson,Lighthouse,1999,Impact
 Christopher Adamson,The Last Horror Movie,2003,Supernatural
-Christopher Adamson,Evil Aliens,2005,Supernatural
+Christopher Adamson,Evil Aliens,2005,Personal Weapons
 Christopher Adamson,Mutant Chronicles,2008,Supernatural
 Christopher Adamson,F,2010,Cutting Instrument
 Christopher Adamson,Leatherface,2017,Blunt Objects
@@ -11425,7 +11425,7 @@ Sven-Ole Thorsen,Raw Deal,1986,Firearms
 Sven-Ole Thorsen,Predator,1987,Supernatural
 Sven-Ole Thorsen,Lethal Weapon,1987,Firearms
 Sven-Ole Thorsen,Pink Cadillac,1989,Vehicular
-Sven-Ole Thorsen,"Abraxas, Guardian of the Universe",1991,Supernatural
+Sven-Ole Thorsen,"Abraxas, Guardian of the Universe",1991,Other
 Sven-Ole Thorsen,Harley Davidson and the Marlboro Man,1991,Firearms
 Sven-Ole Thorsen,Dragon: The Bruce Lee Story,1993,Supernatural
 Sven-Ole Thorsen,Hard Target,1993,Firearms
@@ -11486,7 +11486,7 @@ Shawn Doyle,Dont Say a Word,2001,Other
 Shawn Doyle,Knockaround Guys,2001,Firearms
 Shawn Doyle,Who Is Cletis Tout?,2001,Firearms
 Shawn Doyle,Whiteout,2009,Weather
-Daniel Kash,Aliens,1986,Supernatural
+Daniel Kash,Aliens,1986,Impact
 Daniel Kash,Nightbreed,1990,Strangulation
 Daniel Kash,Bone Daddy,1998,Other
 Daniel Kash,Dont Say a Word,2001,Other
@@ -11504,7 +11504,7 @@ Tom Woodruff Jr.,Leviathan,1989,Supernatural
 Tom Woodruff Jr.,Tremors,1990,Impact
 Tom Woodruff Jr.,Alien 3,1992,Supernatural
 Tom Woodruff Jr.,Mortal Kombat,1995,Impact
-Tom Woodruff Jr.,Alien: Resurrection,1997,Supernatural
+Tom Woodruff Jr.,Alien: Resurrection,1997,Explosives
 Tom Woodruff Jr.,Alien vs. Predator,2004,Supernatural
 Tom Woodruff Jr.,Aliens vs Predator: Requiem,2007,Supernatural
 Tom Woodruff Jr.,Race to Witch Mountain,2009,Impact
@@ -11546,7 +11546,7 @@ Götz Otto,Tomorrow Never Dies,1997,Explosives
 Götz Otto,Beowulf,1999,Other
 Götz Otto,"Death, Deceit and Destiny Aboard the Orient Express",2001,Other
 Götz Otto,Downfall,2004,Ailment
-Götz Otto,Alien Autopsy,2006,Supernatural
+Götz Otto,Alien Autopsy,2006,Other
 Götz Otto,Iron Sky,2012,Cutting Instrument
 Hugo Speer,Deathwatch,2002,Supernatural
 Hugo Speer,The Interpreter,2005,Firearms
@@ -11700,7 +11700,7 @@ Shiloh Fernandez,The Old Way,2023,Firearms
 Shiloh Fernandez,Mob Land,2023,Firearms
 Shiloh Fernandez,Desperation Road,2023,Firearms
 Nicholas Braun,Red State,2011,Firearms
-Nicholas Braun,The Watch,2012,Supernatural
+Nicholas Braun,The Watch,2012,Personal Weapons
 Nicholas Braun,Cat Person,2023,Vehicular
 Gregg Allman,Rush Week,1989,Cutting Instrument
 Gregg Allman,Rush,1991,Firearms
@@ -11727,7 +11727,7 @@ Ray Park,Black Box,2012,Personal Weapons
 Buddy Joe Hooker,Take a Hard Ride,1975,Supernatural
 Buddy Joe Hooker,The Osterman Weekend,1983,Other
 Buddy Joe Hooker,Hard to Kill,1990,Firearms
-Buddy Joe Hooker,The Arrival,1996,Supernatural
+Buddy Joe Hooker,The Arrival,1996,Other
 Buddy Joe Hooker,Mulholland Falls,1996,Impact
 Buddy Joe Hooker,Money Talks,1997,Other
 Buddy Joe Hooker,Suspect Zero,2004,Impact
@@ -11861,7 +11861,7 @@ Spencer Wilding,Jupiter Ascending,2015,Firearms
 Mel Rodriguez,Deuces Wild,2002,Personal Weapons
 Mel Rodriguez,Showtime,2002,Vehicular
 Mel Rodriguez,Unknown,2006,Other
-Mel Rodriguez,The Watch,2012,Supernatural
+Mel Rodriguez,The Watch,2012,Personal Weapons
 Lara Parmiani,Berberian Sound Studio,2012,Cutting Instrument
 Rodney Rowland,The 6th Day,2000,Firearms
 Alan Davidson,Frailty,2001,Cutting Instrument
@@ -11915,7 +11915,7 @@ Alex Carter,Out of Time,2003,Impact
 Clint Curtis,Deep Rising,1998,Fire
 Clint Curtis,Collapse,2010,Supernatural
 Clint Curtis,Fertile Ground,2011,Other
-Field Blauvelt,The Invasion,2007,Supernatural
+Field Blauvelt,The Invasion,2007,Ailment
 Field Blauvelt,Lovely Molly,2011,Cutting Instrument
 James Jordan,Seraphim Falls,2006,Impact
 James Jordan,Wind River,2017,Drowning
@@ -11999,7 +11999,7 @@ Terry Gilliam,Monty Python Live at the Hollywood Bowl,1982,Animals
 Terry Gilliam,Monty Pythons The Meaning of Life,1983,Animals
 Terry Gilliam,The Adventures of Baron Munchausen,1988,Cutting Instrument
 Terry Gilliam,Monty Python Live,2014,Animals
-Terry Gilliam,Absolutely Anything,2015,Supernatural
+Terry Gilliam,Absolutely Anything,2015,Animals
 Neville Brand,D.O.A.,1950,Firearms
 Neville Brand,Kiss Tomorrow Goodbye,1950,Firearms
 Neville Brand,Kansas City Confidential,1952,Firearms
@@ -12216,7 +12216,7 @@ Phillip Richard Allen,Star Trek III: The Search for Spock,1984,Firearms
 Dave Cadiente,Star Trek III: The Search for Spock,1984,Firearms
 Rodney Eastman,A Nightmare on Elm Street 4: The Dream Master,1988,Cutting Instrument
 Rodney Eastman,I Spit on Your Grave,2010,Fire
-Leon Rippy,Hyperspace,1984,Supernatural
+Leon Rippy,Hyperspace,1984,Other
 Leon Rippy,Maximum Overdrive,1986,Vehicular
 Leon Rippy,King Kong Lives,1986,Other
 Leon Rippy,No Mercy,1986,Personal Weapons
@@ -12228,7 +12228,7 @@ Leon Rippy,Young Guns II,1990,Firearms
 Leon Rippy,Eye of the Storm,1991,Other
 Leon Rippy,Kuffs,1992,Firearms
 Leon Rippy,Universal Soldier,1992,Explosives
-Leon Rippy,The Arrival,1996,Supernatural
+Leon Rippy,The Arrival,1996,Other
 Leon Rippy,The Patriot,2000,Firearms
 Leon Rippy,The Alamo,2004,Firearms
 Leon Rippy,The Lone Ranger,2013,Firearms
@@ -12542,7 +12542,7 @@ Zach Galifianakis,Operation: Endgame,2010,Firearms
 Bradley Cooper,Case 39,2009,Animals
 Bradley Cooper,American Sniper,2014,Firearms
 Bradley Cooper,Serena,2014,Personal Weapons
-Bradley Cooper,10 Cloverfield Lane,2016,Supernatural
+Bradley Cooper,10 Cloverfield Lane,2016,Other
 Bradley Cooper,A Star is Born,2018,Strangulation
 Bradley Cooper,Guardians of the Galaxy Vol. 3,2023,Explosives
 Barbara Howard,Friday the 13th: The Final Chapter,1984,Cutting Instrument
@@ -13014,7 +13014,7 @@ Tamara Glynn,Friday the 13th Vengeance 2: Bloodlines,2022,Cutting Instrument
 James Baskett,Harlem Is Heaven,1932,Other
 Noomi Rapace,Daisy Diamond,2007,Drowning
 Noomi Rapace,Passion,2012,Strangulation
-Noomi Rapace,Alien: Covenant,2017,Supernatural
+Noomi Rapace,Alien: Covenant,2017,Other
 Noomi Rapace,What Happened To Monday,2017,Firearms
 Noomi Rapace,Bright,2017,Explosives
 Noomi Rapace,Black Crab,2022,Other
@@ -13234,7 +13234,7 @@ Tom Sizemore,Nazi Overlord,2018,Ailment
 Tom Sizemore,Hell Girl,2019,Other
 Tom Sizemore,The Pining,2019,Other
 Tom Sizemore,Apocalypse of Ice,2020,Weather
-Tom Sizemore,Alien Conquest,2021,Supernatural
+Tom Sizemore,Alien Conquest,2021,Explosives
 Tom Sizemore,Impuratus,2022,Firearms
 Tom Sizemore,The Haunting of Hell Hole Mine,2023,Explosives
 William Finley,Wotons Wake,1962,Explosives
@@ -13335,7 +13335,7 @@ Sean Connery,The Avengers,1998,Weather
 Sean Connery,Finding Forrester,2000,Ailment
 Sean Connery,The League of Extraordinary Gentlemen,2003,Cutting Instrument
 Sean Connery,Indiana Jones and the Kingdom of the Crystal Skull,2008,Drowning
-Neil Connery,Out of Thin Air,1969,Supernatural
+Neil Connery,Out of Thin Air,1969,Firearms
 Alexandra Daddario,The Attic,2007,Supernatural
 Alexandra Daddario,Bereavement,2010,Cutting Instrument
 Alexandra Daddario,Percy Jackson: Sea of Monsters,2013,Drowning
@@ -13430,7 +13430,7 @@ Michael Palin,The Secret Policemans Ball,1981,Firearms
 Michael Palin,Time Bandits,1981,Drowning
 Michael Palin,Monty Pythons The Meaning of Life,1983,Animals
 Michael Palin,Brazil,1985,Firearms
-Michael Palin,Absolutely Anything,2015,Supernatural
+Michael Palin,Absolutely Anything,2015,Animals
 Michael Nyqvist,Next Door,2005,Personal Weapons
 Michael Nyqvist,Abduction,2011,Firearms
 Michael Nyqvist,Mission: Impossible - Ghost Protocol,2011,Supernatural
@@ -13799,7 +13799,7 @@ Yancy Butler,The Last Letter,2004,Firearms
 Yancy Butler,Striking Range,2006,Blunt Objects
 Yancy Butler,Shark Week,2012,Animals
 Yancy Butler,Kick-Ass 2,2013,Personal Weapons
-Christopher S. Nelson,Without Warning,1980,Supernatural
+Christopher S. Nelson,Without Warning,1980,Personal Weapons
 Jamie Sives,In the Heart of the Sea,2015,Drowning
 Stephen Don,Wilderness,2006,Personal Weapons
 Ronald Reagan,"Knute Rockne, All American",1940,Ailment
@@ -13886,7 +13886,7 @@ Robert Culp,Most Wanted,1997,Firearms
 Robert Culp,Santas Slay,2005,Supernatural
 Robert Culp,The Westerner,1960,Firearms
 Robert Culp,Rawhide,1961,Other
-Robert Culp,The Outer Limits,1963,Supernatural
+Robert Culp,The Outer Limits,1963,Firearms
 Robert Culp,The Outer Limits: Demon with a Glass Hand,1964,Supernatural
 Robert Culp,Mrs. Columbo: Word Games,1979,Impact
 Colin Walker,Lee Daniels The Butler,2013,Other
@@ -14148,10 +14148,10 @@ Frank Welker,Dollman vs. Demonic Toys,1993,Firearms
 Frank Welker,Jurassic Park,1993,Impact
 Frank Welker,Mans Best Friend,1993,Firearms
 Frank Welker,Mortal Kombat,1995,Animals
-Frank Welker,Species,1995,Supernatural
+Frank Welker,Species,1995,Firearms
 Frank Welker,Congo,1995,Supernatural
 Frank Welker,The Land Before Time III: The Time of the Great Giving,1995,Personal Weapons
-Frank Welker,Independence Day,1996,Supernatural
+Frank Welker,Independence Day,1996,Explosives
 Frank Welker,Mars Attacks!,1996,Explosives
 Frank Welker,Anaconda,1997,Animals
 Frank Welker,The Lost World: Jurassic Park,1997,Personal Weapons
@@ -14230,7 +14230,7 @@ Faysal Ahmed,Captain Phillips,2013,Firearms
 Amy Seimetz,Youre Next,2011,Cutting Instrument
 Amy Seimetz,Revenge for Jolly!,2012,Firearms
 Amy Seimetz,The Sacrament,2013,Fire
-Amy Seimetz,Alien: Covenant,2017,Supernatural
+Amy Seimetz,Alien: Covenant,2017,Fire
 Amy Seimetz,Pet Sematary,2019,Cutting Instrument
 Kate Lyn Sheil,Youre Next,2011,Cutting Instrument
 Kate Lyn Sheil,The Apocalypse,2013,Supernatural
@@ -14405,7 +14405,7 @@ Glenn Ford,Virus,1980,Ailment
 Glenn Ford,Happy Birthday to Me,1981,Personal Weapons
 Glenn Ford,Day of the Assassin,1981,Firearms
 Ivailo Dimirov,Mandy,2018,Cutting Instrument
-Gary Dourdan,Alien: Resurrection,1997,Supernatural
+Gary Dourdan,Alien: Resurrection,1997,Poison
 Gary Dourdan,Thursday,1998,Firearms
 Gary Dourdan,Impostor,2001,Explosives
 Anthony Perkins,On the Beach,1959,Poison
@@ -14795,7 +14795,7 @@ Jim Hutton,Psychic Killer,1975,Fire
 Melissa Leo,Don McKay,2009,Blunt Objects
 Melissa Leo,Stephanies Image,2009,Firearms
 Melissa Leo,Red State,2011,Firearms
-Melissa Leo,Oblivion,2013,Supernatural
+Melissa Leo,Oblivion,2013,Explosives
 Melissa Leo,Prisoners,2013,Firearms
 Melissa Leo,The Most Hated Woman In America,2017,Strangulation
 Melissa Leo,The Equalizer 2,2018,Cutting Instrument
@@ -15059,7 +15059,7 @@ Vin Diesel,Saving Private Ryan,1998,Firearms
 Vin Diesel,XXx: State of the Union,2005,Other
 Vin Diesel,Guardians of the Galaxy,2014,Explosives
 Vin Diesel,Billy Lynns Long Halftime Walk,2016,Firearms
-Vin Diesel,Avengers: Infinity War,2018,Supernatural
+Vin Diesel,Avengers: Infinity War,2018,Impact
 Vin Diesel,Bloodshot,2020,Firearms
 Paul Walker,Tammy and the T-Rex,1994,Animals
 Paul Walker,Flags of Our Fathers,2006,Firearms
@@ -15221,7 +15221,7 @@ Alfred Molina,Maverick,1994,Supernatural
 Alfred Molina,White Fang 2: Myth of the White Wolf,1994,Animals
 Alfred Molina,Dead Man,1995,Firearms
 Alfred Molina,Hideaway,1995,Cutting Instrument
-Alfred Molina,Species,1995,Supernatural
+Alfred Molina,Species,1995,Other
 Alfred Molina,Texas Rangers,2001,Firearms
 Alfred Molina,Identity,2003,Strangulation
 Alfred Molina,Spider-Man 2,2004,Animals
@@ -15245,7 +15245,7 @@ Wallace Shawn,Deal of the Century,1983,Firearms
 Wallace Shawn,The Hotel New Hampshire,1984,Vehicular
 Wallace Shawn,The Princess Bride,1987,Poison
 Wallace Shawn,The Double 0 Kid,1992,Vehicular
-Wallace Shawn,My Favorite Martian,1999,Supernatural
+Wallace Shawn,My Favorite Martian,1999,Other
 Wallace Shawn,The Haunted Mansion,2003,Supernatural
 Wallace Shawn,Southland Tales,2007,Explosives
 Wallace Shawn,A Master Builder,2013,Impact
@@ -15433,7 +15433,7 @@ Gemma Arterton,Wrath of the Titans,2012,Ailment
 Gemma Arterton,Gemma Bovery,2014,Strangulation
 Gemma Arterton,The Voices,2014,Cutting Instrument
 Gemma Arterton,The Critic,2023,Other
-Iman,Star Trek VI: The Undiscovered Country,1991,Supernatural
+Iman,Star Trek VI: The Undiscovered Country,1991,Explosives
 Natassia Malthe,Disturbing Behavior,1998,Vehicular
 Natassia Malthe,Elektra,2005,Ailment
 Natassia Malthe,Dead & Deader,2006,Supernatural
@@ -15862,7 +15862,7 @@ Jeff Bridges,The Iceman Cometh,1973,Impact
 Jeff Bridges,Thunderbolt and Lightfoot,1974,Weather
 Jeff Bridges,Heavens Gate,1980,Impact
 Jeff Bridges,Tron,1982,Other
-Jeff Bridges,Starman,1984,Supernatural
+Jeff Bridges,Starman,1984,Other
 Jeff Bridges,Jagged Edge,1985,Firearms
 Jeff Bridges,Tucker: The Man and His Dream,1988,Ailment
 Jeff Bridges,The Vanishing,1993,Cutting Instrument
@@ -15978,7 +15978,7 @@ John Carradine,The Private Affairs of Bel Ami,1947,Ailment
 John Carradine,Johnny Guitar,1954,Firearms
 John Carradine,The Unearthly,1957,Cutting Instrument
 John Carradine,The Cosmic Man,1959,Other
-John Carradine,Invisible Invaders,1959,Supernatural
+John Carradine,Invisible Invaders,1959,Explosives
 John Carradine,Tarzan the Magnificent,1960,Firearms
 John Carradine,Billy the Kid Versus Dracula,1966,Cutting Instrument
 John Carradine,They Ran for Their Lives,1968,Impact
@@ -15997,7 +15997,7 @@ John Carradine,The Monster Club,1981,Supernatural
 John Carradine,The Nesting,1982,Ailment
 John Carradine,House of the Long Shadows,1983,Ailment
 John Carradine,Monster in the Closet,1986,Supernatural
-John Carradine,Evil Spawn,1987,Supernatural
+John Carradine,Evil Spawn,1987,Ailment
 John Carradine,Buried Alive,1989,Impact
 Tommy Conlon,The Sign of the Cross,1932,Other
 Léa Seydoux,Inglourious Basterds,2009,Firearms
@@ -16195,7 +16195,7 @@ Lance Henriksen,Hit List,1989,Impact
 Lance Henriksen,The Pit and the Pendulum,1991,Cutting Instrument
 Lance Henriksen,Stone Cold,1991,Blunt Objects
 Lance Henriksen,Jennifer Eight,1992,Firearms
-Lance Henriksen,Alien 3,1992,Supernatural
+Lance Henriksen,Alien 3,1992,Cutting Instrument
 Lance Henriksen,Excessive Force,1993,Impact
 Lance Henriksen,Hard Target,1993,Firearms
 Lance Henriksen,Mans Best Friend,1993,Animals
@@ -16227,7 +16227,7 @@ Lance Henriksen,The Lost Tribe,2010,Supernatural
 Lance Henriksen,Good Day for It,2011,Firearms
 Lance Henriksen,Its In the Blood,2012,Supernatural
 Lance Henriksen,Phantom,2013,Supernatural
-Lance Henriksen,Alien Rising,2013,Supernatural
+Lance Henriksen,Alien Rising,2013,Cutting Instrument
 Lance Henriksen,Dark Awakening,2014,Cutting Instrument
 Lance Henriksen,Hollows Grove,2014,Cutting Instrument
 Lance Henriksen,Garm Wars: The Last Druid,2014,Firearms
@@ -16676,7 +16676,7 @@ Sean Harris,Harry Brown,2009,Firearms
 Sean Harris,Brighton Rock,2010,Blunt Objects
 Sean Harris,Native Son,2010,Personal Weapons
 Sean Harris,A Lonely Place to Die,2011,Other
-Sean Harris,Prometheus,2012,Supernatural
+Sean Harris,Prometheus,2012,Ailment
 Sean Harris,Serena,2014,Cutting Instrument
 Sean Harris,Mission Impossible - Fallout,2018,Explosives
 Sean Harris,The King,2019,Cutting Instrument
@@ -16848,7 +16848,7 @@ John Savage,Eric,1975,Ailment
 John Savage,Salvador,1986,Firearms
 John Savage,Killing Obsession,1994,Firearms
 John Savage,The Jack Bull,1999,Animals
-John Savage,Alien Lockdown,2004,Supernatural
+John Savage,Alien Lockdown,2004,Animals
 John Savage,The New World,2005,Personal Weapons
 John Savage,Shut Up and Shoot!,2006,Firearms
 John Savage,Betrayed,2018,Firearms
@@ -16880,7 +16880,7 @@ Toby Jones,Indiana Jones and the Dial of Destiny,2023,Other
 Ian Holm,Frankenstein,1968,Supernatural
 Ian Holm,"Mary, Queen of Scots",1971,Cutting Instrument
 Ian Holm,Shout at the Devil,1976,Supernatural
-Ian Holm,Alien,1979,Supernatural
+Ian Holm,Alien,1979,Fire
 Ian Holm,Chariots of Fire,1981,Firearms
 Ian Holm,Dreamchild,1985,Ailment
 Ian Holm,Hamlet,1990,Cutting Instrument
@@ -16890,17 +16890,17 @@ Ian Holm,Animal Farm,1999,Drowning
 Ian Holm,Existenz,1999,Firearms
 Ian Holm,The Day After Tomorrow,2004,Other
 Ian Holm,Lord of War,2005,Firearms
-Ian Holm,Alien: Romulus,2024,Supernatural
+Ian Holm,Alien: Romulus,2024,Explosives
 Michael V. Gazzo,The Godfather Part II,1974,Cutting Instrument
 Michael V. Gazzo,Fingers,1978,Firearms
 Michael V. Gazzo,Love and Bullets,1979,Firearms
 Michael V. Gazzo,Kill Castro,1980,Drowning
 Michael V. Gazzo,Sudden Impact,1983,Ailment
 Michael V. Gazzo,Cookie,1989,Explosives
-Sigourney Weaver,Aliens,1986,Supernatural
+Sigourney Weaver,Aliens,1986,Explosives
 Sigourney Weaver,Gorillas in the Mist,1988,Animals
-Sigourney Weaver,Alien 3,1992,Supernatural
-Sigourney Weaver,Alien: Resurrection,1997,Supernatural
+Sigourney Weaver,Alien 3,1992,Personal Weapons
+Sigourney Weaver,Alien: Resurrection,1997,Fire
 Sigourney Weaver,Snow White: A Tale of Terror,1997,Supernatural
 Sigourney Weaver,Galaxy Quest,1999,Firearms
 Sigourney Weaver,Avatar,2009,Firearms
@@ -16913,7 +16913,7 @@ Vincent Pastore,Black Roses,1988,Supernatural
 Vincent Pastore,Mafia!,1998,Firearms
 Veronica Cartwright,Inserts,1975,Narcotics
 Veronica Cartwright,Invasion of the Body Snatchers,1978,Supernatural
-Veronica Cartwright,Alien,1979,Supernatural
+Veronica Cartwright,Alien,1979,Cutting Instrument
 Veronica Cartwright,The Witches of Eastwick,1987,Personal Weapons
 Veronica Cartwright,Candyman: Farewell to the Flesh,1995,Cutting Instrument
 Veronica Cartwright,The Lottery,1996,Blunt Objects
@@ -17046,7 +17046,7 @@ Soledad Miranda,She Killed in Ecstasy,1971,Narcotics
 Soledad Miranda,Vampyros Lesbos,1971,Supernatural
 Damon Wayans,Bamboozled,2000,Firearms
 Charles Douglass,Memorial Valley Massacre,1989,Impact
-Mark Rolston,Aliens,1986,Supernatural
+Mark Rolston,Aliens,1986,Fire
 Mark Rolston,Lethal Weapon 2,1989,Firearms
 Mark Rolston,Survival Quest,1989,Cutting Instrument
 Mark Rolston,Scanner Cop,1994,Firearms
@@ -17183,7 +17183,7 @@ Jesse Plemons,Vice,2018,Vehicular
 Jesse Plemons,Jungle Cruise,2021,Impact
 Jesse Plemons,Windfall,2022,Firearms
 Jesse Plemons,Civil War,2024,Vehicular
-David Caruso,Without Warning,1980,Supernatural
+David Caruso,Without Warning,1980,Other
 David Caruso,Thief of Hearts,1984,Firearms
 David Caruso,Blue City,1986,Firearms
 David Caruso,Twins,1988,Firearms
@@ -17199,7 +17199,7 @@ Dan Hedaya,Commando,1985,Firearms
 Dan Hedaya,Wise Guys,1986,Explosives
 Dan Hedaya,The Addams Family,1991,Impact
 Dan Hedaya,Boiling Point,1993,Firearms
-Dan Hedaya,Alien: Resurrection,1997,Supernatural
+Dan Hedaya,Alien: Resurrection,1997,Cutting Instrument
 Dan Hedaya,Shaft,2000,Firearms
 Will Arnett,Wristcutters: A Love Story,2006,Cutting Instrument
 Will Arnett,Jonah Hex,2010,Explosives
@@ -17253,7 +17253,7 @@ Rainn Wilson,House of 1000 Corpses,2003,Cutting Instrument
 Rainn Wilson,Shimmer Lake,2017,Drowning
 Rainn Wilson,The Meg,2018,Impact
 Rainn Wilson,Dont Tell a Soul,2020,Supernatural
-Olivia Wilde,Cowboys & Aliens,2011,Supernatural
+Olivia Wilde,Cowboys & Aliens,2011,Explosives
 Olivia Wilde,In Time,2011,Other
 Olivia Wilde,The Lazarus Effect,2015,Other
 Olivia Wilde,Life Itself,2018,Vehicular
@@ -17279,7 +17279,7 @@ Terence Stamp,Superman II,1980,Impact
 Terence Stamp,The Hit,1984,Firearms
 Terence Stamp,Legal Eagles,1986,Animals
 Terence Stamp,Link,1986,Animals
-Terence Stamp,Alien Nation,1988,Supernatural
+Terence Stamp,Alien Nation,1988,Impact
 Terence Stamp,Young Guns,1988,Firearms
 Terence Stamp,Red Planet,2000,Vehicular
 Terence Stamp,Revelation,2001,Cutting Instrument
@@ -17297,7 +17297,7 @@ David O'Hara,Link,1986,Impact
 David O'Hara,The Departed,2006,Firearms
 David O'Hara,Tristan + Isolde,2006,Firearms
 David O'Hara,Wanted,2008,Firearms
-David O'Hara,Cowboys & Aliens,2011,Supernatural
+David O'Hara,Cowboys & Aliens,2011,Firearms
 David O'Hara,Best Laid Plans,2012,Firearms
 David O'Hara,Cold Pursuit,2019,Firearms
 Jeffrey Jones,Amadeus,1984,Ailment
@@ -17436,7 +17436,7 @@ Terry Jones,Monty Pythons Life of Brian,1979,Animals
 Terry Jones,Monty Python Life at the Hollywood Bowl,1982,Animals
 Terry Jones,Monty Pythons The Meaning of Life,1983,Animals
 Terry Jones,Erik the Viking,1989,Other
-Terry Jones,Absolutely Anything,2015,Supernatural
+Terry Jones,Absolutely Anything,2015,Vehicular
 Peter Graves,Red Planet Mars,1952,Explosives
 Peter Graves,Stalag 17,1953,Firearms
 Peter Graves,Killers From Space,1953,Other
@@ -17492,8 +17492,8 @@ Albert Hall,Apocalypse Now,1979,Cutting Instrument
 Ashton Kutcher,The Butterfly Effect,2004,Strangulation
 Ashton Kutcher,Jobs,2013,Ailment
 Ashton Kutcher,Vengeance,2022,Firearms
-Larry Storch,Without Warning,1980,Supernatural
-Darby Hinton,Without Warning,1980,Supernatural
+Larry Storch,Without Warning,1980,Personal Weapons
+Darby Hinton,Without Warning,1980,Personal Weapons
 Darby Hinton,Firecracker,1981,Personal Weapons
 Kate O'Mara,Corruption,1968,Fire
 Kate O'Mara,The Horror of Frankenstein,1970,Supernatural
@@ -17540,7 +17540,7 @@ Rip Torn,Canadian Bacon,1995,Other
 Rip Torn,Dodgeball: A True Underdog Story,2004,Impact
 Rip Torn,Eulogy,2004,Ailment
 Rip Torn,Marie Antoinette,2006,Ailment
-Rip Torn,Men in Black 3,2012,Supernatural
+Rip Torn,Men in Black 3,2012,Other
 Harland Williams,The Whole Nine Yards,2000,Firearms
 Harland Williams,Spooky Buddies,2011,Other
 Laurence Luckinbill,Such Good Friends,1971,Ailment
@@ -17692,7 +17692,7 @@ Billy Crudup,Without Limits,1998,Vehicular
 Billy Crudup,Stage Beauty,2004,Strangulation
 Billy Crudup,Mission: Impossible III,2006,Firearms
 Billy Crudup,Public Enemies,2009,Ailment
-Billy Crudup,Alien: Covenant,2017,Supernatural
+Billy Crudup,Alien: Covenant,2017,Explosives
 Katie Holmes,The Gift,2000,Strangulation
 Katie Holmes,Dont Be Afraid of the Dark,2010,Strangulation
 Burn Gorman,The Dark Knight Rises,2012,Weather
@@ -18202,7 +18202,7 @@ Yaphet Kotto,Live and Let Die,1973,Strangulation
 Yaphet Kotto,Truck Turner,1974,Vehicular
 Yaphet Kotto,Drum,1976,Firearms
 Yaphet Kotto,Blue Collar,1978,Strangulation
-Yaphet Kotto,Alien,1979,Supernatural
+Yaphet Kotto,Alien,1979,Blunt Objects
 Yaphet Kotto,Othello,1980,Cutting Instrument
 Yaphet Kotto,The Running Man,1987,Cutting Instrument
 Godfrey Cambridge,Beware! The Blob,1972,Other
@@ -18507,7 +18507,7 @@ Clark Gregg,I Love Trouble,1994,Vehicular
 Clark Gregg,We Were Soldiers,2002,Firearms
 Clark Gregg,In Enemy Hands,2004,Other
 Clark Gregg,The Avengers,2012,Cutting Instrument
-Clark Gregg,Captain Marvel,2019,Supernatural
+Clark Gregg,Captain Marvel,2019,Vehicular
 Brad Renfro,Bully,2001,Other
 Brad Renfro,10th & Wolf,2006,Animals
 John Capodice,Q,1982,Animals
@@ -18684,7 +18684,7 @@ Harry Dean Stanton,Cisco Pike,1971,Narcotics
 Harry Dean Stanton,Dillinger,1973,Vehicular
 Harry Dean Stanton,The Missouri Breaks,1976,Cutting Instrument
 Harry Dean Stanton,Straight Time,1978,Firearms
-Harry Dean Stanton,Alien,1979,Supernatural
+Harry Dean Stanton,Alien,1979,Cutting Instrument
 Harry Dean Stanton,Escape from New York,1981,Explosives
 Harry Dean Stanton,Red Dawn,1984,Firearms
 Harry Dean Stanton,Repo Man,1984,Firearms
@@ -18868,7 +18868,7 @@ L.Q. Jones,The Mask of Zorro,1998,Firearms
 L.Q. Jones,The Patriot,1998,Firearms
 L.Q. Jones,Route 666,2001,Impact
 L.Q. Jones,A Prairie Home Companion,2006,Ailment
-Julian Glover,Quatermass and the Pit,1967,Supernatural
+Julian Glover,Quatermass and the Pit,1967,Other
 Julian Glover,Star Wars Episode V: The Empire Strikes Back,1980,Blunt Objects
 Julian Glover,For Your Eyes Only,1981,Cutting Instrument
 Julian Glover,Indiana Jones and the Last Crusade,1989,Supernatural
@@ -19053,7 +19053,7 @@ Billy J. Mitchell,Goldeneye,1995,Strangulation
 Celia Weston,Joshua,2007,Impact
 Lynne Griffin,Black Christmas,1974,Strangulation
 Lynne Griffin,The Amateur,1981,Firearms
-Harvey Atkin,Heavy Metal,1981,Supernatural
+Harvey Atkin,Heavy Metal,1981,Other
 Harvey Atkin,Visiting Hours,1982,Drowning
 Harvey Atkin,Mindfield,1989,Firearms
 Harvey Atkin,Hello Kitty in The Sleeping Princess,1991,Supernatural
@@ -19106,7 +19106,7 @@ Zsa Zsa Gabor,Picture Mommy Dead,1966,Strangulation
 Zsa Zsa Gabor,A Nightmare on Elm Street 3: Dream Warriors,1987,Cutting Instrument
 Eva Gabor,The Mad Magician,1954,Strangulation
 Salma Hayek,From Dusk Till Dawn,1996,Cutting Instrument
-Salma Hayek,The Faculty,1998,Supernatural
+Salma Hayek,The Faculty,1998,Other
 Salma Hayek,In the Time of the Butterflies,2001,Personal Weapons
 Salma Hayek,Frida,2002,Ailment
 Salma Hayek,Once Upon a Time in Mexico,2003,Firearms
@@ -19944,7 +19944,7 @@ Tracey Walter,Raggedy Man,1981,Other
 Tracey Walter,Malone,1987,Firearms
 Tracey Walter,Batman,1989,Firearms
 Tracey Walter,Liquid Dreams,1991,Cutting Instrument
-Tracey Walter,Independence Day,1996,Supernatural
+Tracey Walter,Independence Day,1996,Other
 Tracey Walter,Drive,1997,Vehicular
 Tracey Walter,I Spit on Your Grave,2010,Firearms
 Tom Kenny,Bone Poison Way,1998,Poison
@@ -20061,7 +20061,7 @@ Bronagh Gallagher,Star Wars Episode I: The Phantom Menace,1999,Supernatural
 Bronagh Gallagher,Botched,2007,Other
 Bronagh Gallagher,Malice in Wonderland,2009,Other
 Bronagh Gallagher,The Big I Am,2010,Personal Weapons
-Bronagh Gallagher,Grabbers,2012,Supernatural
+Bronagh Gallagher,Grabbers,2012,Other
 Ross Bagdasarian,Alaska Seas,1954,Drowning
 Ross Bagdasarian,The Deep Six,1958,Other
 Margaux Hemingway,Deadly Rivals,1992,Firearms
@@ -20334,7 +20334,7 @@ Linden Ashby,Hunger,2009,Cutting Instrument
 Linden Ashby,Stripped Naked,2009,Firearms
 John Cullum,Hamlet,1964,Cutting Instrument
 Sam Easton,Final Destination 3,2006,Vehicular
-Sam Easton,Decoys 2: Alien Seduction,2007,Supernatural
+Sam Easton,Decoys 2: Alien Seduction,2007,Explosives
 Glenda Jackson,Marat/Sade,1967,Fire
 Glenda Jackson,The Maids,1974,Impact
 Glenda Jackson,Hedda,1975,Firearms
@@ -20655,7 +20655,7 @@ Vlasta Vrana,Night of the Demons 3,1997,Supernatural
 Vlasta Vrana,Stranger in the House,1997,Firearms
 Vlasta Vrana,RED 2,2013,Strangulation
 Emma Heming,RED 2,2013,Firearms
-William Hope,Aliens,1986,Supernatural
+William Hope,Aliens,1986,Explosives
 William Hope,Hellbound: Hellraiser II,1988,Other
 William Hope,Sherlock Holmes,2009,Impact
 Clare Higgins,Hellraiser,1987,Cutting Instrument
@@ -20835,16 +20835,16 @@ Kick Gurry,Edge of Tomorrow,2014,Supernatural
 Jonas Armstrong,Book of Blood,2009,Drowning
 Jonas Armstrong,Twenty8k,2012,Strangulation
 Jonas Armstrong,Walking with the Enemy,2013,Other
-Jonas Armstrong,Edge of Tomorrow,2014,Supernatural
+Jonas Armstrong,Edge of Tomorrow,2014,Personal Weapons
 Franz Drameh,Attack the Block,2011,Cutting Instrument
-Franz Drameh,Edge of Tomorrow,2014,Supernatural
-Charlotte Riley,Edge of Tomorrow,2014,Supernatural
+Franz Drameh,Edge of Tomorrow,2014,Personal Weapons
+Charlotte Riley,Edge of Tomorrow,2014,Personal Weapons
 Dragomir Mrsic,Gangster,2007,Personal Weapons
 Dragomir Mrsic,Leo,2007,Personal Weapons
 Dragomir Mrsic,Easy Money II: Hard to Kill,2012,Firearms
-Dragomir Mrsic,Edge of Tomorrow,2014,Supernatural
+Dragomir Mrsic,Edge of Tomorrow,2014,Personal Weapons
 Masayoshi Haneda,47 Ronin,2013,Other
-Masayoshi Haneda,Edge of Tomorrow,2014,Supernatural
+Masayoshi Haneda,Edge of Tomorrow,2014,Personal Weapons
 Vivica A. Fox,Set It Off,1996,Firearms
 Vivica A. Fox,Kill Bill: Vol. 1,2003,Cutting Instrument
 Vivica A. Fox,Mercenaries,2014,Vehicular
@@ -21085,7 +21085,7 @@ Kelly Hu,Cradle 2 The Grave,2003,Firearms
 Kelly Hu,X2,2003,Strangulation
 Kelly Hu,Farm House,2008,Cutting Instrument
 Kelly Hu,Stiletto,2008,Cutting Instrument
-Kelly Hu,Age of Tomorrow,2014,Supernatural
+Kelly Hu,Age of Tomorrow,2014,Impact
 Tiffany Paulsen,Friday the 13th Part VIII: Jason Takes Manhattan,1989,Cutting Instrument
 Sharlene Martin,Friday the 13th Part VIII: Jason Takes Manhattan,1989,Cutting Instrument
 Barbara Bingham,Terror at London Bridge,1985,Supernatural
@@ -21121,7 +21121,7 @@ Claudine Auger,The Black Belly of the Tarantula,1972,Animals
 Claudine Auger,The Bermuda Triangle,1978,Weather
 Steven Williams,Missing in Action 2: The Beginning,1985,Firearms
 Steven Williams,Jason Goes to Hell: The Final Friday,1993,Impact
-Steven Williams,The Sender,1998,Supernatural
+Steven Williams,The Sender,1998,Other
 Steven Williams,The Elite,2001,Other
 Steven Williams,Night Class,2001,Other
 Steven Williams,Dark Wolf,2003,Animals
@@ -21442,7 +21442,7 @@ Kazuki Kitamura,Ley Lines,1999,Firearms
 Kazuki Kitamura,Freeze Me,2000,Weather
 Kazuki Kitamura,Kill Bill: Vol. 1,2003,Cutting Instrument
 Kazuki Kitamura,The Man in White,2003,Firearms
-Kazuki Kitamura,Godzilla: Final Wars,2004,Supernatural
+Kazuki Kitamura,Godzilla: Final Wars,2004,Other
 Kazuki Kitamura,Killers,2014,Firearms
 Kazuki Kitamura,Parasyte: Part 2,2015,Firearms
 Kazuki Kitamura,Blade of the Immortal,2017,Cutting Instrument
@@ -21678,7 +21678,7 @@ Arie Verveen,Cabin Fever,2002,Ailment
 Arie Verveen,Sin City,2005,Firearms
 Noel Fisher,Valentine,2001,Other
 Noel Fisher,Final Destination 2,2003,Animals
-Noel Fisher,Battle: Los Angeles,2011,Supernatural
+Noel Fisher,Battle: Los Angeles,2011,Vehicular
 Sarah Carter,Final Destination 2,2003,Vehicular
 Sarah Carter,Skinwalkers,2006,Firearms
 Sarah Carter,Confessions of a Go-Go Girl,2008,Ailment
@@ -21998,7 +21998,7 @@ Yayan Ruhian,The Raid: Redemption,2011,Animals
 Yayan Ruhian,The Raid 2,2014,Cutting Instrument
 Yayan Ruhian,Yakuza Apocalpyse: The Great War of the Underworld,2015,Animals
 Yayan Ruhian,Star Wars Episode VII: The Force Awakens,2015,Animals
-Yayan Ruhian,Beyond Skyline,2017,Supernatural
+Yayan Ruhian,Beyond Skyline,2017,Other
 Yayan Ruhian,Satria Heroes: Revenge Of Darkness,2017,Ailment
 Yayan Ruhian,Wiro Sableng 212,2018,Cutting Instrument
 Yayan Ruhian,Boy Kills World,2024,Cutting Instrument
@@ -22211,7 +22211,7 @@ James Gregory,The Sons of Katie Elder,1965,Fire
 James Gregory,Beneath the Planet of the Apes,1970,Firearms
 James Gregory,Shoot-out,1971,Firearms
 Carmen Ejogo,Alex Cross,2012,Firearms
-Carmen Ejogo,Alien: Covenant,2017,Supernatural
+Carmen Ejogo,Alien: Covenant,2017,Explosives
 Carmen Ejogo,It Comes at Night,2017,Ailment
 Scott Adkins,Batman Begins,2005,Other
 Scott Adkins,The Shepherd: Border Patrol,2008,Personal Weapons
@@ -22424,7 +22424,7 @@ Jeep Swenson,Bulletproof,1996,Firearms
 Jeep Swenson,Batman & Robin,1997,Impact
 Billy Blanks,The King of the Kickboxers,1990,Cutting Instrument
 Billy Blanks,The Last Boy Scout,1991,Firearms
-Jenette Goldstein,Aliens,1986,Supernatural
+Jenette Goldstein,Aliens,1986,Explosives
 Jenette Goldstein,Near Dark,1987,Fire
 Jenette Goldstein,The Presidio,1988,Firearms
 Jenette Goldstein,Lethal Weapon 2,1989,Explosives
@@ -22560,7 +22560,7 @@ Mike White,Zombieland,2009,Supernatural
 Edgar Wright,Shaun of the Dead,2004,Impact
 Edgar Wright,Land of the Dead,2005,Supernatural
 Susan Blanchard,Prince of Darkness,1987,Supernatural
-Richard Marner,Children of the Damned,1964,Supernatural
+Richard Marner,Children of the Damned,1964,Other
 Richard Marner,The Boys from Brazil,1978,Vehicular
 Richard Marner,The Sum of All Fears,2002,Other
 Ephraim Ellis,Stage Fright,2014,Cutting Instrument
@@ -22616,7 +22616,7 @@ Rosamund Pike,I Care a Lot,2021,Firearms
 Rosamund Pike,Saltburn,2023,Strangulation
 Louise Fletcher,Natural Enemies,1979,Firearms
 Louise Fletcher,Brainstorm,1983,Ailment
-Louise Fletcher,Invaders from Mars,1986,Supernatural
+Louise Fletcher,Invaders from Mars,1986,Other
 Louise Fletcher,Shadowzone,1990,Cutting Instrument
 Louise Fletcher,Love Kills,1999,Firearms
 Louise Fletcher,After Image,2001,Strangulation
@@ -22952,7 +22952,7 @@ Ren Ôsugi,Brother,2000,Cutting Instrument
 Ren Ôsugi,The City of Lost Souls,2000,Supernatural
 Ren Ôsugi,Dead or Alive 2,2000,Cutting Instrument
 Ren Ôsugi,Spiral,2000,Other
-Ren Ôsugi,Zebraman,2004,Supernatural
+Ren Ôsugi,Zebraman,2004,Other
 Ren Ôsugi,Hair Extensions,2007,Cutting Instrument
 Ren Ôsugi,Shin Godzilla,2016,Firearms
 Ren Ôsugi,Outrage Coda,2017,Vehicular
@@ -23048,7 +23048,7 @@ Kôji Yakusho,The Third Murder,2017,Other
 Kôji Yakusho,Blood of the Wolves,2018,Animals
 Elizabeth Banks,The Uninvited,2009,Cutting Instrument
 Elizabeth Banks,Movie 43,2013,Cutting Instrument
-Elizabeth Banks,Power Rangers,2017,Supernatural
+Elizabeth Banks,Power Rangers,2017,Explosives
 Elizabeth Banks,Brightburn,2019,Impact
 Bill Bixby,Ride Beyond Vengeance,1966,Firearms
 Mikio Narita,Zatoichi and the Chess Experts,1965,Cutting Instrument
@@ -23811,9 +23811,9 @@ Dabbs Greer,The Vampire,1957,Supernatural
 Dabbs Greer,The Giant Claw,1957,Supernatural
 Dabbs Greer,Sundown: The Vampire in Retreat,1989,Supernatural
 Peter Baldwin,Stalag 17,1953,Firearms
-Paul Brannigan,Under the Skin,2013,Supernatural
+Paul Brannigan,Under the Skin,2013,Other
 Adam Pearson,Under the Skin,2013,Vehicular
-Kryštof Hádek,Under the Skin,2013,Supernatural
+Kryštof Hádek,Under the Skin,2013,Other
 Art Carney,Going in Style,1979,Ailment
 Art Carney,The Naked Face,1984,Strangulation
 Art Carney,Last Action Hero,1993,Personal Weapons
@@ -24133,7 +24133,7 @@ Kinnosuke Nakamura,The Shoguns Samurai,1978,Cutting Instrument
 Kinnosuke Nakamura,The Fall of Ako Castle,1978,Impact
 Kinnosuke Nakamura,The Shogun Assassins,1979,Cutting Instrument
 Leslie Carlson,Videodrome,1983,Firearms
-Corey Sevier,Decoys 2: Alien Seduction,2007,Supernatural
+Corey Sevier,Decoys 2: Alien Seduction,2007,Other
 Corey Sevier,House of Fears,2007,Personal Weapons
 Corey Sevier,Immortals,2011,Cutting Instrument
 Douglas Walton,The Garden Murder Case,1936,Impact
@@ -24143,7 +24143,7 @@ Douglas Walton,The Picture of Dorian Gray,1945,Other
 Douglas Walton,Dick Tracy vs. Cueball,1946,Strangulation
 Lara Gilchrist,The Seamstress,2009,Cutting Instrument
 Lara Gilchrist,Hamlet,2011,Drowning
-Kailin See,Decoys 2: Alien Seduction,2007,Supernatural
+Kailin See,Decoys 2: Alien Seduction,2007,Other
 Angela Featherstone,Soul Survivors,2001,Supernatural
 Leah Gibson,The Devils Ground,2008,Supernatural
 Leah Gibson,Watchmen,2009,Firearms
@@ -24208,7 +24208,7 @@ Askel Hennie,The Doorman,2020,Impact
 Askel Hennie,Sisu,2023,Impact
 Ian Richardson,Marat/Sade,1967,Cutting Instrument
 Ian Richardson,Rosencrantz and Guildenstern are Dead,1990,Cutting Instrument
-Ian Richardson,Dark City,1998,Supernatural
+Ian Richardson,Dark City,1998,Animals
 Alberto Dalbés,Danger!! Death Ray,1967,Firearms
 Alberto Dalbés,100 Rifles,1969,Firearms
 Alberto Dalbés,Cut-Throats Nine,1972,Cutting Instrument
@@ -24266,7 +24266,7 @@ Mercedes McNab,XII,2008,Cutting Instrument
 Mercedes McNab,Thirst,2010,Vehicular
 Kim Poirier,Dawn of the Dead,2004,Cutting Instrument
 Kim Poirier,Decoys,2004,Other
-Kim Poirier,Decoys 2: Alien Seduction,2007,Supernatural
+Kim Poirier,Decoys 2: Alien Seduction,2007,Fire
 Ingrid Torrance,Driven to Kill,2009,Firearms
 Mark Patton,A Nightmare on Elm Street 2: Freddys Revenge,1985,Explosives
 Kim Myers,A Nightmare on Elm Street 2: Freddys Revenge,1985,Explosives
@@ -24353,7 +24353,7 @@ Caitlin Stasey,"Fear, Inc.",2016,Cutting Instrument
 Caitlin Stasey,Smile,2022,Cutting Instrument
 Andy Romano,Eraser,1996,Explosives
 James Gunn,Citizen Toxie: The Toxic Avenger IV,2000,Poison
-James Gunn,Guardians of the Galaxy,2014,Supernatural
+James Gunn,Guardians of the Galaxy,2014,Cutting Instrument
 Lucy Hale,Scream 4,2011,Cutting Instrument
 Lucy Hale,Fantasy Island,2020,Drowning
 Aimee Teegarden,Scream 4,2011,Cutting Instrument
@@ -24449,7 +24449,7 @@ Henry Kingi Jr.,Assassins,1995,Firearms
 Henry Kingi Jr.,Soldier,1998,Personal Weapons
 Henry Kingi Jr.,Ghosts of Mars,2001,Supernatural
 Henry Kingi Jr.,The Guardian,2006,Other
-Henry Kingi Jr.,Star Trek,2009,Supernatural
+Henry Kingi Jr.,Star Trek,2009,Firearms
 Henry Kingi Jr.,The Expendables,2010,Firearms
 Henry Kingi Jr.,Priest,2011,Other
 Henry Kingi Jr.,Captain America: The Winter Soldier,2014,Firearms
@@ -24907,7 +24907,7 @@ Brian Keith,Sharkys Machine,1981,Firearms
 Brian Keith,Young Guns,1988,Firearms
 Buck Taylor,Comanche,2000,Other
 Buck Taylor,The Mist,2007,Weather
-Buck Taylor,Cowboys & Aliens,2011,Supernatural
+Buck Taylor,Cowboys & Aliens,2011,Firearms
 Charlie McDonnell,Super Brainy Zombies,2014,Supernatural
 Charlie McDonnell,Our Brother - Part One,2014,Other
 Sarah Lind,WolfCop,2014,Firearms
@@ -24956,7 +24956,7 @@ Thomas F. Duffy,The Lost World: Jurassic Park,1997,Drowning
 Thomas F. Duffy,Mercury Rising,1998,Poison
 Thomas F. Duffy,Scorcher,2002,Firearms
 Thomas F. Duffy,The Drone Virus,2004,Ailment
-Thomas F. Duffy,Super 8,2011,Supernatural
+Thomas F. Duffy,Super 8,2011,Other
 Liam Sullivan,The Magic Sword,1962,Cutting Instrument
 Stacy Harris,Comanche,1958,Firearms
 Stacy Harris,Good Day for a Hanging,1959,Strangulation
@@ -25039,7 +25039,7 @@ Essie Davis,Nitram,2021,Vehicular
 Richard Dysart,The Hospital,1971,Ailment
 Richard Dysart,The Hindenburg,1975,Fire
 Richard Dysart,Prophecy,1979,Supernatural
-Richard Dysart,The Thing,1982,Supernatural
+Richard Dysart,The Thing,1982,Other
 Richard Dysart,Pale Rider,1985,Firearms
 Richard Dysart,Warning Sign,1985,Firearms
 Curt Lowens,Werewolf in a Girls Dormitory,1961,Supernatural
@@ -25434,7 +25434,7 @@ Patch Darragh,Old Man,2022,Firearms
 Minnie Driver,Slow Burn,2000,Fire
 Minnie Driver,Stage Fright,2014,Cutting Instrument
 Sela Ward,The Fugitive,1993,Firearms
-Sela Ward,Independence Day: Resurgence,2016,Supernatural
+Sela Ward,Independence Day: Resurgence,2016,Impact
 Rick Miller,Stage Fright,2014,Cutting Instrument
 Chloe Webb,Sid and Nancy,1986,Cutting Instrument
 Brandon Uranowitz,Stage Fright,2014,Fire
@@ -25712,7 +25712,7 @@ Marnie Alton,Volcano,2004,Impact
 Chris William Martin,Aliens vs Predator: Requiem,2007,Supernatural
 Harry Treadaway,Brothers of the Head,2005,Other
 Harry Treadaway,The Lone Ranger,2013,Impact
-Harry Treadaway,Honeymoon,2014,Supernatural
+Harry Treadaway,Honeymoon,2014,Ailment
 D.J. Calvitto,The Toxic Avenger,1984,Poison
 Xavier Barquet,The Toxic Avenger,1984,Poison
 Larry Sulton,The Toxic Avenger,1984,Poison
@@ -25935,7 +25935,7 @@ Noel Gugliemi,Basement Jack,2009,Cutting Instrument
 Noel Gugliemi,Wrong Turn at Tahoe,2009,Personal Weapons
 Noel Gugliemi,Kill Kapone,2014,Firearms
 Noel Gugliemi,The Purge: Anarchy,2014,Firearms
-Noel Gugliemi,Beyond Skyline,2017,Supernatural
+Noel Gugliemi,Beyond Skyline,2017,Other
 Noel Gugliemi,3 from Hell,2019,Firearms
 Noel Gugliemi,Charlie Charlie,2019,Firearms
 Noel Gugliemi,El Chicano,2019,Firearms
@@ -26087,7 +26087,7 @@ Royal Dano,Teachers,1984,Ailment
 Royal Dano,Red-Headed Stranger,1986,Firearms
 Royal Dano,House II: The Second Story,1987,Supernatural
 Royal Dano,Ghoulies II,1988,Strangulation
-Royal Dano,Killer Klowns from Outer Space,1988,Supernatural
+Royal Dano,Killer Klowns from Outer Space,1988,Other
 Colin Fox,Virus,1980,Ailment
 Colin Fox,Scanners III: The Takeover,1992,Drowning
 Larry Reynolds,Virus,1980,Ailment
@@ -26535,7 +26535,7 @@ Lupe Velez,Laughing Boy,1934,Firearms
 Lupe Velez,Nana,1944,Ailment
 Paul Sanchez,Platoon,1986,Firearms
 Paul Sanchez,Friday the 13th: The Series,1989,Fire
-Gordon Tootoosis,Alien Thunder,1974,Supernatural
+Gordon Tootoosis,Alien Thunder,1974,Weather
 Sergi Lopez,With a Friend Like Harry,2000,Cutting Instrument
 Sergi Lopez,Pans Labyrinth,2006,Firearms
 Olivia Williams,The Last Days on Mars,2013,Supernatural
@@ -26570,7 +26570,7 @@ Shane Rangi,The Chronicles of Narnia: Prince Caspian,2008,Animals
 Shane Rangi,Thor: Ragnarok,2017,Cutting Instrument
 Julio De Grazia,Últimos Días de la Victima,1982,Firearms
 Raicho Vasilev,In Hell,2003,Vehicular
-Raicho Vasilev,Alien Lockdown,2004,Supernatural
+Raicho Vasilev,Alien Lockdown,2004,Other
 Raicho Vasilev,Mechanic: Resurrection,2016,Firearms
 Martin Wullich,Muerte En Buenos Aires,2014,Strangulation
 Carlos Casella,Muerte En Buenos Aires,2014,Firearms
@@ -26753,7 +26753,7 @@ Tom Hunsinger,Nightbreed,1990,Personal Weapons
 George Roth,Nightbreed,1990,Poison
 Stephen Hoye,Nightbreed,1990,Firearms
 Tony Gardner (II),Nightbreed,1990,Cutting Instrument
-Mac McDonald,Aliens,1986,Supernatural
+Mac McDonald,Aliens,1986,Other
 Mac McDonald,Nightbreed,1990,Cutting Instrument
 Valda Aviks,Nightbreed,1990,Cutting Instrument
 Pericles Lewnes,Redneck Zombies,1989,Supernatural
@@ -27135,7 +27135,7 @@ Bai Ling,Crank: High Voltage,2009,Fire
 Bai Ling,Pig Killer,2022,Strangulation
 Angel David,The Crow,1994,Personal Weapons
 Angel David,City Hall,1996,Other
-Chris Brown (puppeteer),Too Many Cooks,2014,Supernatural
+Chris Brown (puppeteer),Too Many Cooks,2014,Other
 Will Dove,Too Many Cooks,2014,Cutting Instrument
 Derick Huffmaster,Too Many Cooks,2014,Cutting Instrument
 Ben Peck,Too Many Cooks,2014,Cutting Instrument
@@ -27410,7 +27410,7 @@ Molly Ringwald,Malicious,1995,Impact
 Alfre Woodard,Heart and Souls,1993,Supernatural
 Alfre Woodard,Crooklyn,1994,Ailment
 Alfre Woodard,Holiday Heart,2000,Vehicular
-Alfre Woodard,The Forgotten,2004,Supernatural
+Alfre Woodard,The Forgotten,2004,Other
 Alfre Woodard,Annabelle,2014,Impact
 Alfre Woodard,The Gray Man,2022,Impact
 Alfre Woodard,Salems Lot,2024,Firearms
@@ -27442,7 +27442,7 @@ Paola Turbay,True Blood,2008,Fire
 Giles Matthey,1BR,2019,Firearms
 Deborah Puette,True Blood,2008,Ailment
 Greg Collins,The Rock,1996,Blunt Objects
-Greg Collins,Independence Day,1996,Supernatural
+Greg Collins,Independence Day,1996,Other
 Greg Collins,Double Tap,1997,Firearms
 Greg Collins,Armageddon,1998,Weather
 Greg Collins,Operation Delta Force 4: Deep Fault,1999,Firearms
@@ -27528,7 +27528,7 @@ Spencer Hill,True Blood,2008,Other
 David Bickford,Angels Dance,1999,Supernatural
 David Bickford,Ex-Wife Killer,2017,Cutting Instrument
 David Bickford,True Blood,2008,Supernatural
-Jessica Clark,Alien: Harvest,2019,Supernatural
+Jessica Clark,Alien: Harvest,2019,Cutting Instrument
 Chris Butler,Play Dead,2022,Cutting Instrument
 Dustin Ingram,Cabin Fever,2016,Ailment
 Dustin Ingram,True Blood,2014,Firearms
@@ -28900,7 +28900,7 @@ Jennifer Beals,The Bride,1985,Other
 Jennifer Beals,The Prophecy 3: The Ascent,2000,Fire
 Jennifer Beals,Desolatin Sound,2005,Impact
 Jennifer Beals,The Grudge 2,2006,Supernatural
-Esther Scott,Species,1995,Supernatural
+Esther Scott,Species,1995,Other
 Marliese Schneider,Species,1995,Vehicular
 Ray Porter,Rebel Moon – Part One: A Child of Fire,2023,Firearms
 Anthony De Longis,The Warrior and the Sorceress,1984,Cutting Instrument
@@ -29624,7 +29624,7 @@ Daniel Hugh Kelly,Guardian,2001,Other
 Beverly Lynne,Hells Highway,2002,Vehicular
 Beverly Lynne,Curse of the Erotic Tiki,2004,Weather
 Beverly Lynne,Polycarp,2007,Firearms
-Carrie Henn,Alien 3,1992,Supernatural
+Carrie Henn,Alien 3,1992,Other
 Arsenio Hall,Harlem Nights,1989,Firearms
 Harry Dodge,Cecil B. DeMented,2000,Firearms
 Laurie Fortier,The In Crowd,2000,Impact
@@ -29664,7 +29664,7 @@ Stephen Geoffreys,Moon 44,1990,Cutting Instrument
 Stephen Geoffreys,The Day of the Living Dead,2014,Drowning
 Robert Prescott,Cold Comes the Night,2013,Other
 Lisa Hartman,Deadly Blessing,1981,Firearms
-Johnny Martin,Killer Klowns from Outer Space,1988,Supernatural
+Johnny Martin,Killer Klowns from Outer Space,1988,Other
 Johnny Martin,Money Talks,1997,Firearms
 Jonathan Gray (I),Hells Highway,2002,Vehicular
 Ashley Laurence,Mikey,1992,Firearms
@@ -29681,7 +29681,7 @@ Kelly Preston,10 to Midnight,1983,Cutting Instrument
 Kelly Preston,52 Pick-Up,1986,Firearms
 Kelly Preston,Double Cross,1994,Explosives
 Kelly Preston,Love Is a Gun,1994,Firearms
-Kelly Preston,Battlefield Earth,2000,Supernatural
+Kelly Preston,Battlefield Earth,2000,Other
 Kelly Preston,Death Sentence,2007,Firearms
 Tracey Ullman,Into the Woods,2014,Impact
 Sandrine Holt,Resident Evil: Apocalypse,2004,Supernatural
@@ -29924,7 +29924,7 @@ Tracy Nelson,The Promise,1999,Firearms
 Tracy Nelson,The Perfect Tenant,2000,Blunt Objects
 J.E. Freeman,Ruthless People,1986,Impact
 J.E. Freeman,Millers Crossing,1990,Firearms
-J.E. Freeman,Alien: Resurrection,1997,Supernatural
+J.E. Freeman,Alien: Resurrection,1997,Cutting Instrument
 Taron Egerton,Testament of Youth,2014,Personal Weapons
 Colin Morgan,Parked,2012,Narcotics
 Colin Morgan,Testament of Youth,2014,Personal Weapons
@@ -29982,7 +29982,7 @@ Nita Talbot,Puppet Master II,1990,Cutting Instrument
 Richard Comar,Kickboxer 3: The Art of War,1992,Cutting Instrument
 Fay Spain,Hercules and the Captive Woman,1961,Impact
 Fay Spain,Welcome to Hard Times,1967,Cutting Instrument
-Ilse von Glatz,War of the Worlds,1988,Supernatural
+Ilse von Glatz,War of the Worlds,1988,Other
 Ilse von Glatz,War of the Worlds,1989,Supernatural
 Eugene Clark,Thrillkill,1986,Firearms
 Eugene Clark,Mindfield,1989,Other
@@ -30036,7 +30036,7 @@ Dina Meyer,Federal Protection,2002,Firearms
 Dina Meyer,Crimes Of Passion,2005,Firearms
 Dina Meyer,Crazy Eights,2006,Cutting Instrument
 Dina Meyer,Saw III,2006,Other
-Dina Meyer,Decoys 2: Alien Seduction,2007,Supernatural
+Dina Meyer,Decoys 2: Alien Seduction,2007,Other
 Dina Meyer,Piranha 3D,2010,Animals
 Dina Meyer,Lethal Seduction,2015,Cutting Instrument
 Dina Meyer,The Evil Within,2017,Cutting Instrument
@@ -30956,7 +30956,7 @@ Jack Langedijk,Darkman II: The Return of Durant,1995,Impact
 Kayvan Novak,Syriana,2005,Explosives
 Kayvan Novak,Four Lions,2010,Animals
 Kayvan Novak,Prevenge,2017,Impact
-Kayvan Novak,Men in Black: International,2019,Supernatural
+Kayvan Novak,Men in Black: International,2019,Other
 Adeel Akhtar,Four Lions,2010,Animals
 Adeel Akhtar,Murdered by My Father,2016,Other
 Adeel Akhtar,Victoria and Abdul,2017,Ailment
@@ -31017,7 +31017,7 @@ Hôka Kinoshita,Shinobi: Heart Under Blade,2005,Cutting Instrument
 Ken'ichi Matsuyama,Death Note: the Last Name,2006,Ailment
 Ken'ichi Matsuyama,Genghis Khan: To the Ends of the Earth and Sea,2007,Drowning
 Ken'ichi Matsuyama,Kaiji: The Ultimate Gambler,2009,Impact
-Ken'ichi Matsuyama,Gantz,2010,Supernatural
+Ken'ichi Matsuyama,Gantz,2010,Other
 Koyuki,Pulse,2001,Firearms
 Koyuki,Blood: The Last Vampire,2009,Supernatural
 Koyuki,Kamui,2009,Cutting Instrument
@@ -31113,7 +31113,7 @@ Jack Thibeau,Sudden Impact,1983,Firearms
 Jack Thibeau,The Hitcher,1986,Firearms
 Kevyn Major Howard,Death Wish II,1982,Firearms
 Kevyn Major Howard,Sudden Impact,1983,Drowning
-Kevyn Major Howard,Alien Nation,1988,Supernatural
+Kevyn Major Howard,Alien Nation,1988,Vehicular
 Kevyn Major Howard,War Party,1988,Firearms
 Wendell Wellman,Sudden Impact,1983,Firearms
 Wendell Wellman,Curfew,1989,Firearms
@@ -31571,7 +31571,7 @@ Traci Lords,"Nicole, her Ex & the Killer",2022,Cutting Instrument
 Lynn Borden,Frogs,1972,Drowning
 Lynn Borden,Black Mama White Mama,1973,Strangulation
 Lynn Borden,Hellhole,1985,Strangulation
-Tony Amendola,The Borrower,1991,Supernatural
+Tony Amendola,The Borrower,1991,Other
 Tony Amendola,Rebel Moon – Part One: A Child of Fire,2023,Firearms
 Charlotte Rampling,The Damned La Caduta degli dei; Gotterdammerung; Die Verdammten,1969,Other
 Charlotte Rampling,Tis Pity Shes a Whore,1971,Cutting Instrument
@@ -31728,7 +31728,7 @@ James Keach,The Long Riders,1980,Firearms
 Nicholas Guest,Down Twisted,1987,Impact
 Nicholas Guest,Nemesis,1992,Firearms
 Angela Landis,Bicentennial Man,1999,Other
-Angela Landis,Alien Abduction,2005,Supernatural
+Angela Landis,Alien Abduction,2005,Cutting Instrument
 Angela Landis,The Echo Game,2009,Cutting Instrument
 Dennis Dugan,Saving Silverman,2001,Cutting Instrument
 Robert Vaughn,Good Day for a Hanging,1959,Strangulation
@@ -31950,7 +31950,7 @@ Omar Benson Miller,Miracle at St. Anna,2008,Firearms
 Laz Alonso,Crime Partners,2003,Firearms
 Laz Alonso,All Souls Day: Dia de los Muertos,2005,Supernatural
 Laz Alonso,Captivity,2007,Firearms
-Laz Alonso,Avatar,2009,Supernatural
+Laz Alonso,Avatar,2009,Firearms
 Laz Alonso,Fast & Furious,2009,Blunt Objects
 Laz Alonso,Straw Dogs,2011,Animals
 Laz Alonso,Wrath of Man,2021,Strangulation
@@ -31994,7 +31994,7 @@ Jim Backus,Johnny Cool,1963,Firearms
 Tina Louise,Armored Command,1961,Firearms
 Tina Louise,The Wrecking Crew,1968,Vehicular
 Tina Louise,The Stepford Wives,1975,Other
-Tina Louise,Evils of the Night,1985,Supernatural
+Tina Louise,Evils of the Night,1985,Other
 Dawn Wells,Evil Lives,1992,Cutting Instrument
 Jena Malone,The Book of Stars,1999,Other
 Jena Malone,Donnie Darko,2001,Firearms
@@ -32288,9 +32288,9 @@ Tom Chatto,Quatermass 2,1957,Poison
 William Franklyn,Above Us The Waves,1955,Drowning
 William Franklyn,Quatermass 2,1957,Firearms
 William Franklyn,The Satanic Rites of Dracula,1973,Supernatural
-John Rae,Quatermass 2,1957,Supernatural
+John Rae,Quatermass 2,1957,Blunt Objects
 Charles Lloyd-Pack,Noose For A Lady,1953,Strangulation
-Charles Lloyd-Pack,Quatermass 2,1957,Supernatural
+Charles Lloyd-Pack,Quatermass 2,1957,Blunt Objects
 Charles Lloyd-Pack,the Terror of the Tongs,1961,Supernatural
 Charles Lloyd-Pack,Victim,1961,Ailment
 Charles Lloyd-Pack,Frankenstein And The Monster From Hell,1974,Supernatural
@@ -32663,7 +32663,7 @@ Didi Perego,Mafia Connection,1970,Other
 Frederick Coffin,Shoot to Kill,1988,Firearms
 Frederick Coffin,Hard to Kill,1990,Firearms
 Bonnie Burroughs,Hard to Kill,1990,Firearms
-Branscombe Richmond,Star Trek III: The Search for Spock,1984,Supernatural
+Branscombe Richmond,Star Trek III: The Search for Spock,1984,Other
 Branscombe Richmond,Commando,1985,Other
 Branscombe Richmond,Never Too Young to Die,1986,Cutting Instrument
 Branscombe Richmond,No Safe Haven,1987,Explosives
@@ -32983,11 +32983,11 @@ Melinda Clarke,Return of the Living Dead 3,1993,Vehicular
 Melinda Clarke,Spawn,1997,Firearms
 Melinda Clarke,A Family Under Siege,2002,Explosives
 William Bronder,Best Seller,1987,Firearms
-Colin O'Donoghue,Storage 24,2012,Supernatural
+Colin O'Donoghue,Storage 24,2012,Other
 Colin O'Donoghue,What Still Remains,2018,Cutting Instrument
 Burt Bulos,Beverly Hills Ninja,1997,Firearms
 Burt Bulos,Godzilla,1998,Other
-Omid Abtahi,The Hunger Games: Mockingjay Part 2,2015,Supernatural
+Omid Abtahi,The Hunger Games: Mockingjay Part 2,2015,Other
 Alimi Ballard,Fast Five,2011,Explosives
 Alimi Ballard,Kill Chain,2019,Strangulation
 Derek Richardson,Hostel,2005,Cutting Instrument
@@ -33048,7 +33048,7 @@ Bingbing Li,The Meg,2018,Drowning
 Bingbing Li,Meg 2: The Trench,2023,Other
 Bruce Spence,Dark City,1998,Other
 Bruce Spence,The Lord of the Rings: The Return of the King,2003,Cutting Instrument
-Bruce Spence,Occupation,2018,Supernatural
+Bruce Spence,Occupation,2018,Other
 Kathleen McKay,The Road Warrior,1981,Firearms
 Kjell Nilsson,The Road Warrior,1981,Vehicular
 Marc Alaimo,Hardcore,1979,Firearms
@@ -33135,7 +33135,7 @@ Munetaka Aoki,Hara-Kirk: Death of a Samurai,2011,Other
 Munetaka Aoki,Samurai Marathon,2019,Cutting Instrument
 Kazuki Namioka,Death Note: L Change the World,2008,Ailment
 Kazuki Namioka,13 Assassins,2010,Cutting Instrument
-Kazuki Namioka,Space Battleship Yamato,2010,Supernatural
+Kazuki Namioka,Space Battleship Yamato,2010,Other
 Kazuki Namioka,Hara-Kirk: Death of a Samurai,2011,Other
 Kazuki Namioka,Hell Girl,2019,Other
 Kevin Anderson,Rising Sun,1993,Impact
@@ -34173,7 +34173,7 @@ Conor Sweeney,Dont Look Up,2021,Other
 Steven Kostanski,Addiction Is Murder,2006,Narcotics
 Steven Kostanski,Inferno of the Dead,2009,Fire
 Steven Kostanski,Fathers Day,2011,Firearms
-Steven Kostanski,Manborg,2011,Supernatural
+Steven Kostanski,Manborg,2011,Firearms
 Jason McDonald,Sin City,2005,Cutting Instrument
 Jason McDonald,Fathers Day,2011,Firearms
 Jeremy Gillespie,Fathers Day,2011,Supernatural
@@ -34292,7 +34292,7 @@ Ivan Henwood,Manborg,2011,Firearms
 William O'Donnell,Insanophenia,2007,Poison
 William O'Donnell,Lazer Ghosts 2: Return to Laser Cove,2008,Supernatural
 William O'Donnell,Fathers Day,2011,Strangulation
-William O'Donnell,Manborg,2011,Supernatural
+William O'Donnell,Manborg,2011,Cutting Instrument
 Andrea Karr,Manborg,2011,Supernatural
 Bernard Horsfall,On Her Majestys Secret Service,1969,Strangulation
 Bernard Horsfall,Gold,1974,Explosives
@@ -34843,7 +34843,7 @@ Cyron Melville,A Royal Affair,2012,Cutting Instrument
 Stephanie Szostak,Iron Man 3,2013,Explosives
 Dee Bradley Baker,Deep Blue Sea,1999,Drowning
 Dee Bradley Baker,Scooby-Doo 2: Monsters Unleashed,2004,Supernatural
-Dee Bradley Baker,War of the Worlds,2005,Supernatural
+Dee Bradley Baker,War of the Worlds,2005,Other
 Dee Bradley Baker,Superman vs. The Elite,2012,Explosives
 Dee Bradley Baker,Justice League: The Flashpoint Paradox,2013,Firearms
 Dee Bradley Baker,Star Wars Episode VII: The Force Awakens,2015,Other
@@ -34909,7 +34909,7 @@ Dato Bakhtadze,Extraction 2,2023,Firearms
 Gorô Mutsumi,Kill!,1969,Cutting Instrument
 Gorô Mutsumi,Killers Mission,1969,Cutting Instrument
 Gorô Mutsumi,Stray Cat: Delinquent Girl Boss,1970,Cutting Instrument
-Gorô Mutsumi,Godzilla vs. Mechagodzilla,1974,Supernatural
+Gorô Mutsumi,Godzilla vs. Mechagodzilla,1974,Firearms
 Gorô Mutsumi,Terror of Mechagodzilla,1975,Supernatural
 Gorô Mutsumi,The War in Space,1977,Explosives
 Kôji Wada,Heartless,1968,Cutting Instrument
@@ -35246,11 +35246,11 @@ Ricky Harris,Bones,2001,Cutting Instrument
 Daniel Brocklebank,The Hole,2001,Drowning
 Desmond Harrington,The Hole,2001,Cutting Instrument
 Desmond Harrington,Ghost Ship,2002,Supernatural
-John Alexander,Men in Black,1997,Supernatural
+John Alexander,Men in Black,1997,Explosives
 John Alexander,Men in Black II,2002,Explosives
 John Alexander,The Haunted Mansion,2003,Supernatural
 Ken Thorley,Men in Black,1997,Poison
-Chad Randall,Cowboys & Aliens,2011,Supernatural
+Chad Randall,Cowboys & Aliens,2011,Animals
 Chad Randall,Jurassic World,2015,Vehicular
 Chad Randall,The Magnificent Seven,2016,Firearms
 Dawnn Lewis,Under Pressure,1997,Other
@@ -35454,7 +35454,7 @@ Lisa Bonet,Enemy of the State,1998,Other
 Brownie McGhee,Angel Heart,1987,Supernatural
 Stocker Fontelieu,Angel Heart,1987,Supernatural
 Michael Higgins,Angel Heart,1987,Supernatural
-Ben Murphy,Time Walker,1982,Supernatural
+Ben Murphy,Time Walker,1982,Other
 Amy Ryan,You Can Count on Me,2000,Vehicular
 Amy Ryan,Lost Girls,2020,Other
 Frank Deal,Non-Stop,2014,Firearms
@@ -35551,7 +35551,7 @@ Sal Landi,L.A. Heat,1997,Cutting Instrument
 Sal Landi,The X-Files,2002,Firearms
 Scott Mayer,Savage Streets,1984,Impact
 Robert Dryer,Savage Streets,1984,Fire
-Robert Dryer,The Borrower,1991,Supernatural
+Robert Dryer,The Borrower,1991,Other
 Robert Dryer,Street Knight,1993,Other
 Robert Dryer,The Last Letter,2004,Cutting Instrument
 Johnny Venocur,Savage Streets,1984,Vehicular
@@ -35847,7 +35847,7 @@ César Bordón,El Niño de Barro,2007,Firearms
 César Bordón,Relatos Salvajes,2014,Cutting Instrument
 César Bordón,Colonia,2015,Ailment
 María Marull,Relatos Salvajes,2014,Vehicular
-Philip Stone,Unearthly Stranger,1963,Supernatural
+Philip Stone,Unearthly Stranger,1963,Other
 Philip Stone,The Medusa Touch,1978,Impact
 Philip Stone,The Shining,1980,Firearms
 Lucila Mangone,Relatos Salvajes,2014,Vehicular
@@ -36166,7 +36166,7 @@ Terra Vnesa,5ive Girls,2006,Supernatural
 Terra Vnesa,Wrong Turn 4: Bloody Beginnings,2011,Drowning
 Bob Marley (American),The Boondock Saints II: All Saints Day,2009,Firearms
 Monika Nüchtern,Love Is Colder Than Death,1969,Firearms
-Tip Tipping,Aliens,1986,Supernatural
+Tip Tipping,Aliens,1986,Explosives
 Tip Tipping,Indiana Jones and the Last Crusade,1989,Other
 Tip Tipping,Batman,1989,Poison
 Edward Burnham,The Abominable Dr. Phibes,1971,Blunt Objects
@@ -36237,7 +36237,7 @@ Horacio Marassi,Plata Quemada,2000,Firearms
 Pablo Echarri,El Desvio,1998,Firearms
 Pablo Echarri,Plata Quemada,2000,Firearms
 Pablo Echarri,Al Final del Tunel,2016,Firearms
-Christine Kossak,The Brain,1988,Supernatural
+Christine Kossak,The Brain,1988,Other
 Autumn Dial,My Super Psycho Sweet 16: Part 3,2012,Blunt Objects
 Autumn Dial,Solace,2015,Poison
 Luisa Moraes,Solace,2015,Cutting Instrument
@@ -36456,7 +36456,7 @@ Yûrei Yanagi,Serpeants Path,1998,Firearms
 Yûrei Yanagi,Ju On The Curse,2000,Supernatural
 Yûrei Yanagi,Death Note: L Change the World,2008,Cutting Instrument
 Yuriko Ishida,File:Tankerboilingpoint.png,1990,Vehicular
-Takuya Kimura,File:Tankerboilingpointdgjyykgg.png,2010,Supernatural
+Takuya Kimura,File:Tankerboilingpointdgjyykgg.png,2010,Other
 Gregory Marshall Smith,Boiling Point,1990,Firearms
 Kett Turton,Blade: Trinity,2004,Cutting Instrument
 Kett Turton,Firewall,2006,Firearms
@@ -36693,7 +36693,7 @@ McKee Anderson,Night of the Living Dead,1990,Supernatural
 Heather Mazur,Night of the Living Dead,1990,Supernatural
 Katie Finneran,Night of the Living Dead,1990,Explosives
 Steven Yeun,Burning,2018,Cutting Instrument
-Steven Yeun,Nope,2022,Supernatural
+Steven Yeun,Nope,2022,Other
 Michael Traynor,The Thinning: New World Order,2018,Blunt Objects
 Justin Miles,The Crazies,2010,Firearms
 Jay Huguley,Tales from the Hood 2,2018,Firearms
@@ -36723,7 +36723,7 @@ S. William Hinzman,FleshEater,1988,Supernatural
 S. William Hinzman,The Drunken Dead Guy,2005,Supernatural
 S. William Hinzman,Shadow: Dead Riot,2006,Supernatural
 S. William Hinzman,It Came from Trafalgar,2008,Supernatural
-John Zacherle,Brain Damage,1988,Supernatural
+John Zacherle,Brain Damage,1988,Animals
 John Zacherle,Niagaravation,1995,Supernatural
 Martha de la Mora,El potro indomable,1992,Firearms
 Susan Haskell,Mrs. Winterbourne,1996,Other
@@ -36735,7 +36735,7 @@ Damian Young,Edge of Darkness,2010,Firearms
 Peter Epstein,Edge of Darkness,2010,Firearms
 Peter Epstein,The Big Short,2015,Impact
 William Boyett,Space Raiders,1983,Explosives
-William Boyett,The Hidden,1987,Supernatural
+William Boyett,The Hidden,1987,Other
 Marilyn Maxwell,New York Confidential,1955,Firearms
 Darren Dalton,Red Dawn,1984,Firearms
 Roberto Monzo,Epitafios,2009,Ailment
@@ -36991,7 +36991,7 @@ James Moses Black,Renfield,2023,Cutting Instrument
 Aaron V. Williamson,Terminator Genisys,2015,Firearms
 Victoria Principal,The Life and Times of Judge Roy Bean,1972,Other
 Victoria Principal,Vigilante Force,1976,Firearms
-Obba Babatundé,Necronomicon,1993,Supernatural
+Obba Babatundé,Necronomicon,1993,Blunt Objects
 Linda Gray,Dogs,1976,Animals
 Tom Mason (II),Night of the Ghouls,1959,Supernatural
 Tom Mason (II),Plan 9 from Outer Space,1959,Supernatural
@@ -37135,7 +37135,7 @@ Paul Koslo,The Ransom,1977,Firearms
 Paul Koslo,Love and Bullets,1979,Firearms
 Paul Koslo,The Annihilators,1985,Impact
 Paul Koslo,Loose Cannons,1990,Firearms
-Paul Koslo,Xtro II: The Second Encounter,1991,Supernatural
+Paul Koslo,Xtro II: The Second Encounter,1991,Other
 Warren William,Cleopatra,1934,Cutting Instrument
 Charles Quatermaine,The Bishop Murder Case,1930,Firearms
 Sean Murray,Hocus Pocus,1993,Impact
@@ -37229,7 +37229,7 @@ Jill Brown,The Departed,2006,Firearms
 Paula DeMers,The Departed,2006,Ailment
 Narda Onyx,Jesse James Meets Frankensteins Daughter,1966,Strangulation
 Jake T. Roberts,Killing Gunther,2017,Firearms
-Simon Crane,Alien 3,1992,Supernatural
+Simon Crane,Alien 3,1992,Explosives
 Simon Crane,GoldenEye,1995,Firearms
 James Lancaster,Die Hard 2: Die Harder,1990,Explosives
 James Lancaster,Leprechaun 2,1994,Other
@@ -38017,7 +38017,7 @@ Helmut Dantine,Bring Me the Head of Alfredo Garcia,1974,Firearms
 Helmut Dantine,The Killer Elite,1975,Firearms
 Roger Fritz,Cross of Iron,1977,Firearms
 Roger Fritz,Berlin Alexanderplatz,1980,Firearms
-Matthew Taylor,Cowboys & Aliens,2011,Supernatural
+Matthew Taylor,Cowboys & Aliens,2011,Firearms
 John McGuire,Invisible Ghost,1941,Supernatural
 John McGuire,He Walked By Night,1948,Firearms
 Desmond Tester,Sabotage,1936,Explosives
@@ -38210,7 +38210,7 @@ Nick Steele,Meet the Spartans,2008,Cutting Instrument
 Patricia Laffan,Quo Vadis,1951,Strangulation
 Patricia Laffan,Devil Girl from Mars,1954,Supernatural
 Patricia Laffan,23 Paces to Baker Street,1956,Impact
-Cooper Taylor,Cowboys & Aliens,2011,Supernatural
+Cooper Taylor,Cowboys & Aliens,2011,Blunt Objects
 Gary Hamilton,Tower of Evil,1972,Weather
 Hazelle Goodman,Hannibal,2001,Firearms
 Charley Grapewin,The Grapes of Wrath,1940,Ailment
@@ -39482,7 +39482,7 @@ Kay Lenz,House,1986,Firearms
 Kay Lenz,Death Wish 4: The Crackdown,1987,Firearms
 Kay Lenz,Physical Evidence,1989,Firearms
 Kay Lenz,Swan Lake,1981,Drowning
-Joanna Lee,The Brain Eaters,1958,Supernatural
+Joanna Lee,The Brain Eaters,1958,Animals
 Joanna Lee,Plan 9 from Outer Space,1959,Explosives
 Joseph Sirola,Hang Em High,1968,Strangulation
 Joseph Sirola,Get Smart,1966,Vehicular
@@ -39769,7 +39769,7 @@ Ikki Sawamura,13 Assassins,2010,Cutting Instrument
 Masataka Kubota,13 Assassins,2010,Cutting Instrument
 Masataka Kubota,Rurouni Kenshin,2012,Cutting Instrument
 Kôen Kondô,Karaoke Terror,2003,Supernatural
-Kôen Kondô,Zebraman,2004,Supernatural
+Kôen Kondô,Zebraman,2004,Fire
 Kôen Kondô,13 Assassins,2010,Explosives
 Thomas Kiwi,Mechanic: Resurrection,2016,Firearms
 Mark Ferguson,The Lord of the Rings: The Fellowship of the Ring,2001,Personal Weapons
@@ -39786,7 +39786,7 @@ Conrad Phillips,Murder She Said,1961,Firearms
 Peter DeLuise,21 Jump Street,2012,Firearms
 Darlene Cates,Whats Eating Gilbert Grape,1993,Ailment
 Anthony Ruivivar,White Fang 2: Myth of the White Wolf,1994,Animals
-Anthony Ruivivar,Starship Troopers,1997,Supernatural
+Anthony Ruivivar,Starship Troopers,1997,Personal Weapons
 Anthony Ruivivar,Tropic Thunder,2008,Weather
 Alberto de Mendoza,A Bullet For Sandoval,1969,Firearms
 Alberto de Mendoza,Gunman of Ave Maria,1969,Firearms
@@ -39802,7 +39802,7 @@ Rupert Davies,Dracula Has Risen from the Grave,1968,Other
 Rupert Davies,Witchfinder General,1968,Strangulation
 Rupert Davies,The Night Visitor,1971,Narcotics
 Ava Cadell,Spaced Out,1979,Explosives
-Ava Cadell,Not of This Earth,1988,Supernatural
+Ava Cadell,Not of This Earth,1988,Other
 Ava Cadell,Do or Die,1991,Explosives
 Mariette Hartley,The Return of Count Yorga,1971,Other
 Mariette Hartley,The Magnificent Seven Ride!,1972,Other
@@ -39831,7 +39831,7 @@ Wilhelm von Homburg,Die Hard,1988,Explosives
 Wilhelm von Homburg,Ghostbusters II,1989,Poison
 Wilhelm von Homburg,In The Mouth Of Madness,1994,Firearms
 Gary Roberts,Die Hard,1988,Firearms
-Gary Roberts,Alien Intruder,1993,Supernatural
+Gary Roberts,Alien Intruder,1993,Firearms
 Gary Roberts,Route 666,2001,Supernatural
 Lorenzo Caccialanza,Die Hard,1988,Firearms
 Joey Plewa,Die Hard,1988,Explosives
@@ -39845,7 +39845,7 @@ Dan Haggerty,Terror Night,1987,Supernatural
 Dan Haggerty,Elves,1990,Supernatural
 Dan Haggerty,The Magic Voyage,1992,Animals
 Stu Charno,Christine,1983,Explosives
-Stu Charno,Alien Hunter,2003,Supernatural
+Stu Charno,Alien Hunter,2003,Other
 Britt Ekland,Machine Gun McCain,1969,Firearms
 Britt Ekland,Endless Night,1972,Drowning
 Britt Ekland,King Solomons Treasure,1977,Firearms
@@ -39954,7 +39954,7 @@ Reed Hadley,I Shot Jesse James,1949,Firearms
 Reed Hadley,The St. Valentines Day Massacre,1967,Firearms
 Reed Hadley,Brain of Blood,1971,Supernatural
 Susan Denberg,Frankenstein Created Woman,1967,Personal Weapons
-Patrick Breen,Galaxy Quest,1999,Supernatural
+Patrick Breen,Galaxy Quest,1999,Firearms
 Robert Morley,Marie Antoinette,1938,Other
 Robert Morley,The Ghosts Of Berkeley Square,1947,Supernatural
 Robert Morley,The African Queen,1951,Ailment
@@ -40191,7 +40191,7 @@ Tara Buckman,"Silent Night, Deadly Night",1984,Cutting Instrument
 Tara Buckman,Never Too Young to Die,1986,Other
 Nick Goldsmith,Shaun of the Dead,2004,Supernatural
 Edward Moss,Scary Movie 3,2003,Impact
-Edward Moss,Scary Movie 4,2006,Supernatural
+Edward Moss,Scary Movie 4,2006,Explosives
 Susannah Hart Jones,The Victorville Massacre,2011,Cutting Instrument
 Susannah Hart Jones,40 Days and Nights,2012,Drowning
 Susannah Hart Jones,Book of Fire,2015,Firearms
@@ -40260,7 +40260,7 @@ Johnny Rock,Disaster Movie,2008,Cutting Instrument
 Dane Farwell,Red Eye,2005,Vehicular
 Dane Farwell,Epic Movie,2007,Cutting Instrument
 Dane Farwell,Knight & Day,2010,Firearms
-Kim Flowers,Alien: Resurrection,1997,Supernatural
+Kim Flowers,Alien: Resurrection,1997,Drowning
 Kim Flowers,Another Day in Paradise,1998,Firearms
 Paul Hipp,The Funeral,1996,Cutting Instrument
 Paul Hipp,Another Day in Paradise,1998,Firearms
@@ -40422,7 +40422,7 @@ Martje Grohmann,Nosferatu the Vampyre,1979,Supernatural
 Lucas Till,Walk the Line,2005,Other
 Lucas Till,Dance of the Dead,2008,Supernatural
 Lucas Till,Laid to Rest,2009,Firearms
-Lucas Till,Battle: Los Angeles,2011,Supernatural
+Lucas Till,Battle: Los Angeles,2011,Other
 Lucas Till,Kristy,2014,Cutting Instrument
 Lucas Till,X-Men: Apocalypse,2016,Explosives
 Lucas Till,The Disappointments Room,2016,Supernatural
@@ -40627,7 +40627,7 @@ George 'Buck' Flower,Village of the Damned,1995,Cutting Instrument
 George 'Buck' Flower,Demolition High,1996,Explosives
 George 'Buck' Flower,Wishmaster,1997,Supernatural
 George 'Buck' Flower,The Curse of the Komodo,2004,Firearms
-George 'Buck' Flower,They Are Among Us,2004,Supernatural
+George 'Buck' Flower,They Are Among Us,2004,Other
 Minako Katsuki,Cruel Gun Story,1964,Firearms
 Zenji Yamada,Teenage Yakuza,1962,Vehicular
 Zenji Yamada,Cruel Gun Story,1964,Firearms
@@ -41073,7 +41073,7 @@ Kelly Kruger,Girls Night Out,2017,Firearms
 Jerry Butler,Deranged,1987,Cutting Instrument
 Jamie Summers,Terror Night,1987,Supernatural
 James E. Myers,Lady Godiva Rides,1969,Firearms
-Megan Lee Ethridge,Alien Abduction,2005,Supernatural
+Megan Lee Ethridge,Alien Abduction,2005,Strangulation
 Megan Lee Ethridge,Jolly Roger: Massacre at Cutters Cove,2005,Cutting Instrument
 Daz Crawford,Blade II,2002,Cutting Instrument
 Daz Crawford,Hirokin: The Last Samurai,2012,Cutting Instrument
@@ -41132,7 +41132,7 @@ Ryô Ikebe,Brutal Tales of Chivlary,1965,Cutting Instrument
 Ryô Ikebe,Brutal Tales of Chivlary 2,1965,Cutting Instrument
 Ryô Ikebe,Yakuzas Tale,1969,Personal Weapons
 Ryô Ikebe,Battle for Okinawa,1971,Firearms
-Ryô Ikebe,The War in Space,1977,Supernatural
+Ryô Ikebe,The War in Space,1977,Other
 Ryô Ikebe,Winters Flower,1978,Cutting Instrument
 Keiju Kobayashi,Samurai Assassin,1965,Cutting Instrument
 Keiju Kobayashi,Battle for Okinawa,1971,Other
@@ -41748,10 +41748,10 @@ Raffaella Carrà,Von Ryans Express,1965,Firearms
 Fiona Lewis,The Fearless Vampire Killers,1967,Supernatural
 Fiona Lewis,Tintorera,1977,Drowning
 Fiona Lewis,The Fury,1978,Other
-Fiona Lewis,Strange Invaders,1983,Supernatural
+Fiona Lewis,Strange Invaders,1983,Firearms
 Madlyn Rhue,The Manhunter,1972,Firearms
 Madlyn Rhue,Star Trek II: The Wrath of Khan,1982,Other
-Cuyle Carvin,Alien Opponent,2010,Supernatural
+Cuyle Carvin,Alien Opponent,2010,Cutting Instrument
 Cuyle Carvin,Hidden Family Secrets,2018,Impact
 Aharon Ipalé,The Mummy,1999,Supernatural
 Beatrice Varley,Death Goes to School,1953,Narcotics
@@ -41826,7 +41826,7 @@ John Gallagher Jr.,Hush,2016,Cutting Instrument
 John Gallagher Jr.,Peppermint,2018,Firearms
 John Gallagher Jr.,I.S.S.,2023,Strangulation
 John Gallagher Jr.,Westworld,2020,Firearms
-Suzanne Cryer,10 Cloverfield Lane,2016,Supernatural
+Suzanne Cryer,10 Cloverfield Lane,2016,Other
 Cherie Currie,Foxes,1980,Vehicular
 Cherie Currie,Twilight Zone: The Movie,1983,Other
 Teri McMinn,The Texas Chainsaw Massacre,1974,Cutting Instrument
@@ -41956,7 +41956,7 @@ Steven Cree,300: Rise of an Empire,2014,Cutting Instrument
 Steven Cree,The Titan,2018,Other
 Harry McEntire,Tower Block,2012,Firearms
 Jill Baker,Tower Block,2012,Firearms
-Jamie Thomas King,Storage 24,2012,Supernatural
+Jamie Thomas King,Storage 24,2012,Other
 Jamie Thomas King,Tower Block,2012,Firearms
 Kane Robinson,Tower Block,2012,Firearms
 James Mitchum,Young Guns of Texas,1962,Firearms
@@ -42408,7 +42408,7 @@ Lotus Long,The Mystery of Mr. Wong,1939,Poison
 Taaffe O'Connell,New Years Evil,1980,Cutting Instrument
 Taaffe O'Connell,Galaxy of Terror,1981,Supernatural
 John Bowe,The Living Daylights,1987,Explosives
-Maryam d'Abo,Xtro,1983,Supernatural
+Maryam d'Abo,Xtro,1983,Other
 Maryam d'Abo,The Point Men,2001,Strangulation
 Olivia d'Abo,Mission Kill,1986,Firearms
 Olivia d'Abo,Into the Fire,1987,Firearms
@@ -42521,7 +42521,7 @@ Joshua Sinclair,The Inglorious Bastards,1978,Strangulation
 Joshua Sinclair,The Last Shark,1981,Animals
 Joshua Sinclair,1990: Bronx Warriors,1982,Cutting Instrument
 Amelia Cooke,Species III,2004,Impact
-Amelia Cooke,Alien Agent,2007,Supernatural
+Amelia Cooke,Alien Agent,2007,Firearms
 Xiao Chen,The Taking of Tiger Mountain,2014,Animals
 Yiheng Du,The Taking of Tiger Mountain,2014,Animals
 Yiheng Du,The Bodyguard,2016,Cutting Instrument
@@ -42582,7 +42582,7 @@ Brigitte Bardot,Amours célèbres,1961,Drowning
 Brigitte Bardot,A Very Private Affair,1961,Impact
 Brigitte Bardot,Contempt,1963,Vehicular
 Brigitte Bardot,Don Juan or: if Don Juan were a Woman,1973,Other
-Deobia Oparei,Alien 3,1992,Supernatural
+Deobia Oparei,Alien 3,1992,Cutting Instrument
 Deobia Oparei,The Foreigner,2003,Other
 Deobia Oparei,Doom,2005,Supernatural
 Deobia Oparei,Pirates of the Caribbean: On Stranger Tides,2011,Other
@@ -42801,7 +42801,7 @@ Tyler Patrick Jones,Feast,2005,Supernatural
 Patty Talbot,Eternal Evil,1985,Ailment
 Alisa Wilson,Terror on Alcatraz,1986,Supernatural
 Caroline Barclay,American Gothic,1988,Impact
-Caroline Barclay,Species,1995,Supernatural
+Caroline Barclay,Species,1995,Other
 Osa Massen,Background to Danger,1943,Cutting Instrument
 Osa Massen,Rocketship X-M,1950,Vehicular
 Manny Jacinto,Bad Times at the El Royale,2018,Firearms
@@ -42857,7 +42857,7 @@ Wakana Matsumoto,Gukouroku,2017,Other
 Wakana Matsumoto,Detective Conan: Kudo Shinichi e no Chousenjou,2011,Poison
 Wakana Matsumoto,Travel Mystery 58,2012,Other
 Wakana Matsumoto,"Iryu Sousa Season, Episode 3",2013,Other
-Masahiro Higashide,Parasyte: Part 1,2014,Supernatural
+Masahiro Higashide,Parasyte: Part 1,2014,Other
 Masahiro Higashide,Gonin Saga,2015,Firearms
 Masahiro Higashide,Creepy,2016,Other
 Masahiro Higashide,Burning Flower: Nakanai Onna,2015,Other
@@ -42902,14 +42902,14 @@ Jean-Pierre Marielle,Les acteurs,2000,Firearms
 Jean-Pierre Marielle,The Da Vinci Code,2006,Firearms
 Brendan Meyer,Starving in Suburbia,2014,Other
 Brendan Meyer,Color Out of Space,2019,Other
-Clive Mantle,Alien 3,1992,Supernatural
+Clive Mantle,Alien 3,1992,Strangulation
 Clive Mantle,Superman IV: The Quest for Peace,1987,Personal Weapons
 Elisabeth Röhm,The Kreutzer Sonata,2008,Cutting Instrument
 Elisabeth Röhm,Abduction,2011,Poison
 Elisabeth Röhm,Darkroom,2013,Blunt Objects
 Elisabeth Röhm,Wish Upon,2017,Strangulation
 Ernie Ortega,Missing In Action,1984,Cutting Instrument
-Katherine Best,Xtro,1983,Supernatural
+Katherine Best,Xtro,1983,Vehicular
 Mark Adair-Rios,Candyman 3: Day of the Dead,1999,Cutting Instrument
 Adele Mara,The Catman of Paris,1946,Other
 Adele Mara,Back from Eternity,1956,Impact
@@ -42974,7 +42974,7 @@ Derek de Lint,Soul Assassin,2001,Supernatural
 Jess Conrad,Konga,1961,Strangulation
 Jess Conrad,The Assassination Bureau Limited,1969,Drowning
 Louis de Funès,Hibernatus,1969,Weather
-Louis de Funès,Le Gendarme et les extraterrestres,1978,Supernatural
+Louis de Funès,Le Gendarme et les extraterrestres,1978,Other
 Simon Helberg,Florence Foster Jenkins,2016,Other
 Simon Helberg,Annette,2021,Drowning
 Sandy Helberg,The Granny,1995,Cutting Instrument
@@ -43218,7 +43218,7 @@ Tom Kemp,Irrational Man,2015,Poison
 Leila Arcieri,Wild Things 2,2004,Firearms
 Kathleen Gati,Sunshine,1999,Ailment
 Fabio Carfora,Rome,2005,Animals
-Vincenzo Nicoli,Alien 3,1992,Supernatural
+Vincenzo Nicoli,Alien 3,1992,Other
 Vincenzo Nicoli,Spiders 3D,2013,Animals
 Enoch Frost,Skyfall,2012,Firearms
 Scott Chisholm,Rome,2005,Drowning
@@ -43634,7 +43634,7 @@ Julian Morris,Donkey Punch,2008,Personal Weapons
 Julian Morris,Sorority Row,2009,Fire
 Julian Morris,Something Wicked,2014,Firearms
 Matt Jaynes,Shaun of the Dead,2004,Supernatural
-Malcolm Scott,Slither,2006,Supernatural
+Malcolm Scott,Slither,2006,Other
 Malcolm Scott,Watchmen,2009,Fire
 Peri Gilpin,Final Fantasy: The Spirits Within,2001,Supernatural
 Derren Nesbitt,Sword of Sherwood Forest,1960,Cutting Instrument
@@ -43897,7 +43897,7 @@ Martha Hackett,The Bye Bye Man,2017,Firearms
 Patrick St. Esprit,I Love Trouble,1994,Impact
 Patrick St. Esprit,Smokin Aces,2006,Cutting Instrument
 Patrick St. Esprit,I Am Wrath,2016,Cutting Instrument
-Patrick St. Esprit,Independence Day: Resurgence,2016,Supernatural
+Patrick St. Esprit,Independence Day: Resurgence,2016,Other
 John Storey,Independence Day: Resurgence,2016,Firearms
 Margie Peterson,Strike a Pose,1993,Blunt Objects
 Tarrish Potter,Messenger of Death,1988,Firearms
@@ -43930,7 +43930,7 @@ Yukihito Tanikado,Alive,2002,Firearms
 Shôichirô Masumoto,Versus,2000,Firearms
 Shôichirô Masumoto,Azumi,2003,Cutting Instrument
 Shôichirô Masumoto,Azumi 2: Death or Love,2005,Cutting Instrument
-Shôichirô Masumoto,Meatball Machine,2005,Supernatural
+Shôichirô Masumoto,Meatball Machine,2005,Other
 Shôichirô Masumoto,LoveDeath,2006,Firearms
 Kenji Matsuda,Versus,2000,Cutting Instrument
 Kenji Matsuda,Alive,2002,Firearms
@@ -44257,7 +44257,7 @@ Lily James,Mamma Mia! Here We Go Again,2018,Other
 Timothy Stack,Idle Hands,1999,Other
 Katie Wright,Idle Hands,1999,Cutting Instrument
 Ernest Liu,From Dusk Till Dawn,1996,Supernatural
-Alex Meneses,Amanda and the Alien,1995,Supernatural
+Alex Meneses,Amanda and the Alien,1995,Other
 Alex Meneses,Living in Peril,1997,Strangulation
 Alex Meneses,Stealth Fighter,1999,Firearms
 Alex Meneses,Wrong Turn at Tahoe,2009,Cutting Instrument
@@ -44373,7 +44373,7 @@ Luciano Pigozzi,The Hunters of the Golden Cobra,1982,Animals
 Luciano Pigozzi,Exterminators of the Year 3000,1983,Cutting Instrument
 Luciano Pigozzi,Strike Commando,1986,Blunt Objects
 Luciano Pigozzi,Double Target,1987,Firearms
-Luciano Pigozzi,Alien from the Deep,1989,Supernatural
+Luciano Pigozzi,Alien from the Deep,1989,Impact
 Venantino Venantini,Galia,1966,Firearms
 Venantino Venantini,Bandidos,1967,Firearms
 Venantino Venantini,Seven Deaths in the Cats Eye,1973,Firearms
@@ -44962,7 +44962,7 @@ Tom Davidson,The Alamo,2004,Firearms
 Nick Kokich,The Alamo,2004,Firearms
 Craig Erickson,The Alamo,2004,Drowning
 Fox Harris,Forbidden World,1982,Supernatural
-Fox Harris,Repo Man,1984,Supernatural
+Fox Harris,Repo Man,1984,Vehicular
 Fox Harris,Straight to Hell,1987,Firearms
 Fox Harris,Alienator,1989,Explosives
 Dick Rude,Night of the Comet,1984,Firearms
@@ -45280,7 +45280,7 @@ Morris Ankrum,The Raiders,1952,Firearms
 Morris Ankrum,The Man Behind the Gun,1953,Firearms
 Morris Ankrum,Drums Across The River,1954,Drowning
 Morris Ankrum,Cattle Queen of Montana,1954,Other
-Morris Ankrum,Earth vs. the Flying Saucers,1956,Supernatural
+Morris Ankrum,Earth vs. the Flying Saucers,1956,Other
 Morris Ankrum,Drango,1957,Strangulation
 Morris Ankrum,Kronos,1957,Other
 Morris Ankrum,Rawhide,1961,Firearms
@@ -45368,7 +45368,7 @@ John DeMita,Leprechaun 3,1995,Personal Weapons
 Leslie Parrish,The Manchurian Candidate,1962,Firearms
 Leslie Parrish,The Giant Spider Invasion,1975,Supernatural
 Leslie Parrish,Invisible Strangler,1976,Strangulation
-Leslie Parrish,Logan’s Run: The Collectors,1977,Supernatural
+Leslie Parrish,Logan’s Run: The Collectors,1977,Poison
 Joan Marshall,Homicidal,1961,Firearms
 Zena Walker,The Dresser,1983,Strangulation
 Keesha Sharp,Leprechaun Back 2 tha Hood,2003,Impact
@@ -46151,7 +46151,7 @@ Kôtarô Satomi,Eleven Samurai,1967,Cutting Instrument
 Kôtarô Satomi,Bakeneko: A Vengeful Spirit,1968,Supernatural
 Randy Travis,Fire Down Below,1997,Firearms
 Mary Ann Harris,Carnival of Souls,1962,Supernatural
-Susan Bjurman,Zontar: The Thing from Venus,1966,Supernatural
+Susan Bjurman,Zontar: The Thing from Venus,1966,Other
 Aimee Garcia,Dragon Wars,2007,Supernatural
 Crista Flanagan,Disaster Movie,2008,Impact
 Dean Cochran,A Dangerous Place,1994,Personal Weapons
@@ -46187,7 +46187,7 @@ Suvarna Jha,Sssshhh...,2003,Strangulation
 Michelle Ray Smith,Salt,2010,Firearms
 Michelle Ray Smith,Inkubus,2011,Supernatural
 John Lynch,Edward II,1991,Strangulation
-John Lynch,Alien Hunter,2003,Supernatural
+John Lynch,Alien Hunter,2003,Strangulation
 John Lynch,The Tournament,2009,Firearms
 John Lynch,Night Wolf,2010,Animals
 John Lynch,Pilgrimage,2017,Cutting Instrument
@@ -46288,7 +46288,7 @@ Leslie Stefanson,Break Up,1998,Personal Weapons
 Leslie Stefanson,The Generals Daughter,1999,Strangulation
 Leslie Stefanson,Unbreakable,2000,Vehicular
 Leslie Stefanson,Desert Saints,2002,Firearms
-Leslie Stefanson,Alien Hunter,2003,Supernatural
+Leslie Stefanson,Alien Hunter,2003,Ailment
 Allison Janney,Margaret,2011,Vehicular
 Allison Janney,Miss Peregrines Home for Peculiar Children,2016,Other
 Allison Janney,Ma,2019,Animals
@@ -46345,7 +46345,7 @@ Felicity Jones,Rogue One,2016,Explosives
 Felicity Jones,A Monster Calls,2016,Supernatural
 Felicity Jones,The Brutalist,2024,Other
 Sydney Bromley,Night Creatures,1962,Supernatural
-Sydney Bromley,Night of the Big Heat,1967,Supernatural
+Sydney Bromley,Night of the Big Heat,1967,Other
 Sydney Bromley,Prehistoric Women,1967,Other
 Sydney Bromley,Dragonslayer,1981,Firearms
 Sydney Bromley,An American Werewolf in London,1981,Supernatural
@@ -46623,7 +46623,7 @@ Marina Berti,An Angel for Satan,1966,Supernatural
 Natasha Malinsky,Carver,2008,Cutting Instrument
 Carrie Cobb,To All a Goodnight,1980,Impact
 Stephen Oyoung,Olympus Has Fallen,2013,Impact
-Stephen Oyoung,Independence Day: Resurgence,2016,Supernatural
+Stephen Oyoung,Independence Day: Resurgence,2016,Impact
 Stephen Oyoung,Terminator: Dark Fate,2019,Cutting Instrument
 Emma Piper,Empire of the Sun,1987,Other
 Olga Diegues,Turistas,2006,Impact
@@ -46735,7 +46735,7 @@ Ricardo Valle,The Awful Dr. Orloff,1962,Firearms
 Caroline O'Connor,Moulin Rouge!,2001,Cutting Instrument
 Dawn Wildsmith,The Tomb,1985,Impact
 Dawn Wildsmith,Armed Response,1986,Firearms
-Dawn Wildsmith,Evil Spawn,1987,Supernatural
+Dawn Wildsmith,Evil Spawn,1987,Firearms
 Dawn Wildsmith,Surf Nazis Must Die,1987,Cutting Instrument
 Dawn Wildsmith,Cyclone,1987,Weather
 Debs Howard,A Mother on the Edge,2019,Vehicular
@@ -46769,7 +46769,7 @@ Mark Baltazar,The Warriors,1979,Other
 Candace Moon,Shredder,2001,Impact
 Deanne Destler,Nude Nuns with Big Guns,2010,Firearms
 Eliza Kiss,Axeman,2013,Cutting Instrument
-Eliza Kiss,The Encounter,2015,Supernatural
+Eliza Kiss,The Encounter,2015,Fire
 Karishma Ahluwalia,Savages,2012,Firearms
 Karishma Ahluwalia,Grimm,2016,Cutting Instrument
 Mike O'Brien,The Unsaid,2001,Firearms
@@ -47130,7 +47130,7 @@ Joe Nunez,Rango,2011,Blunt Objects
 Joe Nunez,The Watch,2012,Cutting Instrument
 Joe Nunez,The Rake,2018,Cutting Instrument
 Lynn Theel,Humanoids from the Deep,1980,Supernatural
-Lynn Theel,Without Warning,1980,Supernatural
+Lynn Theel,Without Warning,1980,Other
 Pete Duel,The Hell with Heroes,1968,Firearms
 Pete Duel,Cannon for Cordoba,1970,Other
 Andy Umberger,The Accountant,2016,Narcotics
@@ -47375,7 +47375,7 @@ Mac Brandt,"Game Over, Man!",2018,Other
 Scott Anthony Leet,Groupie,2010,Other
 Spencer List,She Came From the Woods,2022,Cutting Instrument
 Gisela Hahn,"So Darling, So Deadly",1966,Firearms
-Gisela Hahn,Contamination,1980,Supernatural
+Gisela Hahn,Contamination,1980,Poison
 Gisela Hahn,The Man Hunter,1980,Supernatural
 Sudana Bobatoon,Vice Squad,1982,Vehicular
 Werner Daehn,xXx,2002,Explosives
@@ -47438,7 +47438,7 @@ Gretchen Kingsley,Blood Sisters,1987,Cutting Instrument
 Siegfried Rauch,The College Girl Murders,1967,Strangulation
 Siegfried Rauch,The Eagle Has Landed,1976,Animals
 Siegfried Rauch,Escape to Athena,1979,Vehicular
-Siegfried Rauch,Contamination,1980,Supernatural
+Siegfried Rauch,Contamination,1980,Explosives
 Alan Young,The Time Machine,1960,Blunt Objects
 Alan Young,Time Machine: The Journey Back,1993,Blunt Objects
 Ted V. Mikels,Ten Violent Women,1982,Cutting Instrument
@@ -47633,7 +47633,7 @@ Bent Vejlby,Reptilicus,1961,Fire
 Christopher Darga,Under Siege 2: Dark Territory,1995,Firearms
 Gino Corrado,Viva Villa!,1934,Blunt Objects
 Angela Nicholas,Psychos in Love,1987,Cutting Instrument
-Angela Nicholas,Alien Space Avenger,1989,Supernatural
+Angela Nicholas,Alien Space Avenger,1989,Impact
 Angela Nicholas,Wheels of Beauty,2021,Vehicular
 Michael Nicolosi,Things to Do in Denver When Youre Dead,1995,Cutting Instrument
 Gloria Pall,The Crimson Kimono,1959,Fire
@@ -47726,7 +47726,7 @@ John Amero,The Curse of Her Flesh,1968,Cutting Instrument
 Rick Lundgren,Silent Scream,2005,Cutting Instrument
 Jim Sligh,Dear God No!,2011,Firearms
 Jim Sligh,Frankenstein Created Bikers,2016,Explosives
-LeeAnne Baker,Breeders,1986,Supernatural
+LeeAnne Baker,Breeders,1986,Ailment
 LeeAnne Baker,Necropolis,1987,Supernatural
 Heidi Pascoe,The Book of Eli,2010,Other
 Lisa Inouye,Cold Front,1989,Other
@@ -47780,7 +47780,7 @@ Raoul Bova,Alien vs. Predator,2004,Supernatural
 Eoin McCarthy,Alien vs. Predator,2004,Supernatural
 Ben Batt,The Windmill,2016,Impact
 Michael Mark Edmondson,Predator 2,1990,Supernatural
-Colette Hiller,Aliens,1986,Supernatural
+Colette Hiller,Aliens,1986,Vehicular
 Derek Howard,The Windmill,2016,Fire
 Victoria Bidewell,Aliens vs Predator: Requiem,2007,Supernatural
 Valentine Berning,The Windmill,2016,Personal Weapons
@@ -48120,7 +48120,7 @@ Oliver Seitz,The Girl in the Photographs,2015,Cutting Instrument
 Claudia Lee,The Girl in the Photographs,2015,Firearms
 Claudia Lee,Haunting on Fraternity Row,2018,Supernatural
 Daniel James,Prometheus,2012,Other
-Trevor Steedman,Aliens,1986,Supernatural
+Trevor Steedman,Aliens,1986,Other
 Cynthia Dale Scott,Aliens,1986,Supernatural
 Robert N. Goodman,Beware! The Blob,1972,Other
 Irene Jacob,The Double Life of Veronique,1991,Ailment
@@ -48157,11 +48157,11 @@ Ben Daniels,Rogue One,2016,Explosives
 Ben Daniels,Captive State,2019,Poison
 Al Matthews,Aliens,1986,Supernatural
 Ricco Ross,Death Wish 3,1985,Impact
-Ricco Ross,Aliens,1986,Supernatural
+Ricco Ross,Aliens,1986,Firearms
 Ricco Ross,Project Shadowchaser III,1995,Other
 Ricco Ross,Wishmaster,1997,Supernatural
-Niall Buggy,Alien 3,1992,Supernatural
-Brian Glover,Alien 3,1992,Supernatural
+Niall Buggy,Alien 3,1992,Other
+Brian Glover,Alien 3,1992,Other
 Brian Glover,Royal Deceit,1994,Cutting Instrument
 Brian Glover,1942: A Love Story,1994,Other
 Pavel Bezdek,The League of Extraordinary Gentlemen,2003,Firearms
@@ -48318,7 +48318,7 @@ Oleg Volku,Stalingrad,1993,Firearms
 Heiner Lauterbach,Stalingrad,2013,Cutting Instrument
 Aleksey Barabash,Stalingrad,2013,Firearms
 Yanina Studilina,Stalingrad,2013,Firearms
-Christopher Fairbank,Alien 3,1992,Supernatural
+Christopher Fairbank,Alien 3,1992,Poison
 Christopher Fairbank,Jack the Giant Slayer,2013,Supernatural
 Christopher Fairbank,Hercules,2014,Cutting Instrument
 Christopher Fairbank,Writers Retreat,2015,Other
@@ -48367,7 +48367,7 @@ Yvette Yates,Malicious,2018,Blunt Objects
 Rebecca Grant,Sorority Party Massacre,2012,Animals
 Bill Engvall,The Neighbor,2016,Firearms
 Jaqueline Fleming,The Neighbor,2016,Fire
-David Kallaway,Alien Lockdown,2004,Supernatural
+David Kallaway,Alien Lockdown,2004,Firearms
 David Kallaway,The Neighbor,2016,Firearms
 David Kallaway,Money Plane,2020,Other
 David Kallaway,Last Seen Alive,2022,Firearms
@@ -48516,7 +48516,7 @@ Marilyn Tokuda,Liquid Dreams,1991,Cutting Instrument
 Traci Mann,Sgt Kabukiman NYPD,1991,Impact
 Melissa Galianos,The Clown at Midnight,1998,Cutting Instrument
 Judy Gordon,Death by Dialogue,1988,Cutting Instrument
-Neda Sokolovska,Alien Apocalypse,2005,Supernatural
+Neda Sokolovska,Alien Apocalypse,2005,Firearms
 Sharisse Baker-Bernard,Blowback,2000,Impact
 Dorothy Tristan,End of the Road,1970,Strangulation
 Dorothy Tristan,Klute,1971,Other
@@ -48544,7 +48544,7 @@ Serge Davri,Shoot the Piano Player,1960,Firearms
 Mako Midori,Sleepy Eyes of Death: Into the Spiders Lair,1968,Animals
 Mako Midori,Blind Beast,1969,Supernatural
 Brittany Daniel,The Hamiltons,2006,Supernatural
-Brittany Daniel,Skyline,2010,Supernatural
+Brittany Daniel,Skyline,2010,Other
 Peggy Ashcroft,A Passage to India,1984,Ailment
 Phil Uhler,Aliens vs Predator: Requiem,2007,Supernatural
 Adam Nelson,Appaloosa,2008,Firearms
@@ -48657,7 +48657,7 @@ Corinna Everson,Double Impact,1991,Cutting Instrument
 Corinna Everson,Ballistic,1995,Personal Weapons
 Mary Stavin,Open House,1987,Cutting Instrument
 Mary Stavin,The Opponent,1988,Firearms
-Mary Stavin,Top Line,1988,Supernatural
+Mary Stavin,Top Line,1988,Firearms
 Mary Stavin,Howling V: The Rebirth,1989,Supernatural
 Mary Stavin,Ultimate Desire,1993,Firearms
 Donna Croce,Land of the Dead,2005,Supernatural
@@ -48802,7 +48802,7 @@ Ben Lam,Flashpoint,2007,Personal Weapons
 Ben Lam,The White Storm,2013,Firearms
 Ben Lam,Raging Fire,2021,Firearms
 Hunter Tylo,The Initiation,1984,Cutting Instrument
-Hunter Tylo,They Are Among Us,2004,Supernatural
+Hunter Tylo,They Are Among Us,2004,Animals
 Susana Beltran,The Curious Dr. Humpp,1971,Strangulation
 Riaz Solker,Doomsday,2008,Blunt Objects
 Mariangela Giordano,Hang for Django,1969,Strangulation
@@ -49171,8 +49171,8 @@ Amy Yip,Erotic Ghost Story II,1991,Supernatural
 Amy Yip,Sex and Zen,1991,Strangulation
 Amy Yip,Requital,1992,Firearms
 Amy Yip,Underground Judgement,1994,Firearms
-Ginny Avery,The Darkest Dawn,2016,Supernatural
-Tanya Newbould,Skyline,2010,Supernatural
+Ginny Avery,The Darkest Dawn,2016,Other
+Tanya Newbould,Skyline,2010,Other
 Shannon Cochran,The Ring,2002,Personal Weapons
 Hannie Landman,Billy the Kid Versus Dracula,1966,Other
 Joanne Dorian,A Stranger is Watching,1982,Blunt Objects
@@ -49351,7 +49351,7 @@ Marshall Manesh,Supreme Sanction,1999,Animals
 Marshall Manesh,Life Blood,2009,Cutting Instrument
 Joseph McCambridge,The Shadow Walkers,2006,Supernatural
 Sean Faris,Gangster Land,2017,Firearms
-Serria Tawan,Candy Strippers,2008,Supernatural
+Serria Tawan,Candy Strippers,2008,Animals
 Giovanna Galletti,Sodom and Gomorrah,1962,Other
 Giovanna Galletti,The Bible,1966,Drowning
 Giovanna Galletti,"Kill, Baby... Kill!",1966,Strangulation
@@ -49419,7 +49419,7 @@ Clara Calamai,Deep Red,1975,Cutting Instrument
 Melissa Sagemiller,Love Object,2003,Firearms
 Betty Alberge,Crucible of Terror,1971,Supernatural
 Betty Alberge,Disciple of Death,1972,Strangulation
-Signy Coleman,Necronomicon: Book of the Dead,1993,Supernatural
+Signy Coleman,Necronomicon: Book of the Dead,1993,Other
 Petr Jákl,Alien vs. Predator,2004,Supernatural
 James Chutter,Aliens vs Predator: Requiem,2007,Supernatural
 Shane Richie,Flushed Away,2006,Other
@@ -49876,7 +49876,7 @@ Chicho Campillo,Pans Labyrinth,2006,Firearms
 Catherine Diamant,Five Women for the Killer,1974,Cutting Instrument
 Alex Luria,2001 Maniacs: Field of Screams,2010,Vehicular
 Nicole Rayburn,Boo,2005,Firearms
-Nicole Rayburn,Candy Stripers,2006,Supernatural
+Nicole Rayburn,Candy Stripers,2006,Animals
 Judith Arthy,The Shuttered Room,1967,Other
 Shae Keebler,Carolina Moon,2007,Strangulation
 Alicia Jenkins,Toe Tags,2003,Cutting Instrument
@@ -50059,7 +50059,7 @@ Frank Ferguson,Johnny Guitar,1954,Firearms
 Kristin Richardson,Final Move,2006,Other
 Priscilla Huckleberry,Pyscho Cop 2,1993,Other
 Emily Booth,Cradle of Fear,2001,Supernatural
-Emily Booth,Evil Aliens,2005,Supernatural
+Emily Booth,Evil Aliens,2005,Other
 Kotobuki Hananomoto,Tattooed Life,1965,Cutting Instrument
 Aggie Valdez,Shadow: Dead Riot,2006,Supernatural
 Pihla Viitala,Hansel & Gretel: Witch Hunters,2013,Cutting Instrument
@@ -50099,12 +50099,12 @@ Sarah Falkenburg,The Bread Squeezer,2006,Cutting Instrument
 Gilda Arancio,Female Vampire,1973,Supernatural
 Dee Anderson,Murder Elite,1985,Cutting Instrument
 Florence Thomassin,Tell No One,2006,Firearms
-Killian Coyle,Grabbers,2012,Supernatural
+Killian Coyle,Grabbers,2012,Other
 Nick Chopping,Grabbers,2012,Drowning
 Louis Dempsey,Troy,2004,Other
 Louis Dempsey,Grabbers,2012,Cutting Instrument
 Louis Dempsey,6 Bullets,2012,Firearms
-Clelia Murphy,Grabbers,2012,Supernatural
+Clelia Murphy,Grabbers,2012,Personal Weapons
 Pascal Scott,Grabbers,2012,Supernatural
 John Schuck,Tales from the Crypt Presents: Demon Knight,1995,Supernatural
 Noble Craig,Poltergeist II: The Other Side,1986,Supernatural
@@ -50164,7 +50164,7 @@ Lori Lively,Simon Says,2006,Other
 Stefania Sartori,Nikita Sexy Killer,1999,Firearms
 Peter Messer,Creepshow,1982,Firearms
 Jeanne Bascom,The Midwifes Tale,1995,Strangulation
-Charles B. Griffith,It Conquered the World,1956,Supernatural
+Charles B. Griffith,It Conquered the World,1956,Other
 Charles B. Griffith,Attack of the Crab Monsters,1957,Supernatural
 Charles B. Griffith,The Little Shop of Horrors,1960,Supernatural
 Jay Gillespie,2001 Maniacs,2005,Cutting Instrument
@@ -50261,7 +50261,7 @@ Pamela Franklin,The Legend of Hell House,1973,Impact
 Jennifer Tung,Life Blood,2009,Firearms
 Sandrine Thoquet,Draculas Fiancee,2002,Fire
 Vitus Zeplichal,The Third Generation,1979,Impact
-Wendy Schumacher,Star Hunter,1995,Supernatural
+Wendy Schumacher,Star Hunter,1995,Explosives
 Duncan Fraser,Watchers,1988,Other
 Duncan Fraser,Needful Things,1993,Firearms
 Duncan Fraser,Sweet Dreams,1996,Poison
@@ -50511,7 +50511,7 @@ Steven Spiers,Pirates of the Caribbean: Dead Mans Chest,2006,Supernatural
 Steven Spiers,Eragon,2006,Cutting Instrument
 Alex Arleo,The Haunting of Whaley House,2012,Cutting Instrument
 Alex Arleo,Sharknado,2013,Animals
-Issei Takahashi,Meatball Machine,2005,Supernatural
+Issei Takahashi,Meatball Machine,2005,Other
 Michael Sullivan,Greasers Palace,1972,Firearms
 Michael Sullivan,Madman,1982,Other
 Aoba Kawai,Meatball Machine,2005,Explosives
@@ -50860,7 +50860,7 @@ Samuel Fuller,"Golem, the Spirit of the Exile",1992,Supernatural
 Samuel Fuller,Somebody to Love,1994,Ailment
 Bryan Pringle,Drowning by Numbers,1988,Drowning
 Richard Perello,Club Dread,2004,Blunt Objects
-Elizabeth Fox,Alien Abduction,2005,Supernatural
+Elizabeth Fox,Alien Abduction,2005,Firearms
 Hans Alfredson,The Girl Who Kicked the Hornets Nest,2009,Personal Weapons
 Daniella Alonso,Snoop Doggs Hood of Horror,2006,Supernatural
 Daniella Alonso,Wrong Turn 2: Dead End,2007,Firearms
@@ -51074,7 +51074,7 @@ John Johnson,The Jester,2007,Other
 John Johnson,The Vampires of Zanzibar,2010,Supernatural
 Claude Dantes,Blood and Black Lace,1964,Poison
 Mikhall Druhan,Blood Sisters,1987,Cutting Instrument
-Matt Mitler,Breeders,1986,Supernatural
+Matt Mitler,Breeders,1986,Other
 Matt Mitler,Deadtime Stories,1986,Supernatural
 Matt Mitler,Basket Case 2,1990,Other
 Ken Roberts,Junior,1985,Drowning
@@ -51087,7 +51087,7 @@ Sarah Newhouse,Dead Dudes in the House,1991,Cutting Instrument
 Angelina Calderon Torres,John Carpenters Vampires,1998,Supernatural
 Erik Markus Schuetz,Kill ‘Em All,2012,Cutting Instrument
 Lava Alapai,Make a Wish,2002,Cutting Instrument
-Michael Bishop,Brain Damage,1988,Supernatural
+Michael Bishop,Brain Damage,1988,Animals
 Mark Bennett,Last Rites,1980,Drowning
 Dan Brown,State of Play,2009,Firearms
 Dan Brown,Everything Everywhere All at Once,2022,Firearms
@@ -51192,7 +51192,7 @@ Janice Fincher,Sacrifice,2000,Cutting Instrument
 Rebecca Stacey,American Nightmare,2002,Firearms
 Monique Parent,Vicious Kiss,1995,Firearms
 Monique Parent,Ladykiller,1996,Cutting Instrument
-Monique Parent,Alien Escape,1997,Supernatural
+Monique Parent,Alien Escape,1997,Strangulation
 Monique Parent,Heartless,1997,Animals
 Monique Parent,Blood Scarab,2008,Cutting Instrument
 Monique Parent,Voodoo Dollz,2008,Firearms
@@ -51513,7 +51513,7 @@ Mark Lynch,The Reaping,2007,Impact
 Mark Lynch,Dance of the Dead,2008,Blunt Objects
 Amber Lee Bartlett,Slither,2006,Supernatural
 Stacey Bartlebaugh-Gmys,Severe Injuries,2003,Cutting Instrument
-Amy Brentano,Breeders,1986,Supernatural
+Amy Brentano,Breeders,1986,Ailment
 Amy Brentano,Robot Holocaust,1986,Other
 Amy Brentano,Blood Sisters,1987,Cutting Instrument
 Susana Latour,Count Dracula’s Great Love,1972,Supernatural
@@ -51682,7 +51682,7 @@ Rebecca Ferguson,Reminiscence,2021,Other
 Rebecca Ferguson,Mission: Impossible - Dead Reckoning Part 1,2023,Cutting Instrument
 Omid Djalili,The Mummy,1999,Supernatural
 Omid Djalili,Pirates of the Caribbean: At Worlds End,2007,Firearms
-Carl Chase,Alien 3,1992,Supernatural
+Carl Chase,Alien 3,1992,Other
 Carl Chase,The Mummy,1999,Supernatural
 Alan Sues,Oh Heavenly Dog!,1980,Animals
 Anthony Mannino,Good Guys Wear Black,1978,Animals
@@ -51700,7 +51700,7 @@ Anthony Crivello,Dillinger and Capone,1995,Firearms
 Anthony Crivello,Shakedown,1988,Impact
 Anthony Crivello,Mafia!,1998,Firearms
 Anthony Crivello,Texas Rangers,2001,Firearms
-Anthony Crivello,Alien Hunter,2003,Supernatural
+Anthony Crivello,Alien Hunter,2003,Firearms
 Eddie Baroo,Ghost Rider,2007,Supernatural
 Brooke Bushman,Drop Dead Gorgeous,1999,Impact
 Jack Standing,Hells Hinges,1916,Firearms
@@ -51791,7 +51791,7 @@ Peter Martell,Death Walks at Midnight,1972,Firearms
 Peter Martell,The French Sex Murders,1972,Cutting Instrument
 Peter Martell,Street People,1976,Impact
 Peter Martell,Killer Barbys vs. Dracula,2002,Other
-Brad Martin,Alien: Resurrection,1997,Supernatural
+Brad Martin,Alien: Resurrection,1997,Firearms
 Brad Martin,Out of Sight,1998,Cutting Instrument
 Brad Martin,The Matrix Reloaded,2003,Cutting Instrument
 Brad Martin,Live Free or Die Hard,2007,Other
@@ -51835,7 +51835,7 @@ Marjorie Main,Dark Command,1940,Firearms
 Marjorie Main,Heaven Can Wait,1943,Ailment
 Marjorie Main,Gentle Annie,1944,Firearms
 Vince Ware,Night of the Living Bread,1990,Impact
-Glory Annen,Alien Prey,1977,Supernatural
+Glory Annen,Alien Prey,1977,Other
 Glory Annen,Spaced Out,1979,Explosives
 David Spade,Warning Shot,2018,Firearms
 Junkichi Orimoto,Three Outlaw Samurai,1964,Blunt Objects
@@ -51870,10 +51870,10 @@ Robert Hogan,The Lady in Red,1979,Firearms
 Jeff McGrail,Shelter,1998,Impact
 Greg Allan Martin,Shelter,1998,Cutting Instrument
 Callie Hernandez,Blair Witch,2016,Impact
-Callie Hernandez,Alien: Covenant,2017,Supernatural
+Callie Hernandez,Alien: Covenant,2017,Other
 Callie Hernandez,Under the Silver Lake,2018,Drowning
 Callie Hernandez,Too Old to Die Young,2019,Supernatural
-Uli Latukefu,Alien: Covenant,2017,Supernatural
+Uli Latukefu,Alien: Covenant,2017,Other
 Uli Latukefu,Black Site,2022,Cutting Instrument
 Uli Latukefu,Black Adam,2022,Firearms
 Rachelle Lefevre,Deception,2004,Cutting Instrument
@@ -51952,10 +51952,10 @@ Bryan Batt,Darlin,2019,Cutting Instrument
 Bryan Batt,Night Teeth,2021,Firearms
 William Mannering,Master and Commander: The Far Side of the World,2003,Other
 Melonie Diaz,The Belko Experiment,2017,Firearms
-Alexander England,Alien: Covenant,2017,Supernatural
-Jussie Smollett,Alien: Covenant,2017,Supernatural
-Nathaniel Dean,Alien: Covenant,2017,Supernatural
-Benjamin Rigby,Alien: Covenant,2017,Supernatural
+Alexander England,Alien: Covenant,2017,Other
+Jussie Smollett,Alien: Covenant,2017,Cutting Instrument
+Nathaniel Dean,Alien: Covenant,2017,Narcotics
+Benjamin Rigby,Alien: Covenant,2017,Ailment
 Benjamin Rigby,Ford v Ferrari,2019,Other
 William R. Perry,Predator 2,1990,Supernatural
 Shooter Jennings,Walk the Line,2005,Other
@@ -52014,7 +52014,7 @@ Steve McDonald,Desperate Teenage Lovedolls,1984,Impact
 Jeffrey McDonald,Desperate Teenage Lovedolls,1984,Other
 Jordan Marder,Lord of Illusions,1995,Cutting Instrument
 Barbara Trentham,The Possession of Joel Delaney,1972,Cutting Instrument
-Natalya Romanycheva,The Alien Girl,2010,Supernatural
+Natalya Romanycheva,The Alien Girl,2010,Firearms
 Céline Lomez,The Silent Partner,1978,Cutting Instrument
 Wilson Dunster,Swift Justice,1987,Cutting Instrument
 Don DeFore,Ramrod,1947,Firearms
@@ -52177,7 +52177,7 @@ Nadja Regin,The Man Without a Body,1957,Strangulation
 Ronald Fraser,The Long And The Short And The Tall,1961,Firearms
 Ronald Fraser,Too Late the Hero,1970,Other
 Ronald Fraser,The Wild Geese,1978,Firearms
-Tess Haubrich,Alien: Covenant,2017,Supernatural
+Tess Haubrich,Alien: Covenant,2017,Cutting Instrument
 Tess Haubrich,Spiderhead,2022,Cutting Instrument
 Shane Steyn,Prometheus,2012,Blunt Objects
 Vladimir 'Furdo' Furdik,Prometheus,2012,Cutting Instrument
@@ -52212,7 +52212,7 @@ Benito Stefanelli,Macho Killers,1977,Firearms
 Benito Stefanelli,Ironmaster,1983,Other
 Benito Stefanelli,Phantom of Death,1988,Supernatural
 Benito Stefanelli,The Pit and the Pendulum,1991,Cutting Instrument
-Andrew Crawford,Alien: Covenant,2017,Supernatural
+Andrew Crawford,Alien: Covenant,2017,Firearms
 Andrew Crawford,Sweetheart,2019,Drowning
 Goran D. Kleut,Pirates of the Caribbean: Dead Men Tell No Tales,2017,Vehicular
 Goran D. Kleut,Furiosa,2024,Cutting Instrument
@@ -52251,7 +52251,7 @@ Ashton Wise,Tales from the Darkside: The Movie,1990,Cutting Instrument
 Anna Maria Rosati,A Bay of Blood,1971,Strangulation
 Lehua Reid,Point of Impact,1993,Firearms
 Mary Reid,The Clan of the Cave Bear,1986,Animals
-Anastasia Coon,Lost Tapes,2009,Supernatural
+Anastasia Coon,Lost Tapes,2009,Animals
 María Elena Marqués,Across the Wide Missouri,1951,Firearms
 Laure Paillette,Shoot the Piano Player,1960,Firearms
 Raf Vallone,El Cid,1961,Cutting Instrument
@@ -52720,7 +52720,7 @@ Han Nah Kim,Circle,2015,Impact
 Nasrin Mohammedi,Circle,2015,Impact
 Michael DiBacco,Circle,2015,Impact
 Christopher Curry,F/X,1986,Explosives
-Christopher Curry,Starship Troopers,1997,Supernatural
+Christopher Curry,Starship Troopers,1997,Vehicular
 Christopher Curry,Sully,2016,Fire
 Brent Stiefel,Circle,2015,Impact
 Vee Kumari,Circle,2015,Impact
@@ -52836,7 +52836,7 @@ Antonio Marsina,Keoma,1976,Cutting Instrument
 Antonio Marsina,The Big Racket,1976,Firearms
 Antonio Marsina,Colt 38 Special Squad,1976,Firearms
 Antonio Marsina,The Mountain of the Cannibal God,1978,Impact
-Jesse Janzen,Unseen Evil 2,2004,Supernatural
+Jesse Janzen,Unseen Evil 2,2004,Cutting Instrument
 Amanda Leatherman,Detention,2011,Explosives
 Ninon Sevilla,Sensualidad,1951,Weather
 Colette Giacobine,Count Dracula,1970,Other
@@ -53311,7 +53311,7 @@ Ashley Rebecca Hawkins,The Butcher,2006,Strangulation
 Courtney Peldon,Mortuary,2005,Fire
 Bill Smitrovich,Renegades,1989,Firearms
 Bill Smitrovich,Nick of Time,1995,Cutting Instrument
-Bill Smitrovich,Independence Day,1996,Supernatural
+Bill Smitrovich,Independence Day,1996,Other
 Bill Smitrovich,Joker: Folie à Deux,2024,Supernatural
 Elsa Martinelli,Marco the Magnificent,1965,Other
 Elsa Martinelli,Marco 7,1967,Impact
@@ -53389,8 +53389,8 @@ Mikhael Wilder,See No Evil,2006,Animals
 Mayo Methot,Corsair,1931,Firearms
 Mayo Methot,Night Club Lady,1932,Blunt Objects
 Brittany Messina,Hoodoo for Voodoo,2006,Cutting Instrument
-Ariyon Bakare,Life,2017,Supernatural
-Olga Dihovichnaya,Life,2017,Supernatural
+Ariyon Bakare,Life,2017,Other
+Olga Dihovichnaya,Life,2017,Other
 Maki Tachibana,Doberman Cop,1977,Other
 Alice Hirson,Nightwing,1979,Vehicular
 Alice Hirson,The Lost,2006,Firearms
@@ -53471,7 +53471,7 @@ Primo Allon,Godzilla,2014,Explosives
 Primo Allon,Dragged Across Concrete,2018,Impact
 Sándor Boros,Severance,2006,Cutting Instrument
 Neil Brown Jr.,Scare Zone,2009,Animals
-Neil Brown Jr.,Battle: Los Angeles,2011,Supernatural
+Neil Brown Jr.,Battle: Los Angeles,2011,Vehicular
 Jasmine Maimone,Magnum Cop,1978,Firearms
 Jasmine Maimone,Demons,1985,Supernatural
 Jasmine Maimone,Paganini Horror,1989,Supernatural
@@ -53528,7 +53528,7 @@ Sybil Thorndike,Macbeth,1922,Other
 Sybil Thorndike,Tense Moments from Great Plays,1922,Other
 Sybil Thorndike,Dawn,1928,Firearms
 Sybil Thorndike,Shake Hands with the Devil,1959,Supernatural
-Marissa Morse,Alien Abduction,2005,Supernatural
+Marissa Morse,Alien Abduction,2005,Firearms
 James Bradshaw,Minotaur,2006,Supernatural
 Don Russell,The Sadist,1963,Supernatural
 Don Russell,The Incredibly Strange Creatures Who Stopped Living and Became Mixed-up Zombies,1964,Supernatural
@@ -53569,7 +53569,7 @@ Natarsha Orsman,Ghost in the Shell,2017,Supernatural
 Dréa Whitburn,Wrecker,2015,Vehicular
 Michael Wilding Jr.,Deadly Illusion,1987,Firearms
 Darnell Williams,Shadowboxer,2005,Firearms
-Susie Silvey,Xtro,1983,Supernatural
+Susie Silvey,Xtro,1983,Other
 Elyn Warner,Color Me Blood Red,1965,Cutting Instrument
 Rachael Bella,Jimmy and Judy,2006,Vehicular
 Rachael Bella,Drive Thru,2007,Vehicular
@@ -53600,7 +53600,7 @@ Anna Wing,Xtro,1983,Cutting Instrument
 Katina Paxinou,Confidential Agent,1945,Poison
 Katina Paxinou,Mourning Becomes Electra,1947,Firearms
 Arthur Simone,Jigsaw,2002,Cutting Instrument
-Tracy Westerholm,Xtro II: The Second Encounter,1991,Supernatural
+Tracy Westerholm,Xtro II: The Second Encounter,1991,Explosives
 Ariadna Welter,The Criminal Life of Archibaldo de la Cruz,1955,Firearms
 Jane March,Blood of Beasts,2003,Supernatural
 Jane March,Grimms Snow White,2012,Cutting Instrument
@@ -53612,7 +53612,7 @@ Stacey Dye,Elves,1990,Supernatural
 Shirley Delancey,Blood for Dracula,1957,Other
 Rebecca Potok,Street of No Return,1989,Firearms
 Bernice Stegers,Macabre,1980,Supernatural
-Bernice Stegers,Xtro,1983,Supernatural
+Bernice Stegers,Xtro,1983,Other
 Hugh Reilly,Chuka,1967,Firearms
 Reilly Murphy,Body Snatchers,1993,Supernatural
 Christine Elise,Body Snatchers,1993,Supernatural
@@ -54338,7 +54338,7 @@ Phillip Fallon,Attack of the Killer Donuts,2016,Other
 Calista Flockhart,Getting In,1994,Other
 Shelby Hofer,Psychopathia Sexualis,2006,Other
 Cindy Harrell,The Final Terror,1983,Supernatural
-Terri Lynn Harris,Candy Stripers,2006,Supernatural
+Terri Lynn Harris,Candy Stripers,2006,Animals
 Lisa Hart,Seeds of Sin,1968,Drowning
 Diane Lee Hart,Bummer,1973,Strangulation
 Sandra Harrison,Blood of Dracula,1957,Cutting Instrument
@@ -54355,7 +54355,7 @@ Amy Marston,Neverwhere,1996,Impact
 Lani Miyazaki,The Organization,1971,Drowning
 Tina Maskell,1408,2007,Impact
 Alexandra Morgan,Deadly Games,1982,Impact
-Adriane Lee,Breeders,1986,Supernatural
+Adriane Lee,Breeders,1986,Ailment
 Adriane Lee,Slammer Girls,1987,Other
 Shanti Lowry,Silent Scream,2005,Firearms
 Julia Lee,The Hillside Strangler,2004,Strangulation
@@ -54529,7 +54529,7 @@ Lea Massari,The Colossus of Rhodes,1961,Impact
 Lea Massari,The Camp Followers,1965,Firearms
 Lea Massari,Allonsanfan,1974,Firearms
 Frances Raines,The Mutilator,1984,Drowning
-Frances Raines,Breeders,1986,Supernatural
+Frances Raines,Breeders,1986,Ailment
 Jeffrey Weissman,Back to the Future Part II,1989,Other
 Sarah Brightman,Repo! The Genetic Opera,2008,Cutting Instrument
 Lia Bugnar,Blood and Chocolate,2007,Other
@@ -54570,11 +54570,11 @@ Jennifer Ashley,Guyana: Cult of the Damned,1979,Firearms
 Jennifer Ashley,Inseminoid,1981,Supernatural
 Matthew Del Negro,Trailer Park of Terror,2008,Supernatural
 Matthew Del Negro,Wind River,2017,Drowning
-Jay Benedict,Aliens,1986,Supernatural
+Jay Benedict,Aliens,1986,Explosives
 Jay Benedict,Double Team,1997,Vehicular
-William Armstrong,Aliens,1986,Supernatural
-Holly De Jong,Aliens,1986,Supernatural
-Christopher Henn,Aliens,1986,Supernatural
+William Armstrong,Aliens,1986,Other
+Holly De Jong,Aliens,1986,Other
+Christopher Henn,Aliens,1986,Other
 Henri Guybet,The Return of the Tall Blond Man with One Black Shoe,1974,Firearms
 Henri Guybet,Dog Day,1984,Animals
 Gioia Pascal,The Third Eye,1966,Cutting Instrument
@@ -54614,7 +54614,7 @@ Brigitte Skay,A Bay of Blood,1971,Cutting Instrument
 Brigitte Skay,SS Death Camp,1977,Supernatural
 Andrea Occhipinti,The New York Ripper,1982,Firearms
 Leslie Cottle,The Woods,2006,Cutting Instrument
-Donald Faison,Skyline,2010,Supernatural
+Donald Faison,Skyline,2010,Other
 Donald Faison,"Game Over, Man!",2018,Firearms
 Edward Holcroft,Kingsman: The Golden Circle,2017,Personal Weapons
 Edward Holcroft,Kindred,2020,Personal Weapons
@@ -54769,7 +54769,7 @@ Caryn Mower,The Contender,2000,Drowning
 Caryn Mower,Vacancy,2007,Other
 Sandy McLeod,Last Embrace,1979,Firearms
 Julia McNeal,Flesh and Bone,1993,Firearms
-Julia McNeal,Not of This Earth,1995,Supernatural
+Julia McNeal,Not of This Earth,1995,Narcotics
 Shannon McMahon,Blood Sisters,1987,Cutting Instrument
 Kellie McKuen,Jolly Roger: Massacre at Cutter’s Cove,2005,Ailment
 Florine McKinney,Beauty for Sale,1933,Impact
@@ -54865,7 +54865,7 @@ Mercy Rooney,Bloody Friday,1974,Firearms
 Ivonne Montero,Asesino en Serio,2002,Ailment
 Gina Rodriguez,My Super Psycho Sweet 16: Part 2,2010,Personal Weapons
 Gina Rodriguez,Annihilation,2018,Animals
-Tony Azito,Necronomicon,1993,Supernatural
+Tony Azito,Necronomicon,1993,Other
 Aja Brown,All About The Money,2017,Firearms
 Liann Pattison,Mask Maker,2010,Strangulation
 Liann Pattison,The Minute You Wake Up Dead,2022,Vehicular
@@ -54900,7 +54900,7 @@ Olja Hrustic,Bikini Bloodbath,2006,Cutting Instrument
 Mika Heilmann,Nightwatch,1994,Cutting Instrument
 Kay Hughes,The Robin Hood of El Dorado,1936,Firearms
 Janice Heiden,99 and 44/100% Dead,1974,Firearms
-Jennifer Hayes,Alien Space Avenger,1989,Supernatural
+Jennifer Hayes,Alien Space Avenger,1989,Firearms
 Elizabeth Hawthorne,The Frighteners,1996,Impact
 Elizabeth Hawthorne,Underworld: Rise of the Lycans,2009,Other
 Marina Stephenson Kerr,Population 436,2006,Strangulation
@@ -54943,7 +54943,7 @@ Alexandrea Owens,Titanic,1997,Drowning
 Judy Prestininzi,Titanic,1997,Drowning
 Jay Pharoah,Unsane,2018,Narcotics
 Jay Pharoah,The Blackening,2023,Firearms
-Kim Bubbs,The Thing,2011,Supernatural
+Kim Bubbs,The Thing,2011,Other
 Stacy Berk,Curse of the Exotic Bikini,2004,Weather
 Natalia Ctchekotikhina,Evil Breed: The Legend of Samhain,2003,Other
 Heidi Hawkins,Evil Breed: The Legend of Samhain,2003,Supernatural
@@ -54977,7 +54977,7 @@ Perrette Pradier,That Man in Istanbul,1965,Firearms
 Andrea Leon,Snoop Doggs Hood of Horror,2006,Supernatural
 Andrea Leon,2001 Maniacs: Field of Screams,2010,Strangulation
 Lynna Hopwood,Skinheads,1989,Firearms
-Carol Hawkins,Zeta One,1969,Supernatural
+Carol Hawkins,Zeta One,1969,Impact
 Carol Hawkins,Up Pompeii,1971,Other
 Mary Beth Hughes,Fast and Furious,1939,Cutting Instrument
 Mary Beth Hughes,The Great Flamarion,1945,Strangulation
@@ -54989,7 +54989,7 @@ Susan Horton,Psychic,1992,Strangulation
 Sarah Horvath,Dark Town,2004,Other
 Jena Hunt,The Hamiltons,2006,Drowning
 Greta Schmidt,Eugenie De Sade,1970,Strangulation
-Abigail Spencer,Cowboys & Aliens,2011,Supernatural
+Abigail Spencer,Cowboys & Aliens,2011,Explosives
 Abigail Spencer,Chasing Mavericks,2012,Ailment
 Skye Stafford,Birth Rate,2003,Explosives
 Cinzia Bonfantini,The Final Executioner,1984,Firearms
@@ -55233,7 +55233,7 @@ Angelo Ragusa,The Heroin Busters,1977,Narcotics
 Angelo Ragusa,Hitch Hike,1977,Vehicular
 Angelo Ragusa,The Inglorious Bastards,1978,Firearms
 Angelo Ragusa,Zombie Holocaust,1980,Supernatural
-Angelo Ragusa,Contamination,1980,Supernatural
+Angelo Ragusa,Contamination,1980,Other
 Angelo Ragusa,1990: Bronx Warriors,1982,Cutting Instrument
 Angelo Ragusa,Atlantis Interceptors,1983,Vehicular
 Angelo Ragusa,Rent-a-Cop,1987,Narcotics
@@ -55506,7 +55506,7 @@ Seung-Joo Lee,The Villainess,2017,Vehicular
 Reine Swart,Triggered,2020,Firearms
 Mirai Yamamoto,Sleepless Town,1998,Firearms
 Toshiya Nagasawa,Sleepless Town,1998,Firearms
-Martin Sorrentino,Contamination,1980,Supernatural
+Martin Sorrentino,Contamination,1980,Other
 Martin Sorrentino,City of the Living Dead,1980,Supernatural
 Martin Sorrentino,Manhattan Baby,1982,Impact
 Shirô Sano,Four Days of Snow and Blood,1989,Firearms
@@ -55580,7 +55580,7 @@ Jack Purvis,Star Wars Episode IV: A New Hope,1977,Explosives
 Anne Dudek,Middle Man,2016,Strangulation
 Paul Frees,Suddenly!,1954,Firearms
 Paul Frees,The Cyclops,1957,Supernatural
-Paul Frees,Space Master X-7,1958,Supernatural
+Paul Frees,Space Master X-7,1958,Other
 Paul Frees,The Magic Sword,1962,Cutting Instrument
 Paul Frees,The Man Called Flinstone,1966,Blunt Objects
 Paul Frees,King Kong Escapes,1967,Impact
@@ -55595,7 +55595,7 @@ Phil Tippett,Piranha,1978,Animals
 Phil Tippett,Star Wars Episode VI: Return of the Jedi,1983,Supernatural
 Kim Kondrashoff,Tales from the Crypt Presents: Bordello of Blood,1996,Other
 Pat Kirkwood,Once A Sinner,1950,Other
-Agnes Albright,Alien: Harvest,2019,Supernatural
+Agnes Albright,Alien: Harvest,2019,Cutting Instrument
 Andy Gill,Cohen and Tate,1989,Firearms
 Andy Gill,Armageddon,1998,Explosives
 Popeck,Le Chien fou,1966,Firearms
@@ -55853,7 +55853,7 @@ Bam Margera,Jackass: The Movie,2002,Explosives
 Dave England,Jackass: The Movie,2002,Explosives
 Ryan Dunn,File:Jackass111dddh.png,2002,Explosives
 William Redfield,Hamlet,1964,Other
-John McCann,The Hidden,1987,Supernatural
+John McCann,The Hidden,1987,Fire
 Mervyn Johns,Moby Dick,1956,Drowning
 Mervyn Johns,Never Let Go,1960,Impact
 Mervyn Johns,The Day Of The Triffids,1962,Narcotics
@@ -56630,7 +56630,7 @@ Dennis Waterman,School For Unclaimed Girls,1969,Blunt Objects
 Dennis Waterman,Man In The Wilderness,1971,Firearms
 Terry Notary,Rise of the Planet of the Apes,2011,Explosives
 Terry Notary,The Cabin in the Woods,2012,Other
-Terry Notary,Avengers: Infinity War,2018,Supernatural
+Terry Notary,Avengers: Infinity War,2018,Impact
 Terry Notary,Avengers: Endgame,2019,Impact
 Terry Notary,Nope,2022,Firearms
 Terry Notary,Kingdom of the Planet of the Apes,2024,Explosives
@@ -56652,8 +56652,8 @@ Jonathan Haze,The Little Shop of Horrors,1960,Supernatural
 Jonathan Haze,The Terror,1963,Supernatural
 Jonathan Haze,The St. Valentines Day Massacre,1967,Firearms
 Cammie King,Gone with the Wind,1939,Other
-Pat Welsh,E.T. the Extra-Terrestrial,1982,Supernatural
-Gary A. Hecker,Independence Day,1996,Supernatural
+Pat Welsh,E.T. the Extra-Terrestrial,1982,Drowning
+Gary A. Hecker,Independence Day,1996,Firearms
 Gary A. Hecker,Godzilla,1998,Impact
 Gary A. Hecker,Darkness Falls,2003,Impact
 Gary A. Hecker,300,2006,Other
@@ -56703,7 +56703,7 @@ Laverne Cox,Jolt,2021,Firearms
 Annaleigh Ashford,The Rocky Horror Picture Show: Lets Do the Time Warp Again,2016,Supernatural
 Annaleigh Ashford,Hold Your Breath,2024,Firearms
 Felicity Young,Out Of The Shadow,1961,Strangulation
-Vivian Palermo,Independence Day,1996,Supernatural
+Vivian Palermo,Independence Day,1996,Other
 Tadao Tomomatsu,Independence Day,1996,Explosives
 Eric Bruskotter,Starship Troopers,1997,Firearms
 Dickie Jones,Sands of Iwo Jima,1949,Firearms
@@ -57134,7 +57134,7 @@ Christopher Murney,Barton Fink,1991,Firearms
 Mark Lee,Gallipoli,1981,Firearms
 Christie Burke,A Single Shot,2013,Firearms
 Jill Dugan,Gun,2010,Firearms
-Melissa Moore,Alien Within,1987,Supernatural
+Melissa Moore,Alien Within,1987,Strangulation
 Melissa Moore,Caged Fury,1989,Other
 Melissa Moore,The Invisible Maniac,1990,Other
 Melissa Moore,Sorority House Massacre II,1990,Cutting Instrument
@@ -57647,7 +57647,7 @@ Roberto Dell'Acqua,Nightmare City,1980,Supernatural
 Roberto Dell'Acqua,The Beyond,1981,Blunt Objects
 Roberto Dell'Acqua,Cop Game,1988,Cutting Instrument
 Roberto Dell'Acqua,Zombie 3,1988,Supernatural
-Roberto Dell'Acqua,Alien from the Deep,1989,Supernatural
+Roberto Dell'Acqua,Alien from the Deep,1989,Animals
 Riccardo Pizzuti,Django Shoots First,1966,Firearms
 Riccardo Pizzuti,Man From Nowhere,1966,Firearms
 Riccardo Pizzuti,Ace High,1968,Firearms
@@ -57679,7 +57679,7 @@ Alexander Ward,Salems Lot,2024,Other
 Nita Patterson,The Electric Chair,1976,Other
 Micah Hauptman,Parker,2013,Firearms
 Micah Hauptman,Rust Creek,2018,Firearms
-Elise Luthman,Dead Night,2017,Supernatural
+Elise Luthman,Dead Night,2017,Other
 Elise Luthman,Do Not Reply,2019,Cutting Instrument
 Joy Osmanski,Dead Night,2017,Impact
 Barry Lineham,The Edgar Wallace Mystery Theatre: The Rivals,1963,Firearms
@@ -57782,7 +57782,7 @@ Rose Ghavami,Poultrygeist: Night of the Chicken Dead,2006,Narcotics
 Kelsey O'Brien,Poultrygeist: Night of the Chicken Dead,2006,Supernatural
 Khalid Rivera,Poultrygeist: Night of the Chicken Dead,2006,Impact
 John Karyus,Poultrygeist: Night of the Chicken Dead,2006,Other
-Mirron E. Willis,Independence Day,1996,Supernatural
+Mirron E. Willis,Independence Day,1996,Other
 Austin Hebert,Jack Reacher: Never Go Back,2016,Firearms
 M. Serrano,Jack Reacher: Never Go Back,2016,Firearms
 Nicole Barre,Jack Reacher: Never Go Back,2016,Firearms
@@ -57960,7 +57960,7 @@ Michiko Kobata,Horrors of Malformed Men,1969,Supernatural
 Toshio Oida,Horrors of Malformed Men,1969,Supernatural
 Arthur Brooks,Independence Day,1996,Impact
 Jay Hopkins,Independence Day,1996,Explosives
-Kevin Cooney,Independence Day,1996,Supernatural
+Kevin Cooney,Independence Day,1996,Other
 Giancarlo Busi,Almost Human,1974,Firearms
 Giancarlo Busi,Killer Cop,1974,Explosives
 Pippo Starnazza,Almost Human,1974,Firearms
@@ -58251,7 +58251,7 @@ Jordan Claire Robbins,Anon,2018,Firearms
 John Gabriel (II),The Pursuers,1961,Firearms
 John Gabriel (II),The Edgar Wallace Mystery Theatre: The Share Out,1962,Cutting Instrument
 Harry Booker,The Brain,1988,Cutting Instrument
-Brett Pearson,The Brain,1988,Supernatural
+Brett Pearson,The Brain,1988,Other
 Susannah Hoffmann,The Brain,1988,Impact
 Susannah Hoffmann,Pay the Ghost,2015,Supernatural
 Bernice Quiggan,The Brain,1988,Cutting Instrument
@@ -58455,7 +58455,7 @@ Malick Bowens,Double Team,1997,Firearms
 Malick Bowens,Tears of the Sun,2003,Explosives
 Devon Graye,Scar,2007,Firearms
 Devon Graye,13 Sins,2014,Cutting Instrument
-Devon Graye,Nope,2022,Supernatural
+Devon Graye,Nope,2022,Vehicular
 Miles Jupp,Journeys End,2017,Other
 Marty Wilde,The Hellions,1961,Firearms
 Ricky Arden,The Hellions,1961,Firearms
@@ -58525,16 +58525,16 @@ Brittany Curran,Exeter,2015,Cutting Instrument
 Brittany Curran,False,2019,Ailment
 Isaura Barbé-Brown,Fantastic Beasts: The Crimes of Grindelwald,2018,Supernatural
 Joe Davison,100 Tears,2007,Firearms
-Ryan Ash,Decoys 2: Alien Seduction,2007,Supernatural
-Reamonn Joshee,Decoys 2: Alien Seduction,2007,Supernatural
-Tyler Johnston,Decoys 2: Alien Seduction,2007,Supernatural
-Ira Lee Gathers,Decoys 2: Alien Seduction,2007,Supernatural
-Troy O'Donnell,Decoys 2: Alien Seduction,2007,Supernatural
-Mark Krysko,Decoys 2: Alien Seduction,2007,Supernatural
-Michelle Molineux,Decoys 2: Alien Seduction,2007,Supernatural
-Lindsay Maxwell,Decoys 2: Alien Seduction,2007,Supernatural
+Ryan Ash,Decoys 2: Alien Seduction,2007,Other
+Reamonn Joshee,Decoys 2: Alien Seduction,2007,Other
+Tyler Johnston,Decoys 2: Alien Seduction,2007,Other
+Ira Lee Gathers,Decoys 2: Alien Seduction,2007,Explosives
+Troy O'Donnell,Decoys 2: Alien Seduction,2007,Other
+Mark Krysko,Decoys 2: Alien Seduction,2007,Ailment
+Michelle Molineux,Decoys 2: Alien Seduction,2007,Fire
+Lindsay Maxwell,Decoys 2: Alien Seduction,2007,Fire
 Lindsay Maxwell,Killer Body,2018,Firearms
-Natalie McFetridge,Decoys 2: Alien Seduction,2007,Supernatural
+Natalie McFetridge,Decoys 2: Alien Seduction,2007,Fire
 Anna Madeley,Affinity,2008,Impact
 Anna Madeley,The Nutcracker and the Four Realms,2018,Other
 Masumi Tachibana,Bakeneko: A Vengeful Spirit,1968,Supernatural
@@ -59029,8 +59029,8 @@ Annie Ilonzeh,Peppermint,2018,Firearms
 Annie Ilonzeh,Agent Game,2022,Firearms
 Annie Ilonzeh,Fear,2023,Drowning
 Lachele Carl,Midnight,1982,Cutting Instrument
-Leon Herbert,Alien 3,1992,Supernatural
-Paul Brennen,Alien 3,1992,Supernatural
+Leon Herbert,Alien 3,1992,Other
+Paul Brennen,Alien 3,1992,Other
 Richie Campbell,Wilderness,2006,Drowning
 Travis Parker,Blindspotting,2018,Firearms
 Cynthea Mercado,Hell Fest,2018,Cutting Instrument
@@ -59368,7 +59368,7 @@ Gerard Cordero,Clean,2021,Firearms
 Sharon Duncan-Brewster,Dune,2021,Cutting Instrument
 Yvonne Zima,The Absent,2011,Strangulation
 Yvonne Zima,The Last Light,2014,Supernatural
-Calum Worthy,Assimilate,2019,Supernatural
+Calum Worthy,Assimilate,2019,Blunt Objects
 Calum Worthy,The Thinning: New World Order,2018,Other
 Lil Rel Howery,Bird Box,2018,Personal Weapons
 Lil Rel Howery,Free Guy,2021,Other
@@ -59674,7 +59674,7 @@ Danny James,Cyborg X,2016,Firearms
 Roger Aaron Brown,The Crazies,1973,Other
 Roger Aaron Brown,Star Trek: The Motion Picture,1979,Other
 Roger Aaron Brown,Near Dark,1987,Vehicular
-Roger Aaron Brown,Alien Nation,1988,Supernatural
+Roger Aaron Brown,Alien Nation,1988,Firearms
 Roger Aaron Brown,DNA,1997,Other
 Roger Aaron Brown,Seeking a Friend for the End of the World,2012,Other
 Paul Tryl,2012,2009,Weather
@@ -60373,7 +60373,7 @@ George Fisher,Commando,1985,Firearms
 George Fisher,Programmed to Kill,1987,Other
 George Fisher,Die Hard 2,1990,Other
 Mike Nussbaum,Men in Black,1997,Cutting Instrument
-Mark Setrakian,Men in Black,1997,Supernatural
+Mark Setrakian,Men in Black,1997,Other
 John Pirruccello,Incarnate,2016,Supernatural
 Bob Mack,Se7en,1995,Other
 Gene Borkan,Sharks Treasure,1975,Animals
@@ -60591,7 +60591,7 @@ Diego Espejel,The Shallows,2016,Animals
 Joseph Salas,The Shallows,2016,Animals
 Gyton Grantley,The Reef,2010,Animals
 Kieran Darcy-Smith,The Reef,2010,Drowning
-Steve Doyle,Alien: Covenant,2017,Supernatural
+Steve Doyle,Alien: Covenant,2017,Other
 Frederick Jaeger,The Black Tent,1956,Firearms
 Frederick Jaeger,Scorpio,1973,Firearms
 Frederick Jaeger,Indiana Jones and the Last Crusade,1989,Impact
@@ -60738,7 +60738,7 @@ Mary Mackenzie,Wanted For Murder,1946,Strangulation
 Dennis Flanagan,Snakeeater,2024,Explosives
 Dennis Flanagan,Charmed,2004,Firearms
 Susan T. Travers,Almost Human,2013,Cutting Instrument
-Vanessa Leigh,Almost Human,2013,Supernatural
+Vanessa Leigh,Almost Human,2013,Vehicular
 Jake Allyn,Sweet Girl,2021,Firearms
 Elena Rossi,Scramble,2017,Firearms
 Debbie Overbey,Eight Legged Freaks,2002,Impact
@@ -60757,7 +60757,7 @@ Pippa Hinchley,Dead Mans Folly,1986,Other
 Guy Van Swearingen,Captive State,2019,Firearms
 Michael Christopher Collins,Captive State,2019,Explosives
 Caitlin Ewald,Captive State,2019,Impact
-Yasen Peyankov,Captive State,2019,Supernatural
+Yasen Peyankov,Captive State,2019,Other
 Avery Lee,Captive State,2019,Cutting Instrument
 Rene L. Moreno,Captive State,2019,Drowning
 Shahadi Wright Joseph,Us,2019,Blunt Objects
@@ -60765,7 +60765,7 @@ Brian Croucher,Underworld,1985,Cutting Instrument
 David Earl Waterman,Eight Legged Freaks,2002,Animals
 Elsa Kikoïne,À laveugle,2012,Strangulation
 Bay Bruner,Dead Men Walking,2005,Firearms
-Jennifer Evans,Evil Aliens,2005,Supernatural
+Jennifer Evans,Evil Aliens,2005,Other
 Bill Blair,Godzilla,2014,Other
 Nathan Mack,Beauty and the Beast,2017,Supernatural
 Emma Watson,Harry Potter and the Deathly Hallows: Part 1,2010,Blunt Objects
@@ -60776,7 +60776,7 @@ Sachli Gholamalizad,Domino,2019,Explosives
 George Lopez,The Adventures of Sharkboy and Lavagirl,2005,Weather
 George Lopez,River Runs Red,2018,Drowning
 George Lopez,The Tax Collector,2020,Other
-Andi Matichak,Assimilate,2019,Supernatural
+Andi Matichak,Assimilate,2019,Strangulation
 Andi Matichak,Son,2021,Firearms
 Rob Campbell,Unforgiven,1992,Firearms
 Ronne Drummond,The Border,1982,Firearms
@@ -61019,7 +61019,7 @@ Dartanian Sloan,Sinister 2,2015,Other
 Juliet Rylance,Sinister,2012,Cutting Instrument
 Linda Marlowe,Night After Night After Night,1969,Cutting Instrument
 Charlie Kemp,Monsternado,2023,Cutting Instrument
-Dieter Riesle,The Avengers,2012,Supernatural
+Dieter Riesle,The Avengers,2012,Other
 Dieter Riesle,Ava,2020,Firearms
 Kristen Miller,File:Kristen Miller.png,2002,Poison
 Bindu De Stoppani,28 Days Later,2002,Animals
@@ -61067,7 +61067,7 @@ Alan Trong,The Tomorrow War,2021,Explosives
 Billy Van Zandt,Jaws 2,1978,Animals
 Ken Camroux-Taylor,Virus,1980,Ailment
 Robert Sedgwick,Tales from the Darkside: The Movie,1990,Supernatural
-Melinda Armstrong,Alien Intruder,1993,Supernatural
+Melinda Armstrong,Alien Intruder,1993,Strangulation
 Annie Ellis,War of the Worlds,2005,Explosives
 Biddy Hodson,Hellboy,2004,Impact
 Josh Finan,Hellboy,2019,Other
@@ -61448,7 +61448,7 @@ Toni Buena,Spring Break Massacre,2008,Cutting Instrument
 Eugene Robert Glazer,Hunters Blood,1986,Firearms
 Eugene Robert Glazer,Intruder,1989,Cutting Instrument
 Eugene Robert Glazer,Bounty Tracker,1993,Firearms
-Eugene Robert Glazer,War of the Worlds,1989,Supernatural
+Eugene Robert Glazer,War of the Worlds,1989,Explosives
 Neil Hallett,Behemoth the Sea Monster,1959,Supernatural
 Neil Hallett,Thunderball,1965,Poison
 Nat Milo,Olympus Has Fallen,2013,Impact
@@ -61505,7 +61505,7 @@ Donna Wilkes,Grotesque,1988,Cutting Instrument
 LoriDawn Messuri,Python,2000,Animals
 LoriDawn Messuri,The Backlot Murders,2002,Cutting Instrument
 Stephen Stanton,Godzilla,2014,Other
-Stephen Stanton,Rogue One,2016,Supernatural
+Stephen Stanton,Rogue One,2016,Other
 Robert Cilinca,Out of Season,2004,Firearms
 Kevin Cole,Hellbound: Hellraiser II,1988,Cutting Instrument
 Joseph Latimore,Lord of Illusions,1995,Cutting Instrument
@@ -62894,7 +62894,7 @@ Rei Okamoto,Beautiful Girl Hunter,1979,Poison
 Natsuko Yashiro,Terrifying Girls High School Animal Courage,1973,Drowning
 Natsuko Yashiro,Beautiful Girl Hunter,1979,Firearms
 Jessica Alexandra Green,Night of the Flesh Eaters,2008,Cutting Instrument
-Jessica Alexandra Green,Alien Opponent,2010,Supernatural
+Jessica Alexandra Green,Alien Opponent,2010,Firearms
 Jessica Alexandra Green,Campus Code,2015,Other
 Noah Wyle,The World Made Straight,2015,Vehicular
 Yvonne Arnaud,Tomorrow We Live,1943,Firearms
@@ -64235,7 +64235,7 @@ Marin Ireland,Eileen,2023,Poison
 Stephen Barrington,All Day and a Night,2020,Firearms
 Cydnee Barry,All Day and a Night,2020,Firearms
 Isaiah John,All Day and a Night,2020,Cutting Instrument
-Susan Willis,The Faculty,1998,Supernatural
+Susan Willis,The Faculty,1998,Animals
 Jim Wilhelm,Jaws 3-D,1983,Animals
 Daniel Stewart (II),Jaws 3-D,1983,Animals
 Ratko Tankosic,Balkan Express,1983,Firearms
@@ -64284,7 +64284,7 @@ Scott Westmoreland,Slumber Party Massacre II,1987,Cutting Instrument
 Leonardo Monfardini,Il Suicidio della Rivoluzione,2012,Other
 Erick Zamora,Terrifier,2016,Cutting Instrument
 Nick Gillard,Indiana Jones and the Last Crusade,1989,Vehicular
-Nick Gillard,Alien 3,1992,Supernatural
+Nick Gillard,Alien 3,1992,Other
 Nick Gillard,Star Wars Episode III: Revenge of the Sith,2005,Cutting Instrument
 Rebekah Kennedy,House Hunting,2013,Cutting Instrument
 Elisa Pagano,Il Suicidio della Rivoluzione,2013,Poison
@@ -64341,7 +64341,7 @@ Tim Culbertson,On the Edge,2002,Other
 Georgia Chara,Nazi Undead,2018,Cutting Instrument
 Georgia Chara,Life of the Party,2018,Ailment
 Jon Iles,Mad Max: Fury Road,2015,Impact
-Robert Faltisco,Alien: Resurrection,1997,Supernatural
+Robert Faltisco,Alien: Resurrection,1997,Firearms
 Robert Faltisco,Godzilla,1998,Other
 Sasa Bjurling,Drowning Ghost,2004,Drowning
 Giuseppe Addobbati,The Monster of the Opera,1964,Supernatural
@@ -64810,7 +64810,7 @@ Seregon O'Dassey,Jokers Wild,2016,Supernatural
 Seregon O'Dassey,Death at a Barbecue,2017,Cutting Instrument
 Seregon O'Dassey,Surviving the Outbreak,2017,Personal Weapons
 Sharon Williams,Dont Look Now,1973,Drowning
-Cristina Tiberia,Brain Dead,2007,Supernatural
+Cristina Tiberia,Brain Dead,2007,Animals
 Michelle Tomlinson,Brain Dead,2007,Strangulation
 Tess McVicker,Brain Dead,2007,Cutting Instrument
 Jean-Francois Poirier,Bloody Slumber Party,2014,Cutting Instrument
@@ -65789,7 +65789,7 @@ Lionel Royce,"Secret Service in Darkest Africa Ch.15, Nazi Treachery Unmasked",1
 Frederic Brunn,Secret Service in Darkest Africa,1943,Impact
 Frederic Brunn,Tarzan and the Amazons,1945,Other
 Brian Landis Folkins,Rent-A-Pal,2020,Cutting Instrument
-Aleksey Demidov,Sputnik,2020,Supernatural
+Aleksey Demidov,Sputnik,2020,Other
 Anna Tolputt,Hellraiser: Hellworld,2005,Cutting Instrument
 Kathleen Brady,Rent-A-Pal,2020,Impact
 Emily Sweet,Mindframe,2019,Other
@@ -66126,7 +66126,7 @@ Carol Cummings,Last Dance,1992,Strangulation
 Carol Cummings,Psycho Cop 2,1993,Cutting Instrument
 Lainie Frasier,Confessions of a Serial Killer,1985,Cutting Instrument
 Isabela Merced,Madame Web,2024,Other
-Isabela Merced,Alien: Romulus,2024,Supernatural
+Isabela Merced,Alien: Romulus,2024,Other
 Scott Peters,The FBI Story,1959,Firearms
 Scott Peters,The Canadians,1961,Impact
 Teresa Stratas,The Canadians,1961,Firearms
@@ -68058,7 +68058,7 @@ Jason Warren,Killer Party,1986,Animals
 Bruce Beeby,The Devil Ship Pirates,1964,Supernatural
 Adam Basil,The Old Guard,2020,Personal Weapons
 B.J. Barie,The Borrower,1991,Cutting Instrument
-Pam Gordon,The Borrower,1991,Supernatural
+Pam Gordon,The Borrower,1991,Other
 Bob Gunter,Maximum Overdrive,1986,Blunt Objects
 Bob Gunter,Point of No Return,1993,Vehicular
 Ellen McElduff,Maximum Overdrive,1986,Firearms
@@ -68739,7 +68739,7 @@ Joe Flynn,Indestructible Man,1956,Strangulation
 Marvin Press,Indestructible Man,1956,Other
 Olwen Brookes,A Night to Remember,1958,Weather
 Matthew Yang King,Species III,2004,Supernatural
-Rob Hinderstein,Species III,2004,Supernatural
+Rob Hinderstein,Species III,2004,Other
 Andreas Fronk,Hunt,2022,Firearms
 Andreas Fronk,Kill Boksoon,2023,Firearms
 Kurupt,Vice,2008,Other
@@ -69795,7 +69795,7 @@ John Stinson,Creature,1985,Supernatural
 Annette McCarthy,Creature,1985,Supernatural
 Srdjan Zelenovic,Andy Warhols Frankenstein,1973,Supernatural
 Joe Piscopo,Dead Heat,1988,Drowning
-Kaitlyn Dever,No One Will Save You,2023,Supernatural
+Kaitlyn Dever,No One Will Save You,2023,Cutting Instrument
 Kaitlyn Dever,Next Goal Wins,2023,Vehicular
 Lu Cheung,Ebola Syndrome,1996,Ailment
 Bobby Yip,First Shot,1993,Firearms
@@ -69942,7 +69942,7 @@ Beauty Gonzalez,Izla,2021,Supernatural
 Witawat Singlampong,4Bia,2008,Fire
 David Olawale Ayinde,No Time To Die,2021,Ailment
 Marian Lorencik,Kingsman: The Secret Service,2015,Explosives
-Juke Hardy,Alien: Covenant,2017,Supernatural
+Juke Hardy,Alien: Covenant,2017,Other
 Obie Matthew,No Time To Die,2021,Firearms
 Benjamin Flores Jr.,Fear Street Part Three: 1666,2021,Cutting Instrument
 Michael Chandler,Fear Street Part Three: 1666,2021,Cutting Instrument
@@ -73167,7 +73167,7 @@ Karen Fukuhara,The Boy and the Heron,2023,Firearms
 Kamil Aydin,Bullet Train,2022,Firearms
 Mitsuyo Suwa,Cure,1997,Blunt Objects
 Misayo Haruki,Cure,1997,Other
-Kenjirô Tsuda,Shin Ultraman,2022,Supernatural
+Kenjirô Tsuda,Shin Ultraman,2022,Cutting Instrument
 Shôgo Suzuki,Cure,1997,Firearms
 Shinichirô Inoue,Cure,1997,Cutting Instrument
 Emiko Hattori,Cure,1997,Other
@@ -73201,7 +73201,7 @@ Dany Verissimo-Petit,Girls with Balls,2018,Firearms
 Arnaldo Dell'Acqua,Cop Game,1988,Cutting Instrument
 Arnaldo Dell'Acqua,The Spider Labyrinth,1988,Animals
 Robert Marius,Cop Game,1988,Vehicular
-Robert Marius,Alien from the Deep,1989,Supernatural
+Robert Marius,Alien from the Deep,1989,Impact
 Cédric Constantin,Girls with Balls,2018,Firearms
 Anne-Solenne Harte,Girls with Balls,2018,Cutting Instrument
 Nick Klar,Neon City,1991,Firearms
@@ -73215,11 +73215,11 @@ Jeff Bergman,Batman: Return of the Caped Crusaders,2016,Explosives
 Jeff Bergman,Space Jam: A New Legacy,2021,Animals
 Paco Morán,The Blancheville Monster,1963,Supernatural
 Gara Granda,The Third Eye,1966,Strangulation
-Roman Gross,Nope,2022,Supernatural
-Lincoln Lambert,Nope,2022,Supernatural
+Roman Gross,Nope,2022,Other
+Lincoln Lambert,Nope,2022,Other
 Pierce Kang,Nope,2022,Supernatural
-Wrenn Schmidt,Nope,2022,Supernatural
-Courtney Elizabeth,Nope,2022,Supernatural
+Wrenn Schmidt,Nope,2022,Other
+Courtney Elizabeth,Nope,2022,Other
 Andrew Patrick Ralston,Nope,2022,Personal Weapons
 Sarah Ferrati,The Witch,1966,Fire
 Emmett James,Titanic,1997,Weather
@@ -73646,7 +73646,7 @@ Lidia Krivan,Evil Judgment,1984,Other
 Ugo Cardea,Island of Crime,1968,Firearms
 Elina Madison,Curse of the Forty-Niner,2002,Other
 John Sullivan,The Pink Panther Strikes Again,1976,Animals
-Svetla Vasileva,Alien Hunter,2003,Supernatural
+Svetla Vasileva,Alien Hunter,2003,Ailment
 P.W. Williams,Mirage,1995,Firearms
 James Andronica,Mirage,1995,Impact
 Jessica Gonzalez,Mirage,1995,Firearms
@@ -73769,7 +73769,7 @@ Marc Dietrich,"Silent Night, Deadly Night III: Better Watch Out!",1989,Drowning
 Gerry Black,"Silent Night, Deadly Night 5: The Toy Maker",1991,Animals
 Eric Welch,"Silent Night, Deadly Night 5: The Toy Maker",1991,Cutting Instrument
 Dane DiLiegro,Prey,2022,Supernatural
-Dane DiLiegro,V/H/S/Beyond,2024,Supernatural
+Dane DiLiegro,V/H/S/Beyond,2024,Firearms
 Elisse Joson,"The Mall, The Merrier",2019,Vehicular
 Carlo Landa,Who Killed the Prosecutor and Why?,1972,Cutting Instrument
 Unknown Actor 135-B,Who Killed the Prosecutor and Why?,1972,Fire
@@ -74137,7 +74137,7 @@ Adhi Permana,The Raid: Redemption,2011,Firearms
 Lee Hartman,Night of the Living Dead,1968,Supernatural
 Douglas Sheldon,Some Girls Do,1969,Drowning
 Don McCorkindale,Jack the Giant Slayer,2013,Supernatural
-Joel Courtney,Assimilate,2019,Supernatural
+Joel Courtney,Assimilate,2019,Strangulation
 Joel Courtney,Sick,2023,Ailment
 Christian Blaque Meier,My Sisters Serial Killer Boyfriend,2023,Cutting Instrument
 Steve Olson,My Sisters Serial Killer Boyfriend,2023,Strangulation
@@ -74366,7 +74366,7 @@ Paula Coiz,Winnie-The-Pooh: Blood and Honey,2022,Strangulation
 May Kelly,Curse of Humpty Dumpty 2,2022,Cutting Instrument
 May Kelly,Nutcracker Massacre,2022,Strangulation
 May Kelly,The Killing Tree,2022,Impact
-May Kelly,Alien Invasion,2023,Supernatural
+May Kelly,Alien Invasion,2023,Cutting Instrument
 May Kelly,The Loch Ness Horror,2023,Supernatural
 May Kelly,Monsternado,2023,Animals
 May Kelly,Punch,2023,Personal Weapons
@@ -75493,7 +75493,7 @@ Mara Lopez,Haunted Mansion,2015,Supernatural
 Mara Lopez,BuyBust,2018,Firearms
 Shigeji Takada,Violent Streets,1974,Firearms
 Dianna Agron,Clock,2023,Impact
-Phillip Gordon (II),Alien from the Deep,1989,Supernatural
+Phillip Gordon (II),Alien from the Deep,1989,Animals
 Alessandra De Rossi,Spirit of the Glass,2004,Supernatural
 Alessandra De Rossi,Kutob,2005,Cutting Instrument
 Alessandra De Rossi,Hide & Seek,2007,Cutting Instrument
@@ -76236,7 +76236,7 @@ Chalo González,Bring Me the Head of Alfredo Garcia,1974,Firearms
 Sundra Jean Williams,Def by Temptation,1990,Vehicular
 Juan Antonio Bardem,The Corruption of Chris Miller,1973,Cutting Instrument
 Barry Stokes,The Corruption of Chris Miller,1973,Cutting Instrument
-Barry Stokes,Prey,1977,Supernatural
+Barry Stokes,Prey,1977,Other
 Alicia Altabella,The Corruption of Chris Miller,1973,Cutting Instrument
 María Bardem,The Corruption of Chris Miller,1973,Cutting Instrument
 Miguel Bardem,The Corruption of Chris Miller,1973,Cutting Instrument
@@ -76277,7 +76277,7 @@ Mike Gayoso,Ang Joker at ang Pistolero,1998,Firearms
 Reuben Moreno,Coffy,1973,Firearms
 Jack Forcinito,Click: The Calendar Girl Killer,1990,Explosives
 Gregory Calpakis,When Justice Fails,1999,Poison
-Michael Scherer,"Abraxas, Guardian of the Universe",1991,Supernatural
+Michael Scherer,"Abraxas, Guardian of the Universe",1991,Other
 Johnny Askwith,"Abraxas, Guardian of the Universe",1991,Vehicular
 Cha Eun-woo,Decibel,2022,Drowning
 David Lee Valle,Olympus Has Fallen,2013,Impact
@@ -76555,7 +76555,7 @@ Marie Bergenholtz,Evil Ed,1995,Strangulation
 Roger Olsson,Evil Ed,1995,Personal Weapons
 Gert Fylking,Evil Ed,1995,Firearms
 Johan Rudebeck,Evil Ed,1995,Firearms
-Peter Taylor,Village of the Damned,1960,Supernatural
+Peter Taylor,Village of the Damned,1960,Explosives
 Alan Larson,Beaks The Movie,1987,Animals
 Amanda Cacho,Beaks The Movie,1987,Other
 Robert Barron,Superman,1948,Other
@@ -76625,7 +76625,7 @@ Gillian Broderick,The Killing Tree,2022,Impact
 Gillian Broderick,Snake Hotel,2023,Animals
 Gillian Broderick,Mary Had a Little Lamb,2023,Other
 Nikolai Leon,The Killing Tree,2022,Impact
-Nikolai Leon,Alien Invasion,2023,Supernatural
+Nikolai Leon,Alien Invasion,2023,Drowning
 Kelly Rian Sanson,Curse of Humpty Dumpty 2,2022,Cutting Instrument
 Kelly Rian Sanson,The Killing Tree,2022,Impact
 Kelly Rian Sanson,Curse of Jack Frost,2022,Cutting Instrument
@@ -78218,7 +78218,7 @@ Gage Marsh,It Lives Inside,2023,Cutting Instrument
 Gage Marsh,Calamity Jane,2024,Firearms
 Gage Marsh,Festival of the Living Dead,2024,Supernatural
 Daniel Betts,The Good Liar,2019,Strangulation
-Daniel Betts,Alien: Romulus,2024,Supernatural
+Daniel Betts,Alien: Romulus,2024,Explosives
 Athena Strates,The Good Liar,2019,Other
 Hung Wong,The Dragon Family,1988,Supernatural
 Hung Wong,My Heart Is That Eternal Rose,1989,Firearms
@@ -78287,7 +78287,7 @@ Julius Denem,Waist Deep,2006,Firearms
 Amber McKenzie,Pickaxe,2014,Cutting Instrument
 Karl Lanchbury,Vampyres,1974,Cutting Instrument
 Sally Faulkner,Vampyres,1974,Cutting Instrument
-Sally Faulkner,Prey,1977,Supernatural
+Sally Faulkner,Prey,1977,Impact
 Darrell D'Silva,Jimmys End,2012,Impact
 Darrell D'Silva,His Heavy Heart,2014,Supernatural
 Darrell D'Silva,Show Pieces,2014,Supernatural
@@ -78978,8 +78978,8 @@ Rockey Dickey Jr.,Iron Man 3,2013,Firearms
 Judith Brown,A Queens Ransom,1976,Cutting Instrument
 Aly Zhang,What Goes Around,2020,Other
 Ken Yamamura,The Wolverine,2013,Animals
-Ronald Knight,Galaxina,1980,Supernatural
-Jacqueline Jacobs,Galaxina,1980,Supernatural
+Ronald Knight,Galaxina,1980,Impact
+Jacqueline Jacobs,Galaxina,1980,Other
 Jacqueline Jacobs,My Moms a Werewolf,1989,Supernatural
 Emily Van Raay,Hurt,2018,Strangulation
 Natalie Liconti,Blood Quantum,2019,Supernatural
@@ -79641,7 +79641,7 @@ Molly Nutley,Alena,2015,Cutting Instrument
 Ray Buffer,Bullet Train,2022,Firearms
 Mike Ferguson,Bullet Train,2022,Firearms
 Mike Ferguson,The Flood,2023,Drowning
-Mike Ferguson,V/H/S/Beyond,2024,Supernatural
+Mike Ferguson,V/H/S/Beyond,2024,Firearms
 David Kuahiwinui,Bullet Train,2022,Firearms
 Mark O'Regan,In the Land of Saints and Sinners,2023,Firearms
 Almudena Amor,Sister Death,2023,Strangulation
@@ -80693,7 +80693,7 @@ Lito Lapid,Jack Em Popoy: The Puliscredibles,2018,Firearms
 Léa Léviant,Under Paris,2024,Animals
 Nagisa Morimoto,Under Paris,2024,Impact
 Todd Schneider,Underworld,2003,Other
-Aileen Wu,Alien: Romulus,2024,Supernatural
+Aileen Wu,Alien: Romulus,2024,Explosives
 Veronica Clifford,Up Pompeii,1971,Other
 Tristán Ulloa,Terminator: Dark Fate,2019,Firearms
 William Powell,The Great Gatsby,1926,Firearms
@@ -80765,11 +80765,11 @@ Melissa LaMartina,Last Night at Terrace Lanes,2024,Cutting Instrument
 Domingo Codesido Ascanio,The Killer is Not Alone,1975,Firearms
 Brent Katz,Amityville II: The Possession,1982,Firearms
 Jan Bluthart,Cuckoo,2024,Firearms
-Robert Bobroczkyi,Alien: Romulus,2024,Supernatural
+Robert Bobroczkyi,Alien: Romulus,2024,Other
 Archie Renaux,Alien: Romulus,2024,Supernatural
-Spike Fearn,Alien: Romulus,2024,Supernatural
+Spike Fearn,Alien: Romulus,2024,Fire
 Max Kraus,The Princess,2022,Cutting Instrument
-William Paulson,TerrorVision,1986,Supernatural
+William Paulson,TerrorVision,1986,Strangulation
 Younes Boutinane,The Princess,2022,Other
 Corrinne Skinner-Carter,Up Pompeii,1971,Other
 Jean-Adrien Espiasse,The Princess,2022,Cutting Instrument
@@ -81276,12 +81276,12 @@ Sayandeep Sengupta,V/H/S/Beyond,2024,Other
 Peter Thias,Taken 3,2014,Firearms
 Cédric Chevalme,Taken 3,2014,Firearms
 Rhett Wellington,V/H/S/Beyond,2024,Cutting Instrument
-Jerry Campisi,V/H/S/Beyond,2024,Supernatural
-Bix Krieger,V/H/S/Beyond,2024,Supernatural
-Hannah McBride,V/H/S/Beyond,2024,Supernatural
+Jerry Campisi,V/H/S/Beyond,2024,Firearms
+Bix Krieger,V/H/S/Beyond,2024,Firearms
+Hannah McBride,V/H/S/Beyond,2024,Strangulation
 Kevin Bohleber,V/H/S/Beyond,2024,Animals
 Jenna McCarthy,V/H/S/Beyond,2024,Cutting Instrument
-Alanah Pearce,V/H/S/Beyond,2024,Supernatural
+Alanah Pearce,V/H/S/Beyond,2024,Firearms
 Dickens Chan Wing-Chung,Todays Hero,1991,Animals
 Samantha Scaffidi,Terrifier 3,2024,Cutting Instrument
 David Pittu,Men in Black 3,2012,Other
